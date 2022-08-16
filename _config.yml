@@ -11,10 +11,9 @@ title                    : "Lu Cheng / 程璐"
 title_separator          : "-"
 name                     : &name "Lu Cheng"
 description              : &description "personal description"
-url                      : https://GitHubLuCheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://GitHubLuCheng.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GitHubLuCheng/GitHubLuCheng.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @luchengSRAI
 facebook:
   username               :
   app_id                 :
@@ -83,7 +82,7 @@ author:
   name             : "Lu Cheng"
   avatar           : "profile.png"
   bio              : "Department of Computer Science, University of Illinois Chicago (UIC)"
-  location         : "SOE 1136. 851 S Morgan St, Chicago, IL 60607."
+  location         : "SOE 1136. 851 S Morgan St <br/> Chicago, IL 60607"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9rpkTSkAAAAJ&hl=en"
@@ -96,20 +95,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GitHubLuCheng"
+  github           : "https://github.com/GitHubLuCheng"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0002-2503-2522"
   pinterest        :
   soundcloud       :
- # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@luchengSRAI"
+  twitter          : "https://twitter.com/luchengSRAI"
   vine             :
   weibo            :
   xing             :
