@@ -11,7 +11,7 @@ title                    : "Lu Cheng / 程璐"
 title_separator          : "-"
 name                     : &name "Lu Cheng"
 description              : &description "personal description"
-url                      : "https://GitHubLuCheng.github.io"
+url                      : "https://lucheng.ml"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GitHubLuCheng/GitHubLuCheng.github.io"
 breadcrumbs              : false # true, false (default)
