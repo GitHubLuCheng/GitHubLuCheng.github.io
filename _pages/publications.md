@@ -118,9 +118,3 @@ author_profile: true
 *   BullyBlocker: Detecting Cyberbullying Victimization Risk through an Interdisciplinary Identification Model  
     A. Trow, L. Jiang, <u>L. Cheng</u>, C. Sanchez, V. Delgadillo, D. Hall, Y. Silva.  
     The Western Psychological Association (WPA) Convention, Portland, OR, USA, 2018.
-
-[//]: # ({% for post in site.publications reversed %})
-
-[//]: # (  {% include archive-single.html %})
-
-[//]: # ({% endfor %})
