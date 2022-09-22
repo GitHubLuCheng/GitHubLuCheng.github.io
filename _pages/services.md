@@ -11,17 +11,17 @@ Conference Organizer
 
 Senior Program Committee
 
-*   AAAI'22
+*   AAAI'22-23
 
 Conference Program Committee
 
 *   KDD'22
-*   AAAI'21,22
+*   AAAI'21-23
 *   ACL Rolling Review'22
 *   WSDM'22
 *   IEEE CogMI'21
 *   IEEE DQIS'21
-*   EMNLP'21
+*   EMNLP'21-22
 *   MAISoN'21
 *   CYBER'21
 *   IEEE SMDS'21
@@ -37,28 +37,15 @@ Conference External Reviewer
 
 Journal Reviewer
 
-*   IEEE Access, PLOS ONE, Technology in Society, CSUR, IEEE TKDE, COSE, IEEE TCSS, IEEE TAI, SNAM, ACM TKDD
+*   Data Mining and Knowledge Discovery, IEEE Access, PLOS ONE, Technology in Society, CSUR, IEEE TKDE, COSE, IEEE TCSS, IEEE TAI, SNAM, ACM TKDD
 
 Book Proposal Reviewer
 
 *   Springer Nature
 
-Mentoring
-
-*   Ujun Jeong, ASU
-*   [Anique Tahir](https://cat.ninja), ASU
-*   Faisai Alatawi, ASU
-*   [David Mosallanezhad](https://www.google.com/url?q=https://urldefense.com/v3/__https://davood-m.github.io/__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTPQ9oRX4$&source=gmail-html&ust=1661048459929000&usg=AOvVaw0P8OPe1_12YyTmSy-_7xy1) , ASU
-*   Paras Sheth, ASU
-*   Nayoung Kim, ASU
-*   [Suyu Ge](https://www.google.com/url?q=https://urldefense.com/v3/__https://gesy17.github.io/__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTcRJhYNs$&source=gmail-html&ust=1661048459929000&usg=AOvVaw3HnuBCR674t_SuJTuRuzY_), Tsinghua University
-
-Group Member
-
-*   [MD4SG](https://www.google.com/url?q=https://urldefense.com/v3/__http://md4sg.com/__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTnYGVf1A$&source=gmail-html&ust=1661048459929000&usg=AOvVaw0fIr28vxzgJJEOwMmAlzGU)
-
 Volunteer
 
+*   ICWSM'22
 *   Painting for a Cause, ASU Community Service, 2021
 *   AISTATS'21
 *   KDD'20
