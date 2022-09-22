@@ -5,6 +5,7 @@ permalink: /honors/
 author_profile: true
 ---
 
+*   ASU Computer Science Outstanding Doctoral Student, 2022
 *   Doctoral Forum Best Poster, SDM 2022
 *   CIDSE Doctoral Fellowship, 2022 Spring
 *   WSDM Student Travel Award, 2022
