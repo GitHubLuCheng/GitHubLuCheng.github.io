@@ -29,7 +29,7 @@ Conference Program Committee
 *   CySoc'21,22
 *   ASONAM'21
 *   ACM MM'21,22
-*   SBP-BRiMS'19,20,21
+*   SBP-BRiMS'19-22
 
 Conference External Reviewer
 
