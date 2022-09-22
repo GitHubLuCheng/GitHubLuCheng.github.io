@@ -20,8 +20,11 @@ author_profile: true
 *   Debiasing Word Embeddings with Nonlinear Geometry [[pdf]](https://arxiv.org/pdf/2208.13899.pdf)[[code]](https://github.com/GitHubLuCheng/Implementation-of-JoSEC-COLING-22)
     <u>Lu Cheng</u>, Nayoung Kim, and Huan Liu 
     In the 29th International Conference on Computational Linguistics (COLING). Hybrid. October 12-17, 2022.
+*   Classifying COVID-19 related Meta Ads using Discourse Representation through Hypergraph
+    Ujun Jeong, Zeyad Alghamdi, Kaize Ding, <u>Lu Cheng</u>, Baoxin Li, and Huan Liu
+    In the 15th SBP-BRiMS. Pittsburg. Sept. 20-22. 2022
 *   Improving Vaccine Stance Detection by Combining Online and Offline Data [[pdf]](https://arxiv.org/pdf/2208.04491.pdf)
-    Anique Tahir, <u>Lu Cheng</u>, Paras Sheeth, and Huan Liu
+    Anique Tahir, <u>Lu Cheng</u>, Paras Sheth, and Huan Liu
     In the 15th SBP-BRiMS. Pittsburg. Sept. 20-22. 2022
 *   Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data [[pdf]](https://arxiv.org/pdf/2208.03907.pdf)
     Nayoung Kim, Ahmadreza Mosallanezhad, <u>Lu Cheng</u>, Baoxin Li, and Huan Liu
