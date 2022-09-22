@@ -17,20 +17,20 @@ author_profile: true
     ArXiv. 2021.
 
 ## Accepted Papers
-*   Debiasing Word Embeddings with Nonlinear Geometry [[pdf]](https://arxiv.org/pdf/2208.13899.pdf)[[code]](https://github.com/GitHubLuCheng/Implementation-of-JoSEC-COLING-22)
-    <u>Lu Cheng</u>, Nayoung Kim, and Huan Liu 
+*   Debiasing Word Embeddings with Nonlinear Geometry [[pdf]](https://arxiv.org/pdf/2208.13899.pdf)[[code]](https://github.com/GitHubLuCheng/Implementation-of-JoSEC-COLING-22)<br/>
+    <u>Lu Cheng</u>, Nayoung Kim, and Huan Liu <br/>
     In the 29th International Conference on Computational Linguistics (COLING). Hybrid. October 12-17, 2022.
-*   Classifying COVID-19 related Meta Ads using Discourse Representation through Hypergraph
-    Ujun Jeong, Zeyad Alghamdi, Kaize Ding, <u>Lu Cheng</u>, Baoxin Li, and Huan Liu
+*   Classifying COVID-19 related Meta Ads using Discourse Representation through Hypergraph <br/>
+    Ujun Jeong, Zeyad Alghamdi, Kaize Ding, <u>Lu Cheng</u>, Baoxin Li, and Huan Liu <br/>
     In the 15th SBP-BRiMS. Pittsburg. Sept. 20-22. 2022
-*   Improving Vaccine Stance Detection by Combining Online and Offline Data [[pdf]](https://arxiv.org/pdf/2208.04491.pdf)
-    Anique Tahir, <u>Lu Cheng</u>, Paras Sheth, and Huan Liu
+*   Improving Vaccine Stance Detection by Combining Online and Offline Data [[pdf]](https://arxiv.org/pdf/2208.04491.pdf)<br/>
+    Anique Tahir, <u>Lu Cheng</u>, Paras Sheth, and Huan Liu <br/>
     In the 15th SBP-BRiMS. Pittsburg. Sept. 20-22. 2022
-*   Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data [[pdf]](https://arxiv.org/pdf/2208.03907.pdf)
-    Nayoung Kim, Ahmadreza Mosallanezhad, <u>Lu Cheng</u>, Baoxin Li, and Huan Liu
+*   Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data [[pdf]](https://arxiv.org/pdf/2208.03907.pdf)<br/>
+    Nayoung Kim, Ahmadreza Mosallanezhad, <u>Lu Cheng</u>, Baoxin Li, and Huan Liu<br/>
     In the 15th SBP-BRiMS. Pittsburg. Sept. 20-22. 2022
-*   Bias Mitigation for Toxicity Detection via Sequential Decisions [[pdf]](https://ysilva.cs.luc.edu/BullyBlocker/documents/BiasMitCB-SIGIR22.pdf) 
-    <u>Lu Cheng</u>, Ahmadreza Mosallanezhad, Yasin Silva, Deborah Hall, and Huan Liu  
+*   Bias Mitigation for Toxicity Detection via Sequential Decisions [[pdf]](https://ysilva.cs.luc.edu/BullyBlocker/documents/BiasMitCB-SIGIR22.pdf) <br/>
+    <u>Lu Cheng</u>, Ahmadreza Mosallanezhad, Yasin Silva, Deborah Hall, and Huan Liu <br/> 
     In the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR). Madrid. July 11-15, 2022.
 *   Evaluation Methods and Measures for Causal Learning Algorithms [[pdf]](https://www.google.com/url?q=https://urldefense.com/v3/__https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber%3D9709543__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTLFxXAa8$&source=gmail-html&ust=1661048459927000&usg=AOvVaw2QXRn6qSDRkfT3xzzd61U0)  
     <u>Lu Cheng</u>, Ruocheng Guo, Raha Moraffah, Paras Sheth, K. Selcuk Candan, and Huan Liu  
