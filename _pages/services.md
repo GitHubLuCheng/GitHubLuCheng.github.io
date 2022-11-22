@@ -17,7 +17,7 @@ Conference Program Committee
 
 *   KDD'22
 *   AAAI'21-23
-*   ACL Rolling Review'22
+*   ACL Rolling Review'22,23
 *   WSDM'22
 *   IEEE CogMI'21
 *   IEEE DQIS'21
