@@ -9,12 +9,16 @@ Conference Organizer
 
 *   Web Chair, WSDM'22
 
+Session Chair
+*   FAccT'22
+
 Senior Program Committee
 
 *   AAAI'22-23
 
 Conference Program Committee
 
+*   The Web Conference'23
 *   KDD'22
 *   AAAI'21-23
 *   ACL Rolling Review'22,23
