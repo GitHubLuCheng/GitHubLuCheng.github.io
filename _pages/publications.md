@@ -17,6 +17,12 @@ author_profile: true
     ArXiv. 2021.
 
 ## Accepted Papers
+*   Distributional Shift Adaptation using Domain-Specific Features [[pdf]](https://arxiv.org/pdf/2211.04670.pdf)<br/> 
+Anique Tahir, <u>Lu Cheng</u>, Ruocheng Guo, and Huan Liu<br/>
+In IEEE BigData'22
+*   Nothing Stands Alone: Leveraging News Relations through a Hypergraph for Fake News Detection [[pdf]]<br/>
+Ujun Jeong, Kaize Ding, <u>Lu Cheng</u>, Ruocheng Guo, Kai Shu, and Huan Liu<br/>
+In IEEE BigData'22
 *   Debiasing Word Embeddings with Nonlinear Geometry [[pdf]](https://arxiv.org/pdf/2208.13899.pdf)[[code]](https://github.com/GitHubLuCheng/Implementation-of-JoSEC-COLING-22)<br/>
     <u>Lu Cheng</u>, Nayoung Kim, and Huan Liu <br/>
     In the 29th International Conference on Computational Linguistics (COLING). Hybrid. October 12-17, 2022.
