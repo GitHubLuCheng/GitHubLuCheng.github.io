@@ -7,6 +7,7 @@ author_profile: true
 
 Conference Organizer
 
+*   Panel Organizer, IEEE CogMI'22
 *   Web Chair, WSDM'22
 
 Session Chair
@@ -18,10 +19,11 @@ Senior Program Committee
 
 Conference Program Committee
 
+*   IJCAI'23
 *   The Web Conference'23
 *   KDD'22
 *   AAAI'21-23
-*   ACL Rolling Review'22,23
+*   ACL Rolling Review'22-23
 *   WSDM'22
 *   IEEE CogMI'21
 *   IEEE DQIS'21
@@ -29,10 +31,10 @@ Conference Program Committee
 *   MAISoN'21
 *   CYBER'21
 *   IEEE SMDS'21
-*   UAI'21,22
-*   CySoc'21,22
+*   UAI'21-23
+*   CySoc'21-22
 *   ASONAM'21
-*   ACM MM'21,22
+*   ACM MM'21-22
 *   SBP-BRiMS'19-22
 
 Conference External Reviewer
@@ -41,7 +43,7 @@ Conference External Reviewer
 
 Journal Reviewer
 
-*   Data Mining and Knowledge Discovery, IEEE Access, PLOS ONE, Technology in Society, CSUR, IEEE TKDE, COSE, IEEE TCSS, IEEE TAI, SNAM, ACM TKDD
+*   Pattern Recognition, Data Mining and Knowledge Discovery, IEEE Access, PLOS ONE, Technology in Society, CSUR, IEEE TKDE, COSE, IEEE TCSS, IEEE TAI, SNAM, ACM TKDD
 
 Book Proposal Reviewer
 
