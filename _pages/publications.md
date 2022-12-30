@@ -13,11 +13,17 @@ author_profile: true
 
 ## Arxiv and Preprints
 *   A Survey on Echo Chambers on Social Media: Description, Detection and Mitigation [[pdf]](https://www.google.com/url?q=https://urldefense.com/v3/__https://arxiv.org/pdf/2112.05084__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTeYy5xt0$&source=gmail-html&ust=1661048459927000&usg=AOvVaw3t5gh1bQjovHp4hH1WX7bI)  
-    Faisal Alatawi, <u>Lu Cheng</u>, Anique Tahir, Mansooreh Karami, Bohan Jiang, Tyler Black, Huan Liu  
+    Faisal Alatawi, <u>Lu Cheng</u>, Anique Tahir, Mansooreh Karami, Bohan Jiang, Tyler Black, and Huan Liu  
     ArXiv. 2021.
+*   Toward Understanding Bias Correlations for Mitigation in NLP [[pdf]](https://arxiv.org/pdf/2205.12391.pdf)  
+    <u>Lu Cheng</u>\*, Suyu Ge\*, and Huan Liu  
+    ArXiv. 2022.
 
 ## Accepted Papers
-*   Distributional Shift Adaptation using Domain-Specific Features [[pdf]](https://arxiv.org/pdf/2211.04670.pdf)<br/> 
+* Causal Disentanglement for Implicit Recommendations with Network Information [[pdf]]<br/> 
+Paras Sheth, Ruocheng Guo, <u>Lu Cheng</u>, Kasim Selcuk Candan, and Huan Liu<br/>
+In TKDD'22
+*      Distributional Shift Adaptation using Domain-Specific Features [[pdf]](https://arxiv.org/pdf/2211.04670.pdf)<br/> 
 Anique Tahir, <u>Lu Cheng</u>, Ruocheng Guo, and Huan Liu<br/>
 In IEEE BigData'22
 *   Nothing Stands Alone: Leveraging News Relations through a Hypergraph for Fake News Detection [[pdf]]<br/>
@@ -35,6 +41,9 @@ In IEEE BigData'22
 *   Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data [[pdf]](https://arxiv.org/pdf/2208.03907.pdf)<br/>
     Nayoung Kim, Ahmadreza Mosallanezhad, <u>Lu Cheng</u>, Baoxin Li, and Huan Liu<br/>
     In the 15th SBP-BRiMS. Pittsburg. Sept. 20-22. 2022
+*   Causal Disentanglement with Network Information for Debiased Recommendations [[pdf]](https://arxiv.org/pdf/2204.07221.pdf)<br/>
+Paras Sheth, Ruocheng Guo, Kaize Ding, <u>Lu Cheng</u>, K. Selcuk Candan, Huan Liu <br/>
+SISAP 2022
 *   Bias Mitigation for Toxicity Detection via Sequential Decisions [[pdf]](https://ysilva.cs.luc.edu/BullyBlocker/documents/BiasMitCB-SIGIR22.pdf) <br/>
     <u>Lu Cheng</u>, Ahmadreza Mosallanezhad, Yasin Silva, Deborah Hall, and Huan Liu <br/> 
     In the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR). Madrid. July 11-15, 2022.
@@ -66,7 +75,7 @@ In IEEE BigData'22
     <u>Lu Cheng</u>, Ruocheng Guo, Kai Shu, and Huan Liu  
     In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’21). Online Virtual Event. August 14-18, 2021.
 *   Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach [[pdf]](https://www.google.com/url?q=https://urldefense.com/v3/__https://www.researchgate.net/publication/352573248_Mitigating_Bias_in_Session-based_Cyberbullying_Detection_A_Non-Compromising_Approach__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTPmPi4W0$&source=gmail-html&ust=1661048459928000&usg=AOvVaw0TljEVRXy19OIUao-zZ5cW) [[code]](https://www.google.com/url?q=https://urldefense.com/v3/__https://github.com/GitHubLuCheng/MitigateBiasSessionCB__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTp8jGMkw$&source=gmail-html&ust=1661048459928000&usg=AOvVaw1rmSJ5kb4wk7qTbticsAgo)  
-    <u>Lu Cheng</u>*, Ahmadreza Mosallanezhad*, Yasin Silva, Deborah Hall, and Huan Liu  
+    <u>Lu Cheng</u>\*, Ahmadreza Mosallanezhad\*, Yasin Silva, Deborah Hall, and Huan Liu  
     In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL), Bangkok, Thailand. August 1-6, 2021.
 *   Causal Learning for Socially Responsible AI <a rel="noreferrer">[pdf]</a>  
     <u>Lu Cheng</u>, Ahmadreza Mosallanezhad*, Paras Sheth*, and Huan Liu  
