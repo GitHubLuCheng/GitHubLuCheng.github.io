@@ -20,10 +20,10 @@ author_profile: true
     ArXiv. 2022.
 
 ## Accepted Papers
-* Causal Disentanglement for Implicit Recommendations with Network Information [[pdf]]<br/> 
+* Causal Disentanglement for Implicit Recommendations with Network Information <br/> 
 Paras Sheth, Ruocheng Guo, <u>Lu Cheng</u>, Kasim Selcuk Candan, and Huan Liu<br/>
 In TKDD'22
-*      Distributional Shift Adaptation using Domain-Specific Features [[pdf]](https://arxiv.org/pdf/2211.04670.pdf)<br/> 
+*  Distributional Shift Adaptation using Domain-Specific Features [[pdf]](https://arxiv.org/pdf/2211.04670.pdf)<br/> 
 Anique Tahir, <u>Lu Cheng</u>, Ruocheng Guo, and Huan Liu<br/>
 In IEEE BigData'22
 *   Nothing Stands Alone: Leveraging News Relations through a Hypergraph for Fake News Detection [[pdf]]<br/>
