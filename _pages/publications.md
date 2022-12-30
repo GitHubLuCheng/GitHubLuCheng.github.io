@@ -46,7 +46,7 @@ Paras Sheth, Ruocheng Guo, Kaize Ding, <u>Lu Cheng</u>, K. Selcuk Candan, Huan L
 SISAP 2022
 *   Bias Mitigation for Toxicity Detection via Sequential Decisions [[pdf]](https://ysilva.cs.luc.edu/BullyBlocker/documents/BiasMitCB-SIGIR22.pdf) <br/>
     <u>Lu Cheng</u>, Ahmadreza Mosallanezhad, Yasin Silva, Deborah Hall, and Huan Liu <br/> 
-    In the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR). Madrid. July 11-15, 2022.
+    In SIGIR. Madrid. July 11-15, 2022.
 *   Evaluation Methods and Measures for Causal Learning Algorithms [[pdf]](https://www.google.com/url?q=https://urldefense.com/v3/__https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber%3D9709543__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTLFxXAa8$&source=gmail-html&ust=1661048459927000&usg=AOvVaw2QXRn6qSDRkfT3xzzd61U0)  
     <u>Lu Cheng</u>, Ruocheng Guo, Raha Moraffah, Paras Sheth, K. Selcuk Candan, and Huan Liu  
     In IEEE Transactions on Artificial Intelligence (TAI). 2022.
