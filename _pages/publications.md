@@ -20,9 +20,15 @@ author_profile: true
     ArXiv. 2022.
 
 ## Accepted Papers
+* A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges<br/> 
+Usman Gohar, <u>Lu Cheng</u> <br/>
+In IJCAI'23 Survey Track
+* CausalSE: Understanding Varied Spatial Effects with Missing Data Toward Adding New Bike-sharing Stations<br/> 
+Qianru Wang, Bing Guo, <u>Lu Cheng</u>,  Zhiwen Yu, and Huan Liu<br/>
+In TKDD'23
 * Causal Disentanglement for Implicit Recommendations with Network Information <br/> 
 Paras Sheth, Ruocheng Guo, <u>Lu Cheng</u>, Kasim Selcuk Candan, and Huan Liu<br/>
-In TKDD'22
+In TKDD'23
 *  Distributional Shift Adaptation using Domain-Specific Features [[pdf]](https://arxiv.org/pdf/2211.04670.pdf)<br/> 
 Anique Tahir, <u>Lu Cheng</u>, Ruocheng Guo, and Huan Liu<br/>
 In IEEE BigData'22
