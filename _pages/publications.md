@@ -18,7 +18,13 @@ author_profile: true
 *   Toward Understanding Bias Correlations for Mitigation in NLP [[pdf]](https://arxiv.org/pdf/2205.12391.pdf)  
     <u>Lu Cheng</u>\*, Suyu Ge\*, and Huan Liu  
     ArXiv. 2022.
-
+    
+## Books and Chapters
+* Socially Responsible AI: Theories and Practices [[Link]](https://www.worldscientific.com/worldscibooks/10.1142/13150#t=aboutBook)<br/
+<u>Lu Cheng</u>, Huan Liu <br/>
+World Scientific 
+* 因果机器学习[[Link]](https://item.jd.com/13539573.html)<br/
+郭若城，<u>程璐</u>, 刘昊，刘欢<br/>
 ## Accepted Papers
 * A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges<br/> 
 Usman Gohar, <u>Lu Cheng</u> <br/>
