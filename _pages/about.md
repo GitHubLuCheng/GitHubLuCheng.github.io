@@ -12,6 +12,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **Prospective students: I am always actively looking for self-motivated PhD students to conduct research in socially responsible AI (fairness, interpretability/explainability, privacy, robustness, uncertainty), causal machine learning, and data mining in general. I'm also happy to work with masters and undergraduate students. Interested students please email me at lucheng.recuit@gmail.com with your CV and transcript(s).**
 
 <h3>News</h3>
+
 - [04/2023] Our work on intersectional fairness is accepted to IJCAI'23 Survey Track. 
 - [04/2023] Invited to serve as a reviewer for NeurIPS'23 and IEEE Big Data'23.
 - [02/2023] Invited to serve as a PC member for ECML PKDD'23, ACL'23, and UAI'23
