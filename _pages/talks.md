@@ -4,6 +4,8 @@ title: "Invited Talks & Panels"
 permalink: /talks/
 author_profile: true
 ---
+- Algorithmic Fairness in an Uncertain World, Midwest Machine Learning Symposium, 2023 May.
+- Causal Inference with Surrogate Representations in Practice, AGI Group@CMU, 2023 April.
 - Sequential Bias Mitigation and the Need for Causal Fairness, BIHE Monthly Seminar UIC, 2022 Oct.
 - Sequential Bias Mitigation and the Need for Causal Fairness, Seminar at Center for CBQB UIC, 2022 Oct.
 - A Glance at Algorithmic Intersectionality, MLNLP, 2022 Sept.
