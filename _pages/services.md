@@ -6,10 +6,8 @@ author_profile: true
 ---
 
 Conference Organizer
-
 *   Panel Organizer, IEEE CogMI'22
 *   Web Chair, WSDM'22
-
 Session Chair
 *   FAccT'22
 
@@ -19,9 +17,11 @@ Senior Program Committee
 
 Conference Program Committee
 
+*   IEEE Big Data'23
+*   ECML PKDD'23
 *   IJCAI'23
 *   The Web Conference'23
-*   KDD'22
+*   KDD'22-23
 *   AAAI'21-23
 *   ACL Rolling Review'22-23
 *   WSDM'22
