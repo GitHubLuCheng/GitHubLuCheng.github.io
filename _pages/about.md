@@ -15,7 +15,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 
 - [04/2023] Our work on intersectional fairness is accepted to IJCAI'23 Survey Track. 
 - [04/2023] Invited to serve as a reviewer for NeurIPS'23 and IEEE Big Data'23.
-- [02/2023] Invited to serve as a PC member for ECML PKDD'23, ACL'23, and UAI'23
+- [02/2023] Invited to serve as a PC member for ECML PKDD'23, ACL'23, and UAI'23.
 - [01/2023] Invited to serve as a PC member for KDD'23 and a reviewer for ACM Computing Surveys.
 - [01/2023] Receving a gift grant from Cisco Research for the project on Privacy-Preserving GNNs. Thanks Cisco!
 - [12/2022] Invited to serve as a PC member for IJCAI '23 and a reviewer for Journal of Pattern Recognition.
