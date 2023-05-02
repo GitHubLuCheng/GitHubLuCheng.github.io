@@ -24,10 +24,10 @@ author_profile: true
 <u>Lu Cheng</u>, Huan Liu. 
 World Scientific 
 * 因果推断与机器学习 [[Link]](https://item.jd.com/13539573.html)<br/>
-郭若城，<u>程璐</u>, 刘昊，刘欢. 
+郭若城, <u>程璐</u>, 刘昊, 刘欢. 
 电子工业出版社
 
-![SRAI](SRAI.png) ![CML](CML.png)
+![SRAI](https://github.com/GitHubLuCheng/GitHubLuCheng.github.io/blob/master/images/SRAI.png) ![CML](https://github.com/GitHubLuCheng/GitHubLuCheng.github.io/blob/master/images/CML.png)
 
 ## Accepted Papers
 * A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges<br/> 
