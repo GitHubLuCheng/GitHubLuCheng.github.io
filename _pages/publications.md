@@ -27,7 +27,7 @@ World Scientific
 郭若城, <u>程璐</u>, 刘昊, 刘欢. 
 电子工业出版社
 
-<img src="https://github.com/GitHubLuCheng/GitHubLuCheng.github.io/blob/master/images/SRAI.png" alt= “” width="250" height="150"> <img src="https://github.com/GitHubLuCheng/GitHubLuCheng.github.io/blob/master/images/CML.png" alt= “” width="150" height="200">
+<picture><img src="https://github.com/GitHubLuCheng/GitHubLuCheng.github.io/blob/master/images/SRAI.png" alt= “” width="250" height="150"></picture> <picture><img src="https://github.com/GitHubLuCheng/GitHubLuCheng.github.io/blob/master/images/CML.png" alt= “” width="150" height="200"></picture>
 
 ## Accepted Papers
 * A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges<br/> 
