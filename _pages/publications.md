@@ -33,16 +33,16 @@ World Scientific
 * A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges<br/> 
 Usman Gohar, <u>Lu Cheng</u> <br/>
 In IJCAI'23 Survey Track
-*   CausalSE: Understanding Varied Spatial Effects with Missing Data Toward Adding New Bike-sharing Stations<br/> 
+*   CausalSE: Understanding Varied Spatial Effects with Missing Data Toward Adding New Bike-sharing Stations [[pdf]](https://web.archive.org/web/20220524005932id_/https://dl.acm.org/doi/pdf/10.1145/3536427)<br/> 
 Qianru Wang, Bing Guo, <u>Lu Cheng</u>,  Zhiwen Yu, and Huan Liu<br/>
 In TKDD'23
-*   Causal Disentanglement for Implicit Recommendations with Network Information <br/> 
+*   Causal Disentanglement for Implicit Recommendations with Network Information [[pdf]](https://dl.acm.org/doi/abs/10.1145/3582435)<br/> 
 Paras Sheth, Ruocheng Guo, <u>Lu Cheng</u>, Kasim Selcuk Candan, and Huan Liu<br/>
 In TKDD'23
 *   Distributional Shift Adaptation using Domain-Specific Features [[pdf]](https://arxiv.org/pdf/2211.04670.pdf)<br/> 
 Anique Tahir, <u>Lu Cheng</u>, Ruocheng Guo, and Huan Liu<br/>
 In IEEE BigData'22
-*   Nothing Stands Alone: Leveraging News Relations through a Hypergraph for Fake News Detection [[pdf]]<br/>
+*   Nothing Stands Alone: Leveraging News Relations through a Hypergraph for Fake News Detection [[pdf]](https://arxiv.org/pdf/2212.12621.pdf)<br/>
 Ujun Jeong, Kaize Ding, <u>Lu Cheng</u>, Ruocheng Guo, Kai Shu, and Huan Liu<br/>
 In IEEE BigData'22
 *   Debiasing Word Embeddings with Nonlinear Geometry [[pdf]](https://arxiv.org/pdf/2208.13899.pdf)[[code]](https://github.com/GitHubLuCheng/Implementation-of-JoSEC-COLING-22)<br/>
