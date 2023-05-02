@@ -31,23 +31,17 @@ World Scientific
 
 ## Accepted Papers
 * A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges<br/> 
-Usman Gohar, <u>Lu Cheng</u> <br/>
-In IJCAI'23 Survey Track
+Usman Gohar, <u>Lu Cheng</u>. In IJCAI'23 Survey Track. Macao, China. 19th-25th August, 2023
 *   CausalSE: Understanding Varied Spatial Effects with Missing Data Toward Adding New Bike-sharing Stations [[pdf]](https://web.archive.org/web/20220524005932id_/https://dl.acm.org/doi/pdf/10.1145/3536427)<br/> 
-Qianru Wang, Bing Guo, <u>Lu Cheng</u>,  Zhiwen Yu, and Huan Liu<br/>
-In TKDD'23
+Qianru Wang, Bing Guo, <u>Lu Cheng</u>,  Zhiwen Yu, and Huan Liu. In TKDD'23
 *   Causal Disentanglement for Implicit Recommendations with Network Information [[pdf]](https://dl.acm.org/doi/abs/10.1145/3582435)<br/> 
-Paras Sheth, Ruocheng Guo, <u>Lu Cheng</u>, Kasim Selcuk Candan, and Huan Liu<br/>
-In TKDD'23
+Paras Sheth, Ruocheng Guo, <u>Lu Cheng</u>, Kasim Selcuk Candan, and Huan Liu. In TKDD'23
 *   Distributional Shift Adaptation using Domain-Specific Features [[pdf]](https://arxiv.org/pdf/2211.04670.pdf)<br/> 
-Anique Tahir, <u>Lu Cheng</u>, Ruocheng Guo, and Huan Liu<br/>
-In IEEE BigData'22
+Anique Tahir, <u>Lu Cheng</u>, Ruocheng Guo, and Huan Liu. In IEEE BigData'22
 *   Nothing Stands Alone: Leveraging News Relations through a Hypergraph for Fake News Detection [[pdf]](https://arxiv.org/pdf/2212.12621.pdf)<br/>
-Ujun Jeong, Kaize Ding, <u>Lu Cheng</u>, Ruocheng Guo, Kai Shu, and Huan Liu<br/>
-In IEEE BigData'22
+Ujun Jeong, Kaize Ding, <u>Lu Cheng</u>, Ruocheng Guo, Kai Shu, and Huan Liu. In IEEE BigData'22
 *   Debiasing Word Embeddings with Nonlinear Geometry [[pdf]](https://arxiv.org/pdf/2208.13899.pdf)[[code]](https://github.com/GitHubLuCheng/Implementation-of-JoSEC-COLING-22)<br/>
-    <u>Lu Cheng</u>, Nayoung Kim, and Huan Liu <br/>
-    In the 29th International Conference on Computational Linguistics (COLING). Hybrid. October 12-17, 2022.
+    <u>Lu Cheng</u>, Nayoung Kim, and Huan Liu. In the 29th International Conference on Computational Linguistics (COLING). Hybrid. October 12-17, 2022.
 *   Classifying COVID-19 related Meta Ads using Discourse Representation through Hypergraph <br/>
     Ujun Jeong, Zeyad Alghamdi, Kaize Ding, <u>Lu Cheng</u>, Baoxin Li, and Huan Liu <br/>
     In the 15th SBP-BRiMS. Pittsburg. Sept. 20-22. 2022
