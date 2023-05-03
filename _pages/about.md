@@ -13,7 +13,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 
 <h2>News</h2>
 
-- [05/2023] Invited to serve as a reviewer ACM Computing Surveys.
+- [05/2023] Invited to serve as a reviewer for ACM Computing Surveys.
 - [04/2023] Our work on intersectional fairness is accepted to IJCAI'23 Survey Track. 
 - [04/2023] Invited to serve as a reviewer for NeurIPS'23 and IEEE Big Data'23.
 - [02/2023] Invited to serve as a PC member for ECML PKDD'23, ACL'23, and UAI'23.
