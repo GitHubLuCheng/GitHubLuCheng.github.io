@@ -31,7 +31,7 @@ World Scientific
 
 ## Accepted Papers
 * A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges<br/> 
-Usman Gohar, <u>Lu Cheng</u>. In IJCAI'23 Survey Track. Macao, China. 19th-25th August, 2023
+Usman Gohar and <u>Lu Cheng</u>. In IJCAI'23 Survey Track. Macao, China. 19th-25th August, 2023
 *   CausalSE: Understanding Varied Spatial Effects with Missing Data Toward Adding New Bike-sharing Stations [[pdf]](https://web.archive.org/web/20220524005932id_/https://dl.acm.org/doi/pdf/10.1145/3536427)<br/> 
 Qianru Wang, Bing Guo, <u>Lu Cheng</u>,  Zhiwen Yu, and Huan Liu. In TKDD'23
 *   Causal Disentanglement for Implicit Recommendations with Network Information [[pdf]](https://dl.acm.org/doi/abs/10.1145/3582435)<br/> 
@@ -43,23 +43,17 @@ Ujun Jeong, Kaize Ding, <u>Lu Cheng</u>, Ruocheng Guo, Kai Shu, and Huan Liu. In
 *   Debiasing Word Embeddings with Nonlinear Geometry [[pdf]](https://arxiv.org/pdf/2208.13899.pdf)[[code]](https://github.com/GitHubLuCheng/Implementation-of-JoSEC-COLING-22)<br/>
     <u>Lu Cheng</u>, Nayoung Kim, and Huan Liu. In the 29th International Conference on Computational Linguistics (COLING). Hybrid. October 12-17, 2022.
 *   Classifying COVID-19 related Meta Ads using Discourse Representation through Hypergraph <br/>
-    Ujun Jeong, Zeyad Alghamdi, Kaize Ding, <u>Lu Cheng</u>, Baoxin Li, and Huan Liu <br/>
-    In the 15th SBP-BRiMS. Pittsburg. Sept. 20-22. 2022
+    Ujun Jeong, Zeyad Alghamdi, Kaize Ding, <u>Lu Cheng</u>, Baoxin Li, and Huan Liu. In the 15th SBP-BRiMS. Pittsburg. Sept. 20-22. 2022
 *   Improving Vaccine Stance Detection by Combining Online and Offline Data [[pdf]](https://arxiv.org/pdf/2208.04491.pdf)<br/>
-    Anique Tahir, <u>Lu Cheng</u>, Paras Sheth, and Huan Liu <br/>
-    In the 15th SBP-BRiMS. Pittsburg. Sept. 20-22. 2022
+    Anique Tahir, <u>Lu Cheng</u>, Paras Sheth, and Huan Liu. In the 15th SBP-BRiMS. Pittsburg. Sept. 20-22. 2022
 *   Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data [[pdf]](https://arxiv.org/pdf/2208.03907.pdf)<br/>
-    Nayoung Kim, Ahmadreza Mosallanezhad, <u>Lu Cheng</u>, Baoxin Li, and Huan Liu<br/>
-    In the 15th SBP-BRiMS. Pittsburg. Sept. 20-22. 2022
+    Nayoung Kim, Ahmadreza Mosallanezhad, <u>Lu Cheng</u>, Baoxin Li, and Huan Liu. In the 15th SBP-BRiMS. Pittsburg. Sept. 20-22. 2022
 *   Causal Disentanglement with Network Information for Debiased Recommendations [[pdf]](https://arxiv.org/pdf/2204.07221.pdf)<br/>
-Paras Sheth, Ruocheng Guo, Kaize Ding, <u>Lu Cheng</u>, K. Selcuk Candan, Huan Liu <br/>
-SISAP 2022
+Paras Sheth, Ruocheng Guo, Kaize Ding, <u>Lu Cheng</u>, K. Selcuk Candan, Huan Liu. IEEE SISAP 2022
 *   Bias Mitigation for Toxicity Detection via Sequential Decisions [[pdf]](https://ysilva.cs.luc.edu/BullyBlocker/documents/BiasMitCB-SIGIR22.pdf) <br/>
-    <u>Lu Cheng</u>, Ahmadreza Mosallanezhad, Yasin Silva, Deborah Hall, and Huan Liu <br/> 
-    In SIGIR. Madrid. July 11-15, 2022.
+    <u>Lu Cheng</u>, Ahmadreza Mosallanezhad, Yasin Silva, Deborah Hall, and Huan Liu. In SIGIR. Madrid. July 11-15, 2022.
 *   Evaluation Methods and Measures for Causal Learning Algorithms [[pdf]](https://www.google.com/url?q=https://urldefense.com/v3/__https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber%3D9709543__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTLFxXAa8$&source=gmail-html&ust=1661048459927000&usg=AOvVaw2QXRn6qSDRkfT3xzzd61U0)  
-    <u>Lu Cheng</u>, Ruocheng Guo, Raha Moraffah, Paras Sheth, K. Selcuk Candan, and Huan Liu  
-    In IEEE Transactions on Artificial Intelligence (TAI). 2022.
+    <u>Lu Cheng</u>, Ruocheng Guo, Raha Moraffah, Paras Sheth, K. Selcuk Candan, and Huan Liu. In IEEE Transactions on Artificial Intelligence (TAI). 2022.
 *   Learning Privacy-Preserving Graph Convolutional Network with Partially Observed Sensitive Attributes [[pdf]](https://www.google.com/url?q=http://www.public.asu.edu/~lcheng35/LearningPrivacy-PreservingGraphConvolutionalNetworkwithPartiallyObservedSensitiveAttributes.pdf&source=gmail-html&ust=1661048459927000&usg=AOvVaw2zIapC0Tnd5eXxpWX6tlE0) [[code]](https://www.google.com/url?q=https://urldefense.com/v3/__https://github.com/HuiHu1/Privacy-Preserving-Graph-Convolutional-Network__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FT6dKmXRc$&source=gmail-html&ust=1661048459927000&usg=AOvVaw1RNHblT9SrtE59ky9YUDXg)  
     Hui Hu, <u>Lu Cheng</u>, Jayden Parker Vap, and Mike Borowczak  
     In Proceedings of the ACM 2022 International World Wide Web Conferences (TheWebConf). Lyon, France. April 25-29\. 2022.
@@ -68,7 +62,7 @@ SISAP 2022
     In Proceedings of the 2022 ACM International Conference on Web Search and Data Mining (WSDM). Online Virtual Event. Feb. 21-25\. 2022.
 *   Estimating Causal Effects of Multi-Aspect Online Reviews with Multi-Modal Proxies [[pdf]](https://www.google.com/url?q=https://urldefense.com/v3/__https://arxiv.org/pdf/2112.10274__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTfqlRdFQ$&source=gmail-html&ust=1661048459927000&usg=AOvVaw2JfHt6kHXftOc13hbPNv3C)  
     <u>Lu Cheng</u>, Ruocheng Guo, and Huan Liu  
-    In Proceedings of the 2022 ACM International Conference on Web Search and Data Mining (WSDM). Online Virtual Event. Feb. 21-25\. 2022.
+    In Proceedings of the 2022 ACM International Conference on Web Search and Data Mining (WSDM). Online Virtual Event. Feb. 21-25. 2022.
 *   Effects of Multi-Aspect Online Reviews with Unobserved Confounders: Estimation and Implication [[pdf]](https://www.google.com/url?q=https://urldefense.com/v3/__https://arxiv.org/pdf/2110.01746.pdf__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTOuDCE3g$&source=gmail-html&ust=1661048459927000&usg=AOvVaw0Y4F7IgzfkHGOYKAukWVHC) [[data]](https://www.google.com/url?q=https://urldefense.com/v3/__https://github.com/GitHubLuCheng/Effects-of-Multi-Aspect-Online-Reviews-with-Unobserved-Confounders__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTcLRDcus$&source=gmail-html&ust=1661048459927000&usg=AOvVaw0zUtGfr1NxWXHUGlkafjYJ)  
     <u>Lu Cheng</u>, Ruocheng Guo, Kasim Selcuk Candan, and Huan Liu  
     In Proceedings of the 16th International AAAI Conference on Web and Social Media (ICWSM). Atlanta, Georgia. June 6-9\. 2022.
