@@ -28,8 +28,8 @@ World Scientific
 电子工业出版社
 
 <div style="display: flex;">
-  <img src="https://github.com/GitHubLuCheng/GitHubLuCheng.github.io/blob/master/images/SRAI.png" alt="" width="250" height="150">
-  <img src="https://github.com/GitHubLuCheng/GitHubLuCheng.github.io/blob/master/images/CML.png" alt="" width="150" height="200">
+  <img src="/images/SRAI.png" alt="" width="250" height="150">
+  <img src="/images/CML.png" alt="" width="150" height="200">
 </div>
 
 ## Accepted Papers
