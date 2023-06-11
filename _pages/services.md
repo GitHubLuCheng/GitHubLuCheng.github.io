@@ -14,6 +14,7 @@ Senior Program Committee
 *   AAAI'22-23
 
 Conference Program Committee
+*   NeurIPS'23
 *   IEEE Big Data'23
 *   ECML PKDD'23
 *   IJCAI'23
@@ -24,7 +25,7 @@ Conference Program Committee
 *   WSDM'22
 *   IEEE CogMI'21
 *   IEEE DQIS'21
-*   EMNLP'21-22
+*   EMNLP'21-23
 *   MAISoN'21
 *   CYBER'21
 *   IEEE SMDS'21
