@@ -33,7 +33,9 @@ World Scientific
 </div>
 
 ## Accepted Papers
-* A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges<br/> 
+* Intersectionality and Testimonial Injustice in Medical Records <br/> 
+Kenya Andrews, Bhuvani Shah, and <u>Lu Cheng</u>. In ACL'23 Clinical NLP Workshop. Toronto, Canada. July 9th to July 14th, 2023.
+* A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges [[pdf]](https://arxiv.org/pdf/2305.06969.pdf)  <br/> 
 Usman Gohar and <u>Lu Cheng</u>. In IJCAI'23 Survey Track. Macao, China. 19th-25th August, 2023
 *   CausalSE: Understanding Varied Spatial Effects with Missing Data Toward Adding New Bike-sharing Stations [[pdf]](https://web.archive.org/web/20220524005932id_/https://dl.acm.org/doi/pdf/10.1145/3536427)<br/> 
 Qianru Wang, Bing Guo, <u>Lu Cheng</u>,  Zhiwen Yu, and Huan Liu. In TKDD'23
