@@ -4,6 +4,7 @@ title: "Invited Talks & Panels"
 permalink: /talks/
 author_profile: true
 ---
+- Applied Causal Inference with Surrogate Representations, LMU Munich, 2023 July.
 - Algorithmic Fairness in an Uncertain World, Midwest Machine Learning Symposium, 2023 May.
 - Causal Inference with Surrogate Representations in Practice, AGI Group@CMU, 2023 April.
 - Sequential Bias Mitigation and the Need for Causal Fairness, BIHE Monthly Seminar UIC, 2022 Oct.
