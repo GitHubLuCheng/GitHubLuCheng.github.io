@@ -12,6 +12,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **Prospective students: I am always actively looking for self-motivated PhD students to conduct research in socially responsible AI (fairness, interpretability/explainability, privacy, robustness, uncertainty quantification), causal machine learning, and data mining in general. I'm also happy to work with masters and undergraduate students. Interested students please email me with your CV and transcript(s).**
 
 <h2>News</h2>
+- [08/2023] Two papers accepted to CIKM'23.
 - [07/2023] Invited to give a talk at LMU Munich.  
 - [07/2023] One paper accepted to ECAI'23. 
 - [06/2023] Invited to serve as a Senior PC member for AAAI'24. 
