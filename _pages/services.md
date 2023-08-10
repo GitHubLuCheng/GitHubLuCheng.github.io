@@ -11,9 +11,10 @@ Conference Organizer
 *   Session Chair, FAccT'22
 
 Senior Program Committee
-*   AAAI'22-23
+*   AAAI'22-24
 
 Conference Program Committee
+*   ICDM'23
 *   NeurIPS'23
 *   IEEE Big Data'23
 *   ECML PKDD'23
@@ -23,7 +24,7 @@ Conference Program Committee
 *   AAAI'21-23
 *   ACL Rolling Review'22-23
 *   WSDM'22
-*   IEEE CogMI'21
+*   IEEE CogMI'21,23
 *   IEEE DQIS'21
 *   EMNLP'21-23
 *   MAISoN'21
