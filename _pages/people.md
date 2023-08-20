@@ -9,4 +9,4 @@ author_profile: true
 * Eli Whitehouse. 2023 Fall - 
 
 ### Master and Undergraduate Students
-* Tianyi Zhao. USC. 06/2022 - 
+* Tianyi Zhao. Master at USC. 06/2022 - 
