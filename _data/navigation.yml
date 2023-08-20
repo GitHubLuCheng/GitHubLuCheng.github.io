@@ -9,6 +9,9 @@ main:
   - title: "Tutorials"
     url: /tutorials/
 
+  - title: "People"
+    url: /people/
+
   - title: "Services"
     url: /services
 
