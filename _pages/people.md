@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 # People
-<h3> PhD Students
+### PhD Students 
 * [Liancheng Fang](https://fangliancheng.github.io/). 2023 Fall -
 * Eli Whitehouse. 2023 Fall - 
 
-<h3> Master and Undergraduate Students
+### Master and Undergraduate Students
 * Tianyi Zhao. USC. 06/2022 - 
