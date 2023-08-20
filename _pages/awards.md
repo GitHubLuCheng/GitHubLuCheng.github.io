@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards"
-permalink: /honors/
+permalink: /awards/
 author_profile: true
 ---
 *   Runner-up of INNS Doctoral Dissertation Award, 2023
