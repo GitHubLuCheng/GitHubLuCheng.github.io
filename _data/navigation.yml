@@ -3,14 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "People"
+    url: /people/
+    
   - title: "Talks"
-    url: /talks/    
+    url: /talks/ 
+
+  - title: "Teaching"
+    url: /teaching/ 
 
   - title: "Tutorials"
     url: /tutorials/
-
-  - title: "People"
-    url: /people/
 
   - title: "Services"
     url: /services
