@@ -4,3 +4,5 @@ title: "People"
 permalink: /people/
 author_profile: true
 ---
+
+# People
