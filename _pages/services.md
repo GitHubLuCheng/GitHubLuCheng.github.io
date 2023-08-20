@@ -5,15 +5,15 @@ permalink: /services/
 author_profile: true
 ---
 
-Conference Organizer
+## Conference Organizer
 *   Panel Organizer, IEEE CogMI'22
 *   Web Chair, WSDM'22
 *   Session Chair, FAccT'22
 
-Senior Program Committee
+## Senior Program Committee
 *   AAAI'22-24
 
-Conference Program Committee
+## Conference Program Committee
 *   ICDM'23
 *   NeurIPS'23
 *   IEEE Big Data'23
@@ -36,16 +36,16 @@ Conference Program Committee
 *   ACM MM'21-22
 *   SBP-BRiMS'19-22
 
-Conference External Reviewer
+## Conference External Reviewer
 *   IEEE Big Data'21, The Web Conference'21, ICML'21, ACL'21, ICDM'20, ECML PKDD'20, SIGIR'18-20, ASONAM'18-19, KDD'18-21, ROME'19, CIKM'19
 
-Journal Reviewer
+## Journal Reviewer
 *   Pattern Recognition, Data Mining and Knowledge Discovery, IEEE Access, PLOS ONE, Technology in Society, CSUR, IEEE TKDE, COSE, IEEE TCSS, IEEE TAI, SNAM, ACM TKDD
 
-Book Proposal Reviewer
+## Book Proposal Reviewer
 *   Springer Nature
 
-Volunteer
+## Volunteer
 *   ICWSM'22
 *   Painting for a Cause, ASU Community Service, 2021
 *   AISTATS'21
