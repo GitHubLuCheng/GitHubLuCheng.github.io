@@ -9,7 +9,7 @@ redirect_from:
 
 I am a tenure-track Assistant Professor in the [Department of Computer Science](https://cs.uic.edu/) at [University of Illinois Chicago (UIC)](https://www.uic.edu/). I lead the Responsible and Reliable AI Lab (R<sup>2</sup> Lab). I received my PhD degree in Computer Science at Arizona State University (ASU) in 2022 advised by Dr. [Huan Liu](https://scholar.google.com/citations?user=Dzf46C8AAAAJ&hl=en), M.Eng. degree in Industrial Engineering at Rensselaer Polytechnique Institute (RPI), and B.Eng. degree in Industrial Engineering at Huazhong University of Science & Technology (HUST). My research interests are broadly in data mining and machine learning, with a particular focus on socially responsible AI, social computing, causal machine learning, and AI for social good.
 
-**<font size=”1”>Prospective students: I am always actively looking for self-motivated PhD students to conduct research in responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. I'm also happy to work with masters and undergraduate students. Interested students please email me with your CV and transcript(s)</font>.**
+<font size=”1”>Prospective students: I am always actively looking for self-motivated PhD students to conduct research in responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. I'm also happy to work with masters and undergraduate students. Interested students please email me with your CV and transcript(s)</font>.
 
 <h2>News</h2>
 - [08/2023] Two papers accepted to CIKM'23.
