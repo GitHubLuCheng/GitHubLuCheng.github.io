@@ -21,7 +21,6 @@ author_profile: true
 		                </p>
 		            </div>
 		        </div>
-
 	        </div>
 	    </div>
 	</div>
@@ -64,7 +63,7 @@ author_profile: true
 		                    06/2022 - Present
 		                </p>
 		            </div>
-            </div>
+            		</div>
 	        </div>
 	    </div>
 	</div>
