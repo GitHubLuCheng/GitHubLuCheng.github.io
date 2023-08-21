@@ -52,7 +52,7 @@ author_profile: true
 	        <div class="uk-grid-small uk-flex-middle" uk-grid>
 		        <div class="uk-grid-medium uk-flex-middle" uk-grid>
 		            <div class="uk-width-auto">
-		                <img class="uk-border-circle" src="/images/Liancheng_photo.jpg" width="80" height="80" alt="Avatar">
+		                <img class="uk-border-circle" src="/images/WechatIMG493.jpeg" width="80" height="80" alt="Avatar">
 		            </div>
 		            <div class="uk-width-expand">
                   <h3 class="uk-card-title uk-margin-remove-bottom">Tianyi Zhao</h3>
