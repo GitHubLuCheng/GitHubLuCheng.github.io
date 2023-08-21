@@ -7,7 +7,7 @@ author_profile: true
 
 ### PhD Students 
 <div class="uk-grid-small uk-child-width-1-2@s" uk-grid>
-	<div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-3@s uk-margin" uk-grid>
+	<div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
 	    <div class="uk-card-media-left uk-cover-container">
 	        <img src="/images/Liancheng_photo.jpg" alt="" uk-cover>
 	        <canvas width="600" height="400"></canvas>
@@ -19,7 +19,7 @@ author_profile: true
 	        </div>
 	    </div>
 	</div>
-	<div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-3@s uk-margin" uk-grid>
+	<div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
 	    <div class="uk-card-media-left uk-cover-container">
 	        <img src="/images/FB_IMG_1619195694795__01.jpg" alt="" uk-cover>
 	        <canvas width="600" height="400"></canvas>
@@ -36,7 +36,7 @@ author_profile: true
 
 ### Master and Undergraduate Students
 <div class="uk-grid-small uk-child-width-1-2@s" uk-grid>
-	<div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-3@s uk-margin" uk-grid>
+	<div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
 	    <div class="uk-card-media-left uk-cover-container">
 	        <img src="/images/WechatIMG493.jpeg" alt="" uk-cover>
 	        <canvas width="600" height="400"></canvas>
