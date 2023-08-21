@@ -7,7 +7,7 @@ author_profile: true
 
 ### PhD Students 
 <div class="uk-grid-small uk-child-width-1-2@s" uk-grid>
-	<div class="uk-card uk-card-default uk-width-1-2@m">
+	<div class="uk-card uk-card-default uk-width-1-3@m">
 	    <div class="uk-card-header">
 	        <div class="uk-grid-small uk-flex-middle" uk-grid>
 		        <div class="uk-grid-medium uk-flex-middle" uk-grid>
@@ -25,7 +25,7 @@ author_profile: true
 	    </div>
 	</div>
   
-  <div class="uk-card uk-card-default uk-width-1-2@m">
+  <div class="uk-card uk-card-default uk-width-1-3@m">
 	    <div class="uk-card-header">
 	        <div class="uk-grid-small uk-flex-middle" uk-grid>
 		        <div class="uk-grid-medium uk-flex-middle" uk-grid>
@@ -47,7 +47,7 @@ author_profile: true
 
 ### Master and Undergraduate Students
 <div class="uk-grid-small uk-child-width-1-2@s" uk-grid>
-	<div class="uk-card uk-card-default uk-width-1-2@m">
+	<div class="uk-card uk-card-default uk-width-1-3@m">
 	    <div class="uk-card-header">
 	        <div class="uk-grid-small uk-flex-middle" uk-grid>
 		        <div class="uk-grid-medium uk-flex-middle" uk-grid>
