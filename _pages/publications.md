@@ -31,13 +31,13 @@ World Scientific
 </div>
 
 ## Accepted Papers
-* Unveiling the Role of Message Passing in Dual-Privacy Preservation on GNNs <br/>
+* Unveiling the Role of Message Passing in Dual-Privacy Preservation on GNNs [[pdf]](https://arxiv.org/abs/2308.13513)<br/> 
 Tianyi Zhao, Hui Hu, <u>Lu Cheng</u>. In CIKM'23. University of Birmingham and Eastside Rooms, UK. 21 - 25 October 2023.
-* Fairness through Aleatoric Uncertainty <br/>
+* Fairness through Aleatoric Uncertainty [[pdf]](https://arxiv.org/pdf/2304.03646.pdf)<br/>
 Anique Tahir, <u>Lu Cheng</u>, Huan Liu. In CIKM'23. University of Birmingham and Eastside Rooms, UK. 21 - 25 October 2023.
 * Fair Few-shot Learning with Auxiliary Sets <br/>
 Song Wang, Jing Ma, <u>Lu Cheng</u>, Jundong Li. In ECAI'23. 09.30 - 10.04, 2023, Kraków, Poland
-* Intersectionality and Testimonial Injustice in Medical Records <br/> 
+* Intersectionality and Testimonial Injustice in Medical Records [[pdf]](https://arxiv.org/pdf/2306.13675.pdf)<br/> 
 Kenya Andrews, Bhuvani Shah, and <u>Lu Cheng</u>. In ACL'23 Clinical NLP Workshop. Toronto, Canada. July 9th to July 14th, 2023.
 * A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges [[pdf]](https://arxiv.org/pdf/2305.06969.pdf)  <br/> 
 Usman Gohar and <u>Lu Cheng</u>. In IJCAI'23 Survey Track. Macao, China. 19th-25th August, 2023
