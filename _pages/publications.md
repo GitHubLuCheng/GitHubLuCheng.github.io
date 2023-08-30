@@ -17,7 +17,7 @@ author_profile: true
 *   Toward Understanding Bias Correlations for Mitigation in NLP [[pdf]](https://arxiv.org/pdf/2205.12391.pdf)  
     <u>Lu Cheng</u>\*, Suyu Ge\*, and Huan Liu. ArXiv. 2022.
     
-## Books and Chapters
+## Books
 * Socially Responsible AI: Theories and Practices [[Link]](https://www.worldscientific.com/worldscibooks/10.1142/13150#t=aboutBook)<br/>
 <u>Lu Cheng</u>, Huan Liu. 
 World Scientific 
