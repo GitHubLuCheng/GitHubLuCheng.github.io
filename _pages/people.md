@@ -19,18 +19,6 @@ author_profile: true
 	        </div>
 	    </div>
 	</div>
-	<div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
-	    <div class="uk-card-media-left uk-cover-container">
-	        <img src="/images/FB_IMG_1619195694795__01.jpg" alt="" uk-cover>
-	        <canvas width="600" height="400"></canvas>
-	    </div>
-	    <div>
-	        <div class="uk-card-body">
-	            <h3 class="uk-card-title">Eli Whitehouse</h3>
-	            <p>2023 Fall - Present</p>
-	        </div>
-	    </div>
-	</div>
 </div>
 
 
