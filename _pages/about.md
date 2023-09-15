@@ -12,6 +12,8 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 <font size="3"> **Prospective students**: I am always actively looking for self-motivated PhD students to conduct research in responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. I'm also happy to work with self-funded masters and undergraduate students. Interested students please email me with your CV and transcript(s). </font>
 
 <h2>News</h2>
+- [09/2023] Our workshop on Responsible Language Models is accepted to AAAI'24.
+- [09/2023] Invited to give a talk at Pacific Causal Inference Conference 2023, Sept 16-17. Beijing, China
 - [08/2023] Invited to give a talk at NSF Tripods Workshop on Privacy, Fairness and Causality in Graphs. UCSC. Oct 19-20.
 - [08/2023] Received an NSF III Medium grant as a Co-PI. Thanks, NSF!
 - [08/2023] Two papers accepted to CIKM'23.
