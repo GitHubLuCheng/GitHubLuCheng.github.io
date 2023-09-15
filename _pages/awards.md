@@ -4,7 +4,7 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-*   Runner-up of INNS Doctoral Dissertation Award, 2023
+*   Runner-up of INNS Doctoral Dissertation Award, 2022
 *   ASU Computer Science Outstanding Doctoral Student, 2022
 *   SDM Doctoral Forum Best Poster, 2022
 *   CIDSE Doctoral Fellowship, 2022 Spring
