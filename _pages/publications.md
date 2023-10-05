@@ -39,7 +39,7 @@ Fangxin Wang, <u>Lu Cheng</u>, Ruocheng Guo, Kay Liu, Philip S. Yu. In NeurIPS'2
 Tianyi Zhao, Hui Hu, <u>Lu Cheng</u>. In CIKM'23. University of Birmingham and Eastside Rooms, UK. 21 - 25 October 2023.
 * Fairness through Aleatoric Uncertainty [[pdf]](https://arxiv.org/pdf/2304.03646.pdf)<br/>
 Anique Tahir, <u>Lu Cheng</u>, Huan Liu. In CIKM'23. University of Birmingham and Eastside Rooms, UK. 21 - 25 October 2023.
-* Fair Few-shot Learning with Auxiliary Sets <br/>
+* Fair Few-shot Learning with Auxiliary Sets [[pdf]](https://arxiv.org/pdf/2308.14338.pdf) <br/>
 Song Wang, Jing Ma, <u>Lu Cheng</u>, Jundong Li. In ECAI'23. 09.30 - 10.04, 2023, Kraków, Poland
 * Intersectionality and Testimonial Injustice in Medical Records [[pdf]](https://arxiv.org/pdf/2306.13675.pdf)<br/> 
 Kenya Andrews, Bhuvani Shah, and <u>Lu Cheng</u>. In ACL'23 Clinical NLP Workshop. Toronto, Canada. July 9th to July 14th, 2023.
