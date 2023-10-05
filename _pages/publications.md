@@ -95,7 +95,7 @@ Paras Sheth, Ruocheng Guo, Kaize Ding, <u>Lu Cheng</u>, K. Selcuk Candan, Huan L
     <u>Lu Cheng</u>\*, Ahmadreza Mosallanezhad\*, Yasin Silva, Deborah Hall, and Huan Liu  
     In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL), Bangkok, Thailand. August 1-6, 2021.
 *   Causal Learning for Socially Responsible AI <a rel="noreferrer">[pdf]</a>  
-    <u>Lu Cheng</u>, Ahmadreza Mosallanezhad*, Paras Sheth*, and Huan Liu  
+    <u>Lu Cheng</u>, Ahmadreza Mosallanezhad\*, Paras Sheth\*, and Huan Liu  
     In Proceedings of the 2021 International Joint Conferences on Artificial Intelligence (IJCAI2021), August 21-26, Montreal, Canada.
 *   Automated Meta-Analysis in Medical Research: A Causal Learning Perspective [[poster]](https://www.google.com/url?q=http://www.public.asu.edu/~lcheng35/ACM%2520CHIL.pdf&source=gmail-html&ust=1661048459928000&usg=AOvVaw22FB6mC09Hs0WO104qdB4R)  
     <u>Lu Cheng</u>, Dmitriy Katz-rogozhnikov, Ioana Baldini, and Kush R. Varshney  
