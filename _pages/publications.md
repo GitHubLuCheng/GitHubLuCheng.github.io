@@ -1,4 +1,4 @@
----
+R---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -94,7 +94,7 @@ Paras Sheth, Ruocheng Guo, Kaize Ding, <u>Lu Cheng</u>, K. Selcuk Candan, Huan L
 *   Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach [[pdf]](https://www.google.com/url?q=https://urldefense.com/v3/__https://www.researchgate.net/publication/352573248_Mitigating_Bias_in_Session-based_Cyberbullying_Detection_A_Non-Compromising_Approach__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTPmPi4W0$&source=gmail-html&ust=1661048459928000&usg=AOvVaw0TljEVRXy19OIUao-zZ5cW) [[code]](https://www.google.com/url?q=https://urldefense.com/v3/__https://github.com/GitHubLuCheng/MitigateBiasSessionCB__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTp8jGMkw$&source=gmail-html&ust=1661048459928000&usg=AOvVaw1rmSJ5kb4wk7qTbticsAgo)  
     <u>Lu Cheng</u>\*, Ahmadreza Mosallanezhad\*, Yasin Silva, Deborah Hall, and Huan Liu  
     In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL), Bangkok, Thailand. August 1-6, 2021.
-*   Causal Learning for Socially Responsible AI <a rel="noreferrer">[pdf]</a>  
+*   Causal Learning for Socially Responsible AI [[pdf]](https://arxiv.org/pdf/2104.12278.pdf)  
     <u>Lu Cheng</u>, Ahmadreza Mosallanezhad\*, Paras Sheth\*, and Huan Liu  
     In Proceedings of the 2021 International Joint Conferences on Artificial Intelligence (IJCAI2021), August 21-26, Montreal, Canada.
 *   Automated Meta-Analysis in Medical Research: A Causal Learning Perspective [[poster]](https://www.google.com/url?q=http://www.public.asu.edu/~lcheng35/ACM%2520CHIL.pdf&source=gmail-html&ust=1661048459928000&usg=AOvVaw22FB6mC09Hs0WO104qdB4R)  
