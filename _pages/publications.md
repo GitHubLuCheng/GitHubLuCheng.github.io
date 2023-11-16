@@ -43,7 +43,7 @@ Anique Tahir, <u>Lu Cheng</u>, Huan Liu. In CIKM'23. University of Birmingham an
 Song Wang, Jing Ma, <u>Lu Cheng</u>, Jundong Li. In ECAI'23. 09.30 - 10.04, 2023, Kraków, Poland
 * Intersectionality and Testimonial Injustice in Medical Records [[pdf]](https://arxiv.org/pdf/2306.13675.pdf)<br/> 
 Kenya Andrews, Bhuvani Shah, and <u>Lu Cheng</u>. In ACL'23 Clinical NLP Workshop. Toronto, Canada. July 9th to July 14th, 2023.
-* A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges [[pdf]](https://arxiv.org/pdf/2305.06969.pdf)  <br/> 
+* A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges [[pdf]](https://arxiv.org/pdf/2305.06969.pdf)[[Media Coverage]](https://montrealethics.ai/a-survey-on-intersectional-fairness-in-machine-learning-notions-mitigation-and-challenges/)  <br/> 
 Usman Gohar and <u>Lu Cheng</u>. In IJCAI'23 Survey Track. Macao, China. 19th-25th August, 2023
 *   CausalSE: Understanding Varied Spatial Effects with Missing Data Toward Adding New Bike-sharing Stations [[pdf]](https://web.archive.org/web/20220524005932id_/https://dl.acm.org/doi/pdf/10.1145/3536427)<br/> 
 Qianru Wang, Bing Guo, <u>Lu Cheng</u>,  Zhiwen Yu, and Huan Liu. In TKDD'23
