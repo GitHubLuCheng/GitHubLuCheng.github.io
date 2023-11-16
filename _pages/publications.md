@@ -33,7 +33,7 @@ World Scientific
 ## Accepted Papers
 * sUrban: Stable Prediction for Unseen Urban Data from Location-based Sensors [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3610877)<br/>
 Qianru Wang, Bing Guo, <u>Lu Cheng</u>, Zhiwen Yu. In UbiComp'23.
-* Equal Opportunity of Coverage in Fair Regression<br/>
+* Equal Opportunity of Coverage in Fair Regression<br/> [[pdf]](https://arxiv.org/pdf/2311.02243.pdf)[[code]](https://github.com/fangxin-wang/bfqr)<br/>
 Fangxin Wang, <u>Lu Cheng</u>, Ruocheng Guo, Kay Liu, Philip S. Yu. In NeurIPS'23. New Orleans, US. Dec 10, 2023 – Dec 16, 2023.
 * Unveiling the Role of Message Passing in Dual-Privacy Preservation on GNNs [[pdf]](https://arxiv.org/abs/2308.13513)<br/> 
 Tianyi Zhao, Hui Hu, <u>Lu Cheng</u>. In CIKM'23. University of Birmingham and Eastside Rooms, UK. 21 - 25 October 2023.
