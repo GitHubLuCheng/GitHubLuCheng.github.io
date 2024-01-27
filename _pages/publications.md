@@ -31,6 +31,7 @@ World Scientific
 </div>
 
 ## Accepted Papers
+* Interpreting Pretrained Language Models via Concept Bottlenecks [[pdf]](https://arxiv.org/pdf/2311.05014.pdf)<br/>Zhen Tan, <u>Lu Cheng</u>, Song Wang, Bo Yuan, Jundong Li, Huan Liu. In PAKDD'24.
 * sUrban: Stable Prediction for Unseen Urban Data from Location-based Sensors [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3610877)<br/>
 Qianru Wang, Bing Guo, <u>Lu Cheng</u>, Zhiwen Yu. In UbiComp'23.
 * Equal Opportunity of Coverage in Fair Regression [[pdf]](https://arxiv.org/pdf/2311.02243.pdf)[[code]](https://github.com/fangxin-wang/bfqr)<br/>
