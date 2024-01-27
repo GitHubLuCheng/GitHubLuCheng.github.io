@@ -12,6 +12,8 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 <font size="3"> **Prospective students**: I am always actively looking for self-motivated PhD students to conduct research in responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. I'm also happy to work with self-funded masters and undergraduate students. Interested students please email me with your CV and transcript(s). </font>
 
 <h2>News</h2>
+- [01/2024] One paper accepted to PAKDD'24. 
+- [01/2024] Invited to serve as a tutorial co-chair at IEEE Big Data'24. 
 - [01/2024] Invited to serve on an NSF panel. 
 - [12/2023] Invited to serve as a PC member for IJCAI'24, KDD'24, and ICML'24. 
 - [12/2023] Selected as one of the AAAI'24 New Faculty Highlight Speakers. 
