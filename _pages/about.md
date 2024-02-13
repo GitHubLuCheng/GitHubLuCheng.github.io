@@ -9,9 +9,11 @@ redirect_from:
 
 I am a tenure-track Assistant Professor in the [Department of Computer Science](https://cs.uic.edu/) at [University of Illinois Chicago (UIC)](https://www.uic.edu/). I lead the Responsible and Reliable AI Lab (R<sup>2</sup> Lab). I received my PhD degree in Computer Science at Arizona State University (ASU) in 2022 advised by Dr. [Huan Liu](https://scholar.google.com/citations?user=Dzf46C8AAAAJ&hl=en), M.Eng. degree in Industrial Engineering at Rensselaer Polytechnique Institute (RPI), and B.Eng. degree in Industrial Engineering at Huazhong University of Science & Technology (HUST). My research interests are broadly in data mining and machine learning, with a particular focus on socially responsible AI, causal machine learning, and AI for social good.
 
-<font size="3"> **Prospective students**: I am always actively looking for self-motivated PhD students to conduct research in responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. I'm also happy to work with self-funded masters and undergraduate students. Interested students please email me with your CV and transcript(s). </font>
+<font size="3"> <strong>Prospective students</strong>: I am always actively looking for self-motivated PhD students to conduct research in responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. I'm also happy to work with self-funded masters and undergraduate students. Interested students, please email me with your CV and transcript(s). </font>
 
 <h2>News</h2>
+- [02/2024] Co-organizing the 2024 Web Conference workshop "AI-Driven Online Advertising" [CFP](https://ai-ads.github.io/web2024/cfp/).
+- [02/2024] Our US patent "Systems and Methods for Unsupervised Cyberbullying Detection via Time-Informed Gaussian Mixture Model" is granted. 
 - [01/2024] One paper accepted to PAKDD'24. 
 - [01/2024] Invited to serve as a tutorial co-chair at IEEE Big Data'24. 
 - [01/2024] Invited to serve on an NSF panel. 
@@ -36,8 +38,3 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 - [02/2023] Invited to serve as a PC member for ECML PKDD'23, ICDM'23, ACL'23, and UAI'23.
 - [01/2023] Invited to serve as a PC member for KDD'23 and a reviewer for ACM Computing Surveys.
 - [01/2023] Receiving a gift grant from Cisco Research for the project on Privacy-Preserving GNNs. Thanks, Cisco!
-- [12/2022] Invited to serve as a PC member for IJCAI '23 and a reviewer for the Journal of Pattern Recognition.
-- [11/2022] Invited to serve on an NSF panel.
-- [10/2022] Invited to serve as a PC member for the Web Conference'23.
-- [10/2022] Invited to serve on an NSF panel.
-- [08/2022] Joined UIC Computer Science Department as a Tenure-Track Assistant Professor.
