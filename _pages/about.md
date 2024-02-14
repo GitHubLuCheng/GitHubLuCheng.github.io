@@ -12,7 +12,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 <font size="3"> <strong>Prospective students</strong>: I am always actively looking for self-motivated PhD students to conduct research in responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. I'm also happy to work with self-funded masters and undergraduate students. Interested students, please email me with your CV and transcript(s). </font>
 
 <h2>News</h2>
-- [02/2024] Co-organizing the 2024 Web Conference workshop [AI-Driven Online Advertising](https://ai-ads.github.io/web2024/cfp/). 
+- [02/2024] Co-organizing the 2024 Web Conference workshop AI-Driven Online Advertising. 
 - [02/2024] Our US patent "Systems and Methods for Unsupervised Cyberbullying Detection via Time-Informed Gaussian Mixture Model" is granted. 
 - [01/2024] One paper accepted to PAKDD'24. 
 - [01/2024] Invited to serve as a tutorial co-chair at IEEE Big Data'24. 
