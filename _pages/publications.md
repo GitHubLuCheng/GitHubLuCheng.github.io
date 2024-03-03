@@ -11,11 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-## arXiv and Preprints
-*   A Survey on Echo Chambers on Social Media: Description, Detection and Mitigation [[pdf]](https://www.google.com/url?q=https://urldefense.com/v3/__https://arxiv.org/pdf/2112.05084__;!!IKRxdwAv5BmarQ!Yg4z8y4L77OtWueFm6yXqfUmrFBQQyNc7wz4q3ASriwSH5ZYWZZ8Kn3zzVIUeiaZzhqYA9FTeYy5xt0$&source=gmail-html&ust=1661048459927000&usg=AOvVaw3t5gh1bQjovHp4hH1WX7bI)  
-    Faisal Alatawi, <u>Lu Cheng</u>, Anique Tahir, Mansooreh Karami, Bohan Jiang, Tyler Black, and Huan Liu. ArXiv. 2021.
-*   Toward Understanding Bias Correlations for Mitigation in NLP [[pdf]](https://arxiv.org/pdf/2205.12391.pdf)  
-    <u>Lu Cheng</u>\*, Suyu Ge\*, and Huan Liu. ArXiv. 2022.
+## New Preprints
+* Large Language Models for Data Annotation: A Survey [[pdf]](https://arxiv.org/pdf/2402.13446v1.pdf)  
+    Zhen Tan, Alimohammad Beigi, Song Wang, Ruocheng Guo, Amrita Bhattacharjee, Bohan Jiang, Mansooreh Karami, Jundong Li, <u>Lu Cheng</u>, Huan Liu
+*   A Survey on Safe Multi-Modal Learning System [[pdf]](https://arxiv.org/pdf/2402.05355.pdf)  
+    Tianyi Zhao, Liangliang Zhang, Yao Mao, <u>Lu Cheng</u>
+*   Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
+    Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, <u>Lu Cheng</u>, Suhang Wang, Philip S. Yu, Yao Ma
     
 ## Books
 * Socially Responsible AI: Theories and Practices [[Link]](https://www.worldscientific.com/worldscibooks/10.1142/13150#t=aboutBook)<br/>
