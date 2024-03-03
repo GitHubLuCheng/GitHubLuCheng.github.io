@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## New Preprints
+### New Preprints
 * Large Language Models for Data Annotation: A Survey [[pdf]](https://arxiv.org/pdf/2402.13446v1.pdf)  
     Zhen Tan, Alimohammad Beigi, Song Wang, Ruocheng Guo, Amrita Bhattacharjee, Bohan Jiang, Mansooreh Karami, Jundong Li, <u>Lu Cheng</u>, Huan Liu
 *   A Survey on Safe Multi-Modal Learning System [[pdf]](https://arxiv.org/pdf/2402.05355.pdf)  
@@ -19,7 +19,7 @@ author_profile: true
 *   Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
     Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, <u>Lu Cheng</u>, Suhang Wang, Philip S. Yu, Yao Ma
     
-## Books
+### Books
 * Socially Responsible AI: Theories and Practices [[Link]](https://www.worldscientific.com/worldscibooks/10.1142/13150#t=aboutBook)<br/>
 <u>Lu Cheng</u>, Huan Liu. 
 World Scientific 
@@ -32,7 +32,7 @@ World Scientific
   <img src="/images/CML.png" alt="" width="150" height="200">
 </div>
 
-## Accepted Papers
+### Accepted Papers
 * Interpreting Pretrained Language Models via Concept Bottlenecks [[pdf]](https://arxiv.org/pdf/2311.05014.pdf)<br/>Zhen Tan, <u>Lu Cheng</u>, Song Wang, Bo Yuan, Jundong Li, Huan Liu. In PAKDD'24.
 * sUrban: Stable Prediction for Unseen Urban Data from Location-based Sensors [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3610877)<br/>
 Qianru Wang, Bing Guo, <u>Lu Cheng</u>, Zhiwen Yu. In UbiComp'23.
@@ -152,7 +152,7 @@ Paras Sheth, Ruocheng Guo, Kaize Ding, <u>Lu Cheng</u>, K. Selcuk Candan, Huan L
     <u>Lu Cheng</u>, Guangrui Liao, Zhenyuan Liu  
     Applied Mechanics and Materials. 2014, Vol. 719-720, p1268-1274\. 7p.
 
-## Peer-reviewed Posters (with poster papers or abstracts)
+### Peer-reviewed Posters (with poster papers or abstracts)
 *   BullyBlocker: Integrating Data, Computer, and Psychological Science to Identify Cyberbullying on Social Media  
     B. Wheeler, <u>L. Cheng</u>, D. Hall, and Y. N. Silva  
     The 2020 Women in Statistics and Data Science Conference (WSDS), 2020.
