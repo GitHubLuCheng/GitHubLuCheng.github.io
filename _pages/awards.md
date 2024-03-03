@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Awards"
+excerpt: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+*   AAAI New Faculty Highlight, 2024
+*   Cisco Faculty Research Award, 2023
 *   Runner-up of INNS Doctoral Dissertation Award, 2022
 *   ASU Computer Science Outstanding Doctoral Student, 2022
 *   SDM Doctoral Forum Best Poster, 2022
