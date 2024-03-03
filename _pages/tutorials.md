@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Tutorials"
+excerpt: "Tutorials"
 permalink: /tutorials/
 author_profile: true
 ---
