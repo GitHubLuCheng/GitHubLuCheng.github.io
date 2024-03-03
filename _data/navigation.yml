@@ -15,8 +15,5 @@ main:
   - title: "Tutorials"
     url: /tutorials/
 
-  - title: "Services"
-    url: /services
-
   - title: "Awards"
     url: /awards
