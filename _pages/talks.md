@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Invited Talks & Panels"
+excerpt: "Invited Talks & Panels"
 permalink: /talks/
 author_profile: true
 ---
+- Algorithmic Fairness in an Uncertain World, AAAI, 2024 Feb.
+- Algorithmic Fairness in an Uncertain World, Case Western Reserve University, 2023 Oct.
 - Applied Causal Inference with Surrogate Representations, LMU Munich, 2023 July.
 - Algorithmic Fairness in an Uncertain World, Midwest Machine Learning Symposium, 2023 May.
 - Causal Inference with Surrogate Representations in Practice, AGI Group@CMU, 2023 April.
