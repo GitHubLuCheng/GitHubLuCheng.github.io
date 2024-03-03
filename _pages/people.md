@@ -17,3 +17,6 @@ author_profile: true
 - Baiting Chen, Master student at UCLA, 2023
 - Shan Xie, Master student at Eindhoven Technology University, 2023
 - Xinlin Peng, Undergraduate at ZJU, 2023
+
+### Alumini
+- Bhuvani Shah, Undergraduate at UIC, 2022
