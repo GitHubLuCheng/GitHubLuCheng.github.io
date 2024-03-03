@@ -6,35 +6,14 @@ author_profile: true
 ---
 
 ### PhD Students 
-<div class="uk-grid-small uk-child-width-1-2@s" uk-grid>
-	<div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
-	    <div class="uk-card-media-left uk-cover-container">
-	        <img src="/images/Liancheng_photo.jpg" alt="" uk-cover>
-	        <canvas width="600" height="400"></canvas>
-	    </div>
-	    <div>
-	        <div class="uk-card-body">
-	            <h3 class="uk-card-title"><a href="https://fangliancheng.github.io/">Liancheng Fang</a></h3>
-	            <p>2023 Fall - Present</p>
-	        </div>
-	    </div>
-	</div>
-</div>
+- Lei Jiang, 2024 Fall
+- Jing Luo, 2024 Fall
+- Tian Tan, 2024 Fall
+- Xiaofan Zhou, 2024 Fall
 
-
-### Master and Undergraduate Students
-<div class="uk-grid-small uk-child-width-1-2@s" uk-grid>
-	<div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
-	    <div class="uk-card-media-left uk-cover-container">
-	        <img src="/images/WechatIMG493.jpeg" alt="" uk-cover>
-	        <canvas width="600" height="400"></canvas>
-	    </div>
-	    <div>
-	        <div class="uk-card-body">
-	            <h3 class="uk-card-title">Tianyi Zhao</h3>
-	            <p>Master at USC</p>
-		    <p>06/2022 - Present</p>
-	        </div>
-	    </div>
-	</div>
-</div>
+### Visiting Students and Interns
+- Tianyi Zhao, Master student at USC, 2022
+- Jiayuan Su, Master student at ZJU-UIUC, 2023
+- Baiting Chen, Master student at UCLA, 2023
+- Shan Xie, Master student at Eindhoven Technology University, 2023
+- Xinlin Peng, Undergraduate at ZJU, 2023
