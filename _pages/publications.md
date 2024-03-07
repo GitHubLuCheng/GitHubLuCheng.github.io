@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
-* API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access [[pdf]](https://arxiv.org/pdf/2403.01216.pdf)
+* API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access [[pdf]](https://arxiv.org/pdf/2403.01216.pdf)  
   Jiayuan Su, Jing Luo, Hongwei Wang, <u>Lu Cheng</u>
 * Large Language Models for Data Annotation: A Survey [[pdf]](https://arxiv.org/pdf/2402.13446v1.pdf)  
     Zhen Tan, Alimohammad Beigi, Song Wang, Ruocheng Guo, Amrita Bhattacharjee, Bohan Jiang, Mansooreh Karami, Jundong Li, <u>Lu Cheng</u>, Huan Liu
