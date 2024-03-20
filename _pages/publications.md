@@ -21,13 +21,15 @@ author_profile: true
 *   Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
     Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, <u>Lu Cheng</u>, Suhang Wang, Philip S. Yu, Yao Ma
     
-### Books
+### Books and Book Chapters
 * Socially Responsible AI: Theories and Practices [[Link]](https://www.worldscientific.com/worldscibooks/10.1142/13150#t=aboutBook)<br/>
 <u>Lu Cheng</u>, Huan Liu. 
 World Scientific 
 * 因果推断与机器学习 [[Link]](https://item.jd.com/13539573.html)<br/>
 郭若城, <u>程璐</u>, 刘昊, 刘欢. 
 电子工业出版社
+* Algorithmic Fairness in Machine Learning [[PDF]](https://mengnandu.com/files/Algorithmic_Fairness_in_Machine_Learning.pdf)
+Mengnan Du, <u>Lu Cheng</u>, Dejing Dou.
 
 <div style="display: flex;">
   <img src="/images/SRAI.png" alt="" width="250" height="150">
