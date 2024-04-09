@@ -6,17 +6,22 @@ author_profile: true
 ---
 
 ### PhD Students 
+- Yuwei Han, 2024 Fall
 - Lei Jiang, 2024 Fall
 - Jing Luo, 2024 Fall
-- Tian Tan, 2024 Fall
 - Xiaofan Zhou, 2024 Fall
 
+### Master and Undergraduate Students 
+- Rajvi Shah, Undergraduate at UIC, 2024-
+- Tri Quan Do, Master student at UIC, 2024-
+  
 ### Visiting Students and Interns
-- Tianyi Zhao, Master student at USC, 2022
-- Jiayuan Su, Master student at ZJU-UIUC, 2023
-- Baiting Chen, Master student at UCLA, 2023
-- Shan Xie, Master student at Eindhoven Technology University, 2023
-- Xinlin Peng, Undergraduate at ZJU, 2023
+- Jiayuan Su, Master student at ZJU-UIUC, 2023-
+- Baiting Chen, Master student at UCLA, 2023-
+- Xinlin Peng, Undergraduate at ZJU, 2023-
+- Jiancheng Dong, Undergraduate at Nanjing University, 2024-
 
 ### Alumini
+- Tianyi Zhao, Master student at USC, 2022-24
+- Shan Xie, Master student at Eindhoven Technology University, 2023-24
 - Bhuvani Shah, Undergraduate at UIC, 2022
