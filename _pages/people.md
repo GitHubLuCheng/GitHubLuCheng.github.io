@@ -4,9 +4,9 @@ title: ""
 permalink: /people/
 author_profile: true
 ---
+I'm very grateful to work with these self-motivated and brilliant students!
 
 ### PhD Students 
-- Yuwei Han, 2024 Fall
 - Lei Jiang, 2024 Fall
 - Jing Luo, 2024 Fall
 - Xiaofan Zhou, 2024 Fall
