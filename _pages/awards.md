@@ -4,6 +4,7 @@ title: ""
 permalink: /awards/
 author_profile: true
 ---
+*   PAKDD Best Paper Award, 2024
 *   AAAI New Faculty Highlight, 2024
 *   Cisco Faculty Research Award, 2023
 *   Runner-up of INNS Doctoral Dissertation Award, 2022
