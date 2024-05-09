@@ -14,6 +14,7 @@ I'm very grateful to work with these self-motivated and brilliant students!
 ### Master and Undergraduate Students 
 - Rajvi Shah, Undergraduate at UIC, 2024-
 - Tri Quan Do, Master student at UIC, 2024-
+- Shweta Parihar, Master student at UIC, 2024-
   
 ### Visiting Students and Interns
 - Jiayuan Su, Master student at ZJU-UIUC, 2023-
