@@ -12,6 +12,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **Prospective students**: I am always actively looking for self-motivated PhD students to conduct research in responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. I'm also happy to work with self-funded masters and undergraduate students. Interested students, please email me with your CV and transcript(s). 
 
 <h3>News</h3>
+- [05/2024] Invited talk "Conformal Methods for Reliable and Fair Machine Learning" at the IDEAL Graph Representation Learning Workshop.
 - [05/2024] Our tutorial and survey paper "Safe Multi-Modal Machine Learning" are accepted to KDD'24.
 - [05/2024] Our NAIRR Pilot project on uncertainty quantification for LLMs has been selected! 
 - [05/2024] Our paper "Conformalized Link Prediction" is accepted to KDD'24. 
@@ -22,7 +23,6 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 - [01/2024] One paper accepted to PAKDD'24. 
 - [01/2024] Invited to serve as a tutorial co-chair at IEEE Big Data'24. 
 - [01/2024] Invited to serve on an NSF panel. 
-- [12/2023] Invited to serve as a PC member for IJCAI'24, KDD'24, and ICML'24. 
 - [12/2023] Selected as one of the AAAI'24 New Faculty Highlight Speakers. 
 - [10/2023] Invited talk at Case Western Reserve University. 
 - [10/2023] One paper accepted to UbiComp'23. 
@@ -36,10 +36,6 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 - [07/2023] One paper accepted to ECAI'23. 
 - [06/2023] Invited to serve as a Senior PC member for AAAI'24. 
 - [06/2023] Thrilled to win the runner-up of the 2022-23 INNS Doctoral Dissertation Award! 
-- [06/2023] One paper accepted to ACL'23 Clinical NLP workshop. 
-- [05/2023] Invited to serve as a reviewer for ACM Computing Surveys and IEEE TKDE, a PC member for IEEE CogMI'23.
+- [06/2023] One paper accepted to ACL'23 Clinical NLP workshop.
 - [04/2023] Our work on intersectional fairness is accepted to IJCAI'23 Survey Track. 
-- [04/2023] Invited to serve as a reviewer for NeurIPS'23 and IEEE Big Data'23.
-- [02/2023] Invited to serve as a PC member for ECML PKDD'23, ICDM'23, ACL'23, and UAI'23.
-- [01/2023] Invited to serve as a PC member for KDD'23 and a reviewer for ACM Computing Surveys.
 - [01/2023] Receiving a gift grant from Cisco Research for the project on Privacy-Preserving GNNs. Thanks, Cisco!
