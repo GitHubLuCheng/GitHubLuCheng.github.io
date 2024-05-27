@@ -16,8 +16,6 @@ author_profile: true
   Jiayuan Su, Jing Luo, Hongwei Wang, <u>Lu Cheng</u>
 * Large Language Models for Data Annotation: A Survey [[pdf]](https://arxiv.org/pdf/2402.13446v1.pdf)  
     Zhen Tan, Alimohammad Beigi, Song Wang, Ruocheng Guo, Amrita Bhattacharjee, Bohan Jiang, Mansooreh Karami, Jundong Li, <u>Lu Cheng</u>, Huan Liu
-*   A Survey on Safe Multi-Modal Learning System [[pdf]](https://arxiv.org/pdf/2402.05355.pdf)  
-    Tianyi Zhao, Liangliang Zhang, Yao Mao, <u>Lu Cheng</u>
 *   Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
     Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, <u>Lu Cheng</u>, Suhang Wang, Philip S. Yu, Yao Ma
     
@@ -37,6 +35,8 @@ World Scientific
 </div>
 
 ### Accepted Papers
+* A Survey on Safe Multi-Modal Learning System [[pdf]](https://arxiv.org/pdf/2402.05355.pdf)  
+    Tianyi Zhao, Liangliang Zhang, Yao Mao, <u>Lu Cheng</u>. In KDD'24.
 * Conformalized Link Prediction. <br/>Tianyi Zhao, Jian Kang, <u>Lu Cheng</u>. In KDD'24. 
 * Interpreting Pretrained Language Models via Concept Bottlenecks [[pdf]](https://arxiv.org/pdf/2311.05014.pdf)<br/>Zhen Tan, <u>Lu Cheng</u>, Song Wang, Bo Yuan, Jundong Li, Huan Liu. In PAKDD'24.
 * sUrban: Stable Prediction for Unseen Urban Data from Location-based Sensors [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3610877)<br/>
