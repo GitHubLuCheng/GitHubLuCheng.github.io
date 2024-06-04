@@ -35,6 +35,8 @@ World Scientific
 </div>
 
 ### Accepted Papers
+* JORA: JAX Tensor-Parallel LoRA Library for Retrieval Augmented Fine-Tuning [[pdf]](https://arxiv.org/pdf/2403.11366)<br/>
+  Anique Tahir, <u>Lu Cheng</u>, Huan Liu. In ACL'24 System Demo Track.
 * A Survey on Safe Multi-Modal Learning System [[pdf]](https://arxiv.org/pdf/2402.05355.pdf)  
     Tianyi Zhao, Liangliang Zhang, Yao Mao, <u>Lu Cheng</u>. In KDD'24.
 * Conformalized Link Prediction. <br/>Tianyi Zhao, Jian Kang, <u>Lu Cheng</u>. In KDD'24. 
