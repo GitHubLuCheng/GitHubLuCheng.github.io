@@ -23,8 +23,8 @@ author_profile: true
 * Socially Responsible AI: Theories and Practices [[Link]](https://www.worldscientific.com/worldscibooks/10.1142/13150#t=aboutBook)<br/>
 <u>Lu Cheng</u>, Huan Liu. 
 World Scientific 
-* 因果推断与机器学习 [[Link]](https://item.jd.com/13539573.html)<br/>
-郭若城, <u>程璐</u>, 刘昊, 刘欢. 
+* 因果推断与机器学习 (Causal Inference and Machine Learning) [[Link]](https://item.jd.com/13539573.html)<br/>
+郭若城, <u>程璐</u>, 刘昊, 刘欢. (Ruocheng Guo, <u>Lu Cheng</u>, Hao Liu, Huan Liu) 
 电子工业出版社
 * Algorithmic Fairness in Machine Learning [[PDF]](https://mengnandu.com/files/Algorithmic_Fairness_in_Machine_Learning.pdf)<br/>
   Mengnan Du, <u>Lu Cheng</u>, Dejing Dou.
