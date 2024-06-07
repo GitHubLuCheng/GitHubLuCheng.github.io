@@ -12,6 +12,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **Prospective students**: I am always actively looking for self-motivated PhD students to conduct research in responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. I'm also happy to work with self-funded masters and undergraduate students. Interested students, please email me with your CV and transcript(s). 
 
 <h3>News</h3>
+- [06/2024] Invited to serve as the EMNLP'24 Area Chair.
 - [06/2024] Our JORA paper is accepted to the ACL'24 System Demo Track.
 - [05/2024] Invited talk "Conformal Methods for Reliable and Fair Machine Learning" at the IDEAL Graph Representation Learning Workshop.
 - [05/2024] Our tutorial and survey paper "Safe Multi-Modal Machine Learning" are accepted to KDD'24.
