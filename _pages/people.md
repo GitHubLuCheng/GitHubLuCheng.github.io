@@ -11,14 +11,18 @@ I'm very grateful to work with these self-motivated and brilliant students!
 - Xiaofan Zhou, 2024 Fall
 
 ### Master and Undergraduate Students 
-- Rajvi Shah, Undergraduate at UIC, 2024-
-- Tri Quan Do, Master student at UIC, 2024-
-- Shweta Parihar, Master student at UIC, 2024-
+- Rajvi Shah, Undergraduate, 2024-
+- Tri Quan Do, Master student, 2024-
+- Shweta Parihar, Master student, 2024-
+- Sai Shridhar Balamurali, Master student, 2024-
   
 ### Visiting Students and Interns
 - Baiting Chen, Master student at UCLA, 2023-
+- Zicong He, Master student at PSU, 2024-
 - Xinlin Peng, Undergraduate at ZJU, 2023-
 - Jiancheng Dong, Undergraduate at Nanjing University, 2024-
+- Zimo Qi, Undergraduate at SUST, 2024-
+- Haoyang Li, Undergraduate at HUST, 2024-
 
 ### Alumini
 - Jiayuan Su, Master student at ZJU-UIUC, 2023-24
