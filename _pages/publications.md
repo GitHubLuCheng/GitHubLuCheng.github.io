@@ -35,6 +35,10 @@ World Scientific
 </div>
 
 ### Accepted Papers
+* Evaluating LLMs Capabilities Towards Understanding Social Dynamics <br/>
+Anique Tahir, Lu Cheng, Manuel Sandoval, Yasin Silva, Deborah Hall and Huan Liu. In ASONAM'24
+* Robust Stance Detection: Understanding Public Perceptions in Social Media <br/>
+Nayoung Kim, David Mosallanezhad, Lu Cheng, Michelle Mancenido and Huan Liu. In ASONAM'24
 * JORA: JAX Tensor-Parallel LoRA Library for Retrieval Augmented Fine-Tuning [[pdf]](https://arxiv.org/pdf/2403.11366)<br/>
   Anique Tahir, <u>Lu Cheng</u>, Huan Liu. In ACL'24 System Demo Track.
 * A Survey on Safe Multi-Modal Learning System [[pdf]](https://arxiv.org/pdf/2402.05355.pdf)  
