@@ -12,6 +12,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **Prospective students**: I am always actively looking for self-motivated PhD students to conduct research in responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. I'm also happy to work with self-funded masters and undergraduate students. Interested students, please email me with your CV and transcript(s). 
 
 <h3>News</h3>
+- [07/2024] Our proposal "Track 2 Acquisition of a GPU Cluster for Accelerating HIPAA-Compliant Data-Driven Research" is granted. (My role: Senior Personnel). Thanks NSF!
 - [07/2024] Invited to serve as a reviewer for KDD'25 and ACM TiiS.
 - [07/2024] Received a DHS grant as a Co-PI. Thanks, DHS!
 - [07/2024] Two papers accepted to ASONAM'24.
