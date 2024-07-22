@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track Assistant Professor in the [Department of Computer Science](https://cs.uic.edu/) at [University of Illinois Chicago (UIC)](https://www.uic.edu/). I lead the Responsible and Reliable AI Lab (R<sup>2</sup> Lab). I received my PhD degree in Computer Science at Arizona State University (ASU) in 2022 advised by Dr. [Huan Liu](https://scholar.google.com/citations?user=Dzf46C8AAAAJ&hl=en), M.Eng. degree in Industrial Engineering at Rensselaer Polytechnique Institute (RPI), and B.Eng. degree in Industrial Engineering at Huazhong University of Science & Technology (HUST). My research interests are broadly in AI, with a particular focus on socially responsible AI, causal machine learning, and AI for social good. More details can be found in my [CV](https://drive.google.com/file/d/1s1oTAlrdcz544au1tHUAYIjSouUWhhL0/view).
+I am a tenure-track Assistant Professor in the [Department of Computer Science](https://cs.uic.edu/) at [University of Illinois Chicago (UIC)](https://www.uic.edu/). I lead the Responsible and Reliable AI Lab (R<sup>2</sup> Lab). I received my PhD degree in Computer Science at Arizona State University (ASU) in 2022 advised by Dr. [Huan Liu](https://scholar.google.com/citations?user=Dzf46C8AAAAJ&hl=en), M.Eng. degree in Industrial Engineering at Rensselaer Polytechnique Institute (RPI), and B.Eng. degree in Industrial Engineering at Huazhong University of Science & Technology (HUST). My research interests are broadly in AI, with a particular focus on socially responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. More details can be found in my [CV](https://drive.google.com/file/d/1s1oTAlrdcz544au1tHUAYIjSouUWhhL0/view).
 
-**Prospective students**: I am always actively looking for self-motivated PhD students to conduct research in responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. I'm also happy to work with self-funded masters and undergraduate students. Interested students, please email me with your CV and transcript(s). 
+**Prospective students**: I am constantly seeking students who are fueled by relentless curiosity and an unyielding drive, those who dare to challenge the status quo and push the boundaries of knowledge. If you are one of these people, please email me your CV and transcript(s). 
 
 <h3>News</h3>
-- [07/2024] Our proposal "Track 2 Acquisition of a GPU Cluster for Accelerating HIPAA-Compliant Data-Driven Research" is granted. (My role: Senior Personnel). Thanks NSF!
+- [07/2024] Received an NSF grant "Track 2 Acquisition of a GPU Cluster for Accelerating HIPAA-Compliant Data-Driven Research" as a senior personnel. Thanks, NSF!
 - [07/2024] Invited to serve as a reviewer for KDD'25 and ACM TiiS.
 - [07/2024] Received a DHS grant as a Co-PI. Thanks, DHS!
 - [07/2024] Two papers accepted to ASONAM'24.
