@@ -35,6 +35,8 @@ World Scientific
 </div>
 
 ### Accepted Papers
+* Media Bias Matters: Understanding the Impact of Politically Biased News on Vaccine Attitudes in Social Media [[pdf]](https://arxiv.org/pdf/2403.04009) <br/>
+Bohan Jiang, <u>Lu Cheng</u>, Zhen Tan, Ruocheng Guo, Huan Liu. In DSAA'24
 * Evaluating LLMs Capabilities Towards Understanding Social Dynamics <br/>
 Anique Tahir, <u>Lu Cheng</u>, Manuel Sandoval, Yasin Silva, Deborah Hall and Huan Liu. In ASONAM'24
 * Robust Stance Detection: Understanding Public Perceptions in Social Media <br/>
