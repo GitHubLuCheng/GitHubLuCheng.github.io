@@ -12,6 +12,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **Prospective students**: I am constantly seeking students who are fueled by relentless curiosity and an unyielding drive, those who dare to challenge the status quo and push the boundaries of knowledge. If you are one of these people, please email me your CV and transcript(s). 
 
 <h3>News</h3>
+- [07/2024] One paper accepted to DSAA'24. 
 - [07/2024] Received an NSF grant "Track 2 Acquisition of a GPU Cluster for Accelerating HIPAA-Compliant Data-Driven Research" as a senior personnel. Thanks, NSF!
 - [07/2024] Invited to serve as a reviewer for KDD'25 and ACM TiiS.
 - [07/2024] Received a DHS grant as a Co-PI. Thanks, DHS!
@@ -22,7 +23,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 - [05/2024] Our tutorial and survey paper "Safe Multi-Modal Machine Learning" are accepted to KDD'24.
 - [05/2024] Our NAIRR Pilot project on uncertainty quantification for LLMs has been selected! 
 - [05/2024] Our paper "Conformalized Link Prediction on Graph Neural Networks" is accepted to KDD'24. 
-- [05/2024] Our PAKDD'24 paper "Interpreting Pretrained Language Models via Concept Bottlenecks" received the Best Paper Award. 
+- [05/2024] **Our PAKDD'24 paper "Interpreting Pretrained Language Models via Concept Bottlenecks" received the Best Paper Award**. 
 - [04/2024] Invited to serve as an Area Chair at ICDM'24.
 - [02/2024] Co-organizing the 2024 Web Conference workshop AI-Driven Online Advertising. 
 - [02/2024] Our US patent "Systems and Methods for Unsupervised Cyberbullying Detection via Time-Informed Gaussian Mixture Model" is granted. 
