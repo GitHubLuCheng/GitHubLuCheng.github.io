@@ -12,7 +12,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **Prospective students**: I am constantly seeking students who are fueled by relentless curiosity and an unyielding drive, those who dare to challenge the status quo and push the boundaries of knowledge. If you are one of these people, please email me your CV and transcript(s). 
 
 <h3>News</h3>
-- [07/2024] Received and NIH RO1 grant as a co-PI. Thanks, NIH!
+- [07/2024] Received an NIH RO1 grant as a Co-PI. Thanks, NIH!
 - [07/2024] One paper accepted to DSAA'24. 
 - [07/2024] Received an NSF grant "Track 2 Acquisition of a GPU Cluster for Accelerating HIPAA-Compliant Data-Driven Research" as a senior personnel. Thanks, NSF!
 - [07/2024] Invited to serve as a reviewer for KDD'25 and ACM TiiS.
@@ -46,4 +46,4 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 - [06/2023] Thrilled to win the runner-up of the 2022-23 INNS Doctoral Dissertation Award! 
 - [06/2023] One paper accepted to ACL'23 Clinical NLP workshop.
 - [04/2023] Our work on intersectional fairness is accepted to IJCAI'23 Survey Track. 
-- [01/2023] Receiving a gift grant from Cisco Research for the project on Privacy-Preserving GNNs. Thanks, Cisco!
+- [01/2023] Receiving a gift grant from Cisco Research for the project on Privacy-Preserving GNNs as a sole PI. Thanks, Cisco!
