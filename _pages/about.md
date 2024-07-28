@@ -15,7 +15,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 - [07/2024] Received an NIH RO1 grant as a Co-PI. Thanks, NIH!
 - [07/2024] One paper accepted to DSAA'24. 
 - [07/2024] Received an NSF grant "Track 2 Acquisition of a GPU Cluster for Accelerating HIPAA-Compliant Data-Driven Research" as a senior personnel. Thanks, NSF!
-- [07/2024] Invited to serve as a reviewer for KDD'25 and ACM TiiS.
+- [07/2024] Invited to serve as a reviewer for Neurocomputing, KDD'25, and ACM TiiS.
 - [07/2024] Received a DHS grant as a Co-PI. Thanks, DHS!
 - [07/2024] Two papers accepted to ASONAM'24.
 - [06/2024] Invited to serve as the EMNLP'24 Area Chair.
@@ -24,10 +24,10 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 - [05/2024] Our tutorial and survey paper "Safe Multi-Modal Machine Learning" are accepted to KDD'24.
 - [05/2024] Our NAIRR Pilot project on uncertainty quantification for LLMs has been selected! 
 - [05/2024] Our paper "Conformalized Link Prediction on Graph Neural Networks" is accepted to KDD'24. 
-- [05/2024] **Our PAKDD'24 paper "Interpreting Pretrained Language Models via Concept Bottlenecks" received the Best Paper Award**. 
+- [05/2024] **Our PAKDD'24 paper "Interpreting Pretrained Language Models via Concept Bottlenecks" receives the Best Paper Award**. 
 - [04/2024] Invited to serve as an Area Chair at ICDM'24.
 - [02/2024] Co-organizing the 2024 Web Conference workshop AI-Driven Online Advertising. 
-- [02/2024] Our US patent "Systems and Methods for Unsupervised Cyberbullying Detection via Time-Informed Gaussian Mixture Model" is granted. 
+- [02/2024] Two US patents are granted. 
 - [01/2024] One paper accepted to PAKDD'24. 
 - [01/2024] Invited to serve as a tutorial co-chair at IEEE Big Data'24. 
 - [01/2024] Invited to serve on an NSF panel. 
