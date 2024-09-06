@@ -11,7 +11,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 
 **Prospective students**: I am constantly seeking curious and self-motivated PhD students. If you are one of these people, please email me your CV and transcript(s). I'm also happy to work with self-funded master's and undergraduate students.
 
-**What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/) [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers) [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md#1-invest-in-projects-not-papers)
+**What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md#1-invest-in-projects-not-papers)
 
 <h3>News</h3>
 - [09/2024] Invited to serve as the WSDM'25 Student Travel Award co-chair.
