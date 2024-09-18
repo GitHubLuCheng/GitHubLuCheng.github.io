@@ -14,7 +14,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md#1-invest-in-projects-not-papers)
 
 <h3>News</h3>
-- [09/2024] Super happy to represent UIC as a part of the [SkAI](https://skai-institute.github.io/) institute, a Simons-NSF AI Institute! Will explore responsible AI and AI ethics training in the context of astronomy.
+- [09/2024] Super happy to represent UIC as a part of the [SkAI](https://skai-institute.github.io/) institute, a Simons-NSF AI Institute! Our lab will explore responsible AI research and AI ethics training in the context of astronomy.
 - [09/2024] Invited to serve as ICLR'25 Area Chair.
 - [09/2024] Invited to serve as WSDM'25 Student Travel Award co-chair.
 - [07/2024] Received an NIH RO1 grant as a Co-I.
