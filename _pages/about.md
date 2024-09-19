@@ -15,6 +15,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 
 <h3>News</h3>
 - [09/2024] Super happy to represent UIC as a part of the [SkAI](https://skai-institute.github.io/) institute, a Simons-NSF AI Institute! Our lab will explore responsible AI research and AI ethics training in the context of astronomy.
+- [09/2024] 4 papers accepted to EMNLP'24.
 - [09/2024] Invited to serve as ICLR'25 Area Chair.
 - [09/2024] Invited to serve as WSDM'25 Student Travel Award co-chair.
 - [07/2024] Received an NIH RO1 grant as a Co-I.
