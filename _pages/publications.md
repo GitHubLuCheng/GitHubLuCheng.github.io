@@ -12,9 +12,10 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
-* Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs [[pdf]](https://arxiv.org/pdf/2408.09327)
+* Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs [[pdf]](https://arxiv.org/pdf/2408.09327)  
   Jiancheng Dong, Lei Jiang, Wei Jin, <u>Lu Cheng</u>
-* Long-Term Fairness Inquiries and Pursuits in Machine Learning: A Survey of Notions, Methods, and Challenges [[pdf]](https://arxiv.org/pdf/2406.06736)
+* Long-Term Fairness Inquiries and Pursuits in Machine Learning: A Survey of Notions, Methods, and Challenges [[pdf]](https://arxiv.org/pdf/2406.06736)  
+  Usman Gohar, Zeyu Tang, Jialu Wang, Kun Zhang, Peter L Spirtes, Yang Liu, <u>Lu Cheng</u>
 * Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
     Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, <u>Lu Cheng</u>, Suhang Wang, Philip S. Yu, Yao Ma
     
