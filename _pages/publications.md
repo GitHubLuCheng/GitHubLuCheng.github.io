@@ -12,8 +12,10 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
-
-*   Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
+* Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs [[pdf]](https://arxiv.org/pdf/2408.09327)
+  Jiancheng Dong, Lei Jiang, Wei Jin, <u>Lu Cheng</u>
+* Long-Term Fairness Inquiries and Pursuits in Machine Learning: A Survey of Notions, Methods, and Challenges [[pdf]](https://arxiv.org/pdf/2406.06736)
+* Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
     Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, <u>Lu Cheng</u>, Suhang Wang, Philip S. Yu, Yao Ma
     
 ### Books and Book Chapters
@@ -32,7 +34,7 @@ World Scientific
 </div>
 
 ### Accepted Papers
-ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees [[pdf]](https://arxiv.org/pdf/2407.00499) <br/>
+* ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees [[pdf]](https://arxiv.org/pdf/2407.00499) <br/>
 Zhiyuan Wang, Jinhao Duan, <u>Lu Cheng</u>, Yue Zhang, Qingni Wang, Xiaoshuang Shi, Kaidi Xu, Heng Tao Shen, Xiaofeng Zhu. In EMNLP'24 (Findings).
 * LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing [[pdf]](https://arxiv.org/pdf/2406.16253) <br/>
 Jiangshu Du, Yibo Wang, Wenting Zhao, Zhongfen Deng, Shuaiqi LIU, Renze Lou, Henry Peng Zou, Pranav Narayanan Venkit, Nan Zhang, Mukund Srinath, Haoran Ranran Zhang, Vipul Gupta, Yinghui Li, Tao Li, Fei Wang, Qin Liu, Tianlin Liu, Pengzhi Gao, Congying Xia, Chen Xing et al. In EMNLP'24 (Main Track)
