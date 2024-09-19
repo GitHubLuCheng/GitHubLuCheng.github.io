@@ -12,10 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
-* API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access [[pdf]](https://arxiv.org/pdf/2403.01216.pdf)  
-  Jiayuan Su, Jing Luo, Hongwei Wang, <u>Lu Cheng</u>
-* Large Language Models for Data Annotation: A Survey [[pdf]](https://arxiv.org/pdf/2402.13446v1.pdf)  
-    Zhen Tan, Alimohammad Beigi, Song Wang, Ruocheng Guo, Amrita Bhattacharjee, Bohan Jiang, Mansooreh Karami, Jundong Li, <u>Lu Cheng</u>, Huan Liu
+
 *   Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
     Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, <u>Lu Cheng</u>, Suhang Wang, Philip S. Yu, Yao Ma
     
@@ -35,6 +32,14 @@ World Scientific
 </div>
 
 ### Accepted Papers
+ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees [[pdf]](https://arxiv.org/pdf/2407.00499) <br/>
+Zhiyuan Wang, Jinhao Duan, <u>Lu Cheng</u>, Yue Zhang, Qingni Wang, Xiaoshuang Shi, Kaidi Xu, Heng Tao Shen, Xiaofeng Zhu. In EMNLP'24 (Findings).
+* LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing [[pdf]](https://arxiv.org/pdf/2406.16253) <br/>
+Jiangshu Du, Yibo Wang, Wenting Zhao, Zhongfen Deng, Shuaiqi LIU, Renze Lou, Henry Peng Zou, Pranav Narayanan Venkit, Nan Zhang, Mukund Srinath, Haoran Ranran Zhang, Vipul Gupta, Yinghui Li, Tao Li, Fei Wang, Qin Liu, Tianlin Liu, Pengzhi Gao, Congying Xia, Chen Xing et al. In EMNLP'24 (Main Track)
+* API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access [[pdf]](https://arxiv.org/pdf/2403.01216.pdf) <br/>
+  Jiayuan Su, Jing Luo, Hongwei Wang, <u>Lu Cheng</u>. In EMNLP'24 (Findings).
+* Large Language Models for Data Annotation: A Survey [[pdf]](https://arxiv.org/pdf/2402.13446v1.pdf) <br/>
+    Zhen Tan, Dawei Li, Song Wang, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, <u>Lu Cheng</u>, Huan Liu. In EMNLP'24 (Main Track)
 * Media Bias Matters: Understanding the Impact of Politically Biased News on Vaccine Attitudes in Social Media [[pdf]](https://arxiv.org/pdf/2403.04009) <br/>
 Bohan Jiang, <u>Lu Cheng</u>, Zhen Tan, Ruocheng Guo, Huan Liu. In DSAA'24
 * Evaluating LLMs Capabilities Towards Understanding Social Dynamics <br/>
