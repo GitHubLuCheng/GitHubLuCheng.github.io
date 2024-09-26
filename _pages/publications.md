@@ -35,6 +35,8 @@ World Scientific
 </div>
 
 ### Accepted Papers
+* Conformalized Time Series with Semantic Features <br/>
+  Baiting Chen, Zhimei Ren, <u>Lu Cheng</u>. In NeurIPS'24 (Main Track)
 * ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees [[pdf]](https://arxiv.org/pdf/2407.00499) <br/>
 Zhiyuan Wang, Jinhao Duan, <u>Lu Cheng</u>, Yue Zhang, Qingni Wang, Xiaoshuang Shi, Kaidi Xu, Heng Tao Shen, Xiaofeng Zhu. In EMNLP'24 (Findings).
 * LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing [[pdf]](https://arxiv.org/pdf/2406.16253) <br/>
