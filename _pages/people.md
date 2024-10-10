@@ -19,7 +19,7 @@ I'm very grateful to work with these self-motivated and curious students!
   
 ### Visiting Students and Interns
 - Baiting Chen, Master student at UCLA, 2023-
-- Zicong He, Master student at PSU, 2024-
+- Zicong He, Master student at Georgia Tech, 2024-
 - Zimo Qi, Undergraduate at SUST, 2024-
 
 ### Alumini
