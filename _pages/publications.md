@@ -55,7 +55,7 @@ Nayoung Kim, David Mosallanezhad, <u>Lu Cheng</u>, Michelle Mancenido and Huan L
   Anique Tahir, <u>Lu Cheng</u>, Huan Liu. In ACL'24 System Demo Track.
 * A Survey on Safe Multi-Modal Learning System [[pdf]](https://arxiv.org/pdf/2402.05355.pdf)  
     Tianyi Zhao, Liangliang Zhang, Yao Mao, <u>Lu Cheng</u>. In KDD'24.
-* Conformalized Link Prediction [[pdf]](https://arxiv.org/pdf/2406.18763) <br/>Tianyi Zhao, Jian Kang, <u>Lu Cheng</u>. In KDD'24. 
+* Conformalized Link Prediction on Graph Neural Networks [[pdf]](https://arxiv.org/pdf/2406.18763) <br/>Tianyi Zhao, Jian Kang, <u>Lu Cheng</u>. In KDD'24. 
 * Interpreting Pretrained Language Models via Concept Bottlenecks **(Best Paper)** [[pdf]](https://arxiv.org/pdf/2311.05014.pdf)<br/>Zhen Tan, <u>Lu Cheng</u>, Song Wang, Bo Yuan, Jundong Li, Huan Liu. In PAKDD'24.
 * sUrban: Stable Prediction for Unseen Urban Data from Location-based Sensors [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3610877)<br/>
 Qianru Wang, Bing Guo, <u>Lu Cheng</u>, Zhiwen Yu. In UbiComp'23.
