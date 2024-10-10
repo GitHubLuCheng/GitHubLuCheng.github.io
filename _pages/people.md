@@ -7,9 +7,9 @@ author_profile: true
 I'm very grateful to work with these self-motivated and curious students!
 
 ### PhD Students 
-- Lei Jiang, 2024 Fall
-- Xiaofan Zhou, 2024 Fall
-- Liangjie Huang, 2025 Spring
+- Lei Jiang, 2024 Fall - 
+- Xiaofan Zhou, 2024 Fall - 
+- Liangjie Huang, 2025 Spring -
 
 ### Master and Undergraduate Students 
 - Rajvi Shah (Honors College), Undergraduate, 2024-
