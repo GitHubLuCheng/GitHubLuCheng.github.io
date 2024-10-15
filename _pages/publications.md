@@ -12,6 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
+* Conformal Prediction: A Data Perspective [[pdf]](https://arxiv.org/pdf/2410.06494)    
+  Xiaofan Zhou\*, Baiting Chen\*, Yu Gui, <u>Lu Cheng</u>
 * Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs [[pdf]](https://arxiv.org/pdf/2408.09327)  
   Jiancheng Dong, Lei Jiang, Wei Jin, <u>Lu Cheng</u>
 * Long-Term Fairness Inquiries and Pursuits in Machine Learning: A Survey of Notions, Methods, and Challenges [[pdf]](https://arxiv.org/pdf/2406.06736)  
