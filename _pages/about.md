@@ -14,6 +14,8 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md#1-invest-in-projects-not-papers)
 
 <h3>News</h3>
+- [10/2024] **New survey paper:** [Conformal Prediction: A Data Perspective](https://arxiv.org/pdf/2410.06494) is now on arXiv. 
+- [10/2024] 2 papers accepted to NeurIPS'24 workshop.
 - [09/2024] 1 paper accepted to NeurIPS'24 Main Track.
 - [09/2024] 4 papers accepted to EMNLP'24.
 - [09/2024] Super happy to represent UIC as a part of the [SkAI](https://skai-institute.github.io/) institute, a Simons-NSF AI Institute! Our lab will explore responsible AI research and AI ethics training in the context of astronomy.
