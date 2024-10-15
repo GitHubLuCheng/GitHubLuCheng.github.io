@@ -37,6 +37,10 @@ World Scientific
 </div>
 
 ### Accepted Papers
+* On Demonstration Selection for Improving Fairness in Language Models    
+  Song Wang, Peng Wang, Yushun Dong, Tong Zhou, <u>Lu Cheng</u>, Yangfeng Ji, Jundong Li. In NeurIPS'24 SoLaR Workshop.
+* Different Horses for Different Courses: Comparing Bias Mitigation Algorithms in ML   
+  Prakhar Ganesh, Usman Gohar, <u>Lu Cheng</u>, Golnoosh Farnadi. In NeurIPS'24 Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop.
 * Conformalized Time Series with Semantic Features <br/>
   Baiting Chen, Zhimei Ren, <u>Lu Cheng</u>. In NeurIPS'24 (Main Track)
 * ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees [[pdf]](https://arxiv.org/pdf/2407.00499) <br/>
