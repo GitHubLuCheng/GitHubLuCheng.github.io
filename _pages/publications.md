@@ -37,6 +37,8 @@ World Scientific
 </div>
 
 ### Accepted Papers
+* Assessing Empathy in Large Language Models with Real-World Physician-Patient Interactions [[pdf]](https://arxiv.org/pdf/2405.16402)    
+  Man Luo, Christopher J Warren, <u>Lu Cheng</u>, Haidar M Abdul-Muhsin, Imon Banerjee. In IEEE Big Data'24
 * On Demonstration Selection for Improving Fairness in Language Models    
   Song Wang, Peng Wang, Yushun Dong, Tong Zhou, <u>Lu Cheng</u>, Yangfeng Ji, Jundong Li. In NeurIPS'24 SoLaR Workshop.
 * Different Horses for Different Courses: Comparing Bias Mitigation Algorithms in ML   
