@@ -14,7 +14,9 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md#1-invest-in-projects-not-papers)
 
 <h3>News</h3>
-- [10/2024] Received Amazon Faculty Research Award, shared with my collaborator [Hua Wei](https://www.public.asu.edu/~hwei27/) from ASU!
+- [10/2024] Received UIC IEHDSR seed funding as Co-PI.
+- [10/2024] 1 paper accepted to IEEE Big Data'24.
+- [10/2024] Received Amazon Research Award, shared with my collaborator [Hua Wei](https://www.public.asu.edu/~hwei27/) from ASU!
 - [10/2024] **New survey paper:** [Conformal Prediction: A Data Perspective](https://arxiv.org/pdf/2410.06494) is now on arXiv. 
 - [10/2024] 2 papers accepted to NeurIPS'24 workshop.
 - [09/2024] 1 paper accepted to NeurIPS'24 Main Track.
