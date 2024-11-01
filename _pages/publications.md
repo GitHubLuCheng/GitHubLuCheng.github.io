@@ -37,6 +37,8 @@ World Scientific
 </div>
 
 ### Accepted Papers
+* FABLE: Fairness Attack in Abusive Language Detection [[pdf]](https://arxiv.org/pdf/2311.09428)    
+  Yueqing Liang, <u>Lu Cheng</u>, and Kai Shu. In IEEE Big Data'24
 * Assessing Empathy in Large Language Models with Real-World Physician-Patient Interactions [[pdf]](https://arxiv.org/pdf/2405.16402)    
   Man Luo, Christopher J Warren, <u>Lu Cheng</u>, Haidar M Abdul-Muhsin, Imon Banerjee. In IEEE Big Data'24
 * On Demonstration Selection for Improving Fairness in Language Models    
