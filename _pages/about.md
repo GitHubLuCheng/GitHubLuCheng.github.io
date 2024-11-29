@@ -15,6 +15,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 
 <h3>News</h3>
 - [11/2024] One paper accepted to COLING'25.
+- [11/2024] Received the UIUC Center for Social & Behavioral Science (CSBS) Small Grant.
 - [10/2024] Received UIC IEHDSR seed funding as Co-PI.
 - [10/2024] Two papers accepted to IEEE Big Data'24.
 - [10/2024] Received Amazon Research Award, shared with my collaborator [Hua Wei](https://www.public.asu.edu/~hwei27/) from ASU!
