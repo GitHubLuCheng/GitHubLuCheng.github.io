@@ -45,9 +45,9 @@ World Scientific
   Man Luo, Christopher J Warren, <u>Lu Cheng</u>, Haidar M Abdul-Muhsin, Imon Banerjee. In IEEE Big Data'24
 * On Demonstration Selection for Improving Fairness in Language Models    
   Song Wang, Peng Wang, Yushun Dong, Tong Zhou, <u>Lu Cheng</u>, Yangfeng Ji, Jundong Li. In NeurIPS'24 SoLaR Workshop.
-* Different Horses for Different Courses: Comparing Bias Mitigation Algorithms in ML   
+* Different Horses for Different Courses: Comparing Bias Mitigation Algorithms in ML [[pdf]](https://arxiv.org/pdf/2411.11101)                     
   Prakhar Ganesh, Usman Gohar, <u>Lu Cheng</u>, Golnoosh Farnadi. In NeurIPS'24 Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop.
-* Conformalized Time Series with Semantic Features <br/>
+* Conformalized Time Series with Semantic Features [[pdf]](https://openreview.net/pdf?id=KcDcaVOW1S) <br/> 
   Baiting Chen, Zhimei Ren, <u>Lu Cheng</u>. In NeurIPS'24 (Main Track)
 * ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees [[pdf]](https://arxiv.org/pdf/2407.00499) <br/>
 Zhiyuan Wang, Jinhao Duan, <u>Lu Cheng</u>, Yue Zhang, Qingni Wang, Xiaoshuang Shi, Kaidi Xu, Heng Tao Shen, Xiaofeng Zhu. In EMNLP'24 (Findings).
