@@ -37,6 +37,8 @@ World Scientific
 </div>
 
 ### Accepted Papers
+* Unveiling Performance Challenges of Large Language Models in Low-Resource Healthcare: A Demographic Fairness Perspective
+  Yue Zhou, Barbara Di Eugenio, and <u>Lu Cheng</u>. In COLING'25
 * FABLE: Fairness Attack in Abusive Language Detection [[pdf]](https://arxiv.org/pdf/2311.09428)    
   Yueqing Liang, <u>Lu Cheng</u>, and Kai Shu. In IEEE Big Data'24
 * Assessing Empathy in Large Language Models with Real-World Physician-Patient Interactions [[pdf]](https://arxiv.org/pdf/2405.16402)    
