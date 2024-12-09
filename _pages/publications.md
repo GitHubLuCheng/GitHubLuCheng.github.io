@@ -59,9 +59,9 @@ Jiangshu Du, Yibo Wang, Wenting Zhao, Zhongfen Deng, Shuaiqi LIU, Renze Lou, Hen
     Zhen Tan, Dawei Li, Song Wang, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, <u>Lu Cheng</u>, Huan Liu. In EMNLP'24 (Main Track)
 * Media Bias Matters: Understanding the Impact of Politically Biased News on Vaccine Attitudes in Social Media [[pdf]](https://arxiv.org/pdf/2403.04009) <br/>
 Bohan Jiang, <u>Lu Cheng</u>, Zhen Tan, Ruocheng Guo, Huan Liu. In DSAA'24
-* Evaluating LLMs Capabilities Towards Understanding Social Dynamics <br/>
+* Evaluating LLMs Capabilities Towards Understanding Social Dynamics [[pdf]](https://arxiv.org/pdf/2411.13008)         
 Anique Tahir, <u>Lu Cheng</u>, Manuel Sandoval, Yasin Silva, Deborah Hall and Huan Liu. In ASONAM'24
-* Robust Stance Detection: Understanding Public Perceptions in Social Media <br/>
+* Robust Stance Detection: Understanding Public Perceptions in Social Media [[pdf]](https://arxiv.org/pdf/2309.15176)          
 Nayoung Kim, David Mosallanezhad, <u>Lu Cheng</u>, Michelle Mancenido and Huan Liu. In ASONAM'24
 * JORA: JAX Tensor-Parallel LoRA Library for Retrieval Augmented Fine-Tuning [[pdf]](https://arxiv.org/pdf/2403.11366)<br/>
   Anique Tahir, <u>Lu Cheng</u>, Huan Liu. In ACL'24 System Demo Track.
