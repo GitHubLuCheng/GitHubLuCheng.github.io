@@ -14,6 +14,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md#1-invest-in-projects-not-papers)
 
 <h3>News</h3>
+- [12/2024] One paper accepted to AAAI'25.
 - [11/2024] One paper accepted to COLING'25.
 - [11/2024] Received the UIUC Center for Social & Behavioral Science (CSBS) Small Grant.
 - [10/2024] Received UIC IEHDSR seed funding as Co-PI.
@@ -44,20 +45,4 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 - [02/2024] Two US patents are granted. 
 - [01/2024] One paper accepted to PAKDD'24. 
 - [01/2024] Invited to serve as a tutorial co-chair at IEEE Big Data'24. 
-- [01/2024] Invited to serve on an NSF panel. 
-- [12/2023] Selected as one of the AAAI'24 New Faculty Highlight Speakers. 
-- [10/2023] Invited talk at Case Western Reserve University. 
-- [10/2023] One paper accepted to UbiComp'23. 
-- [09/2023] One paper accepted to NeurIPS'23.  
-- [09/2023] Our workshop on Responsible Language Models is accepted to AAAI'24. Co-organizing with Vector Institute for AI. 
-- [09/2023] Invited talk at Pacific Causal Inference Conference 2023, Sept 16-17. Beijing, China
-- [08/2023] Invited talk at NSF Tripods Workshop on Privacy, Fairness and Causality in Graphs. UCSC. Oct 19-20.
-- [08/2023] Received an NSF III Medium grant as a Co-PI.
-- [08/2023] Two papers accepted to CIKM'23.
-- [07/2023] Invited to give a talk at LMU Munich.  
-- [07/2023] One paper accepted to ECAI'23. 
-- [06/2023] Invited to serve as a Senior PC member for AAAI'24. 
-- [06/2023] Thrilled to win the runner-up of the 2022-23 INNS Doctoral Dissertation Award! 
-- [06/2023] One paper accepted to ACL'23 Clinical NLP workshop.
-- [04/2023] Our work on intersectional fairness is accepted to IJCAI'23 Survey Track. 
-- [01/2023] Receiving a gift grant from Cisco Research for the project on Privacy-Preserving GNNs as a sole PI. 
+- [01/2024] Invited to serve on an NSF panel.
