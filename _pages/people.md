@@ -7,7 +7,6 @@ author_profile: true
 I'm very grateful to work with these self-motivated and curious students!
 
 ### PhD Students 
-- [Lei Jiang](https://lj1ang.github.io/), 2024 Fall - 
 - [Xiaofan Zhou](https://alearzhou.github.io/), 2024 Fall - 
 - Liangjie Huang, 2025 Spring -
 
