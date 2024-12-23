@@ -16,4 +16,3 @@ author_profile: true
 *   CIDSE Doctoral Fellowship, 2021 Spring
 *   ASU GPSA Outstanding Research Award, 2020
 *   IBM Social Good Fellow, 2020
-*  
