@@ -34,6 +34,6 @@ author_profile: true
 *   Honorable Mention in COMAP’s Mathematical Contest in Modeling, 2014
 *   The 3rd Place in the First Lanesync Supply Chain Design Competition, 2014
 *   The 3rd Place in “Fei Hang” Mathematical Contest in Modeling, 2013
-*   Inovance Technology Scholarship, 2013
+*   Innovation Technology Scholarship, 2013
 *   Scholarship for Outstanding Learning Achievement, 2012 and 2013
 *   Outstanding Undergraduates, 2012
