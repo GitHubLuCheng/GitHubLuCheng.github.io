@@ -4,7 +4,7 @@ title: ""
 permalink: /awards/
 author_profile: true
 ---
-*   Amazon Faculty Research Award, 2024
+*   Amazon Research Award, 2024
 *   PAKDD Best Paper Award, 2024
 *   AAAI New Faculty Highlight, 2024
 *   Cisco Faculty Research Award, 2023
