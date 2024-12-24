@@ -46,9 +46,9 @@ World Scientific
 * Assessing Empathy in Large Language Models with Real-World Physician-Patient Interactions [[pdf]](https://arxiv.org/pdf/2405.16402)    
   Man Luo, Christopher J Warren, <u>Lu Cheng</u>, Haidar M Abdul-Muhsin, Imon Banerjee. In IEEE Big Data'24
 * On Demonstration Selection for Improving Fairness in Language Models [[pdf]](https://openreview.net/pdf?id=V9PCoMqqdO)      
-  Song Wang, Peng Wang, Yushun Dong, Tong Zhou, <u>Lu Cheng</u>, Yangfeng Ji, Jundong Li. In NeurIPS'24 SoLaR Workshop.
+  Song Wang, Peng Wang, Yushun Dong, Tong Zhou, <u>Lu Cheng</u>, Yangfeng Ji, Jundong Li. In NeurIPS'24 SoLaR Workshop. **(Spotlight)**            
 * Different Horses for Different Courses: Comparing Bias Mitigation Algorithms in ML [[pdf]](https://arxiv.org/pdf/2411.11101)                     
-  Prakhar Ganesh, Usman Gohar, <u>Lu Cheng</u>, Golnoosh Farnadi. In NeurIPS'24 Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop.
+  Prakhar Ganesh, Usman Gohar, <u>Lu Cheng</u>, Golnoosh Farnadi. In NeurIPS'24 Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop. **(Spotlight)**        
 * Conformalized Time Series with Semantic Features [[pdf]](https://openreview.net/pdf?id=KcDcaVOW1S) <br/> 
   Baiting Chen, Zhimei Ren, <u>Lu Cheng</u>. In NeurIPS'24 (Main Track)
 * ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees [[pdf]](https://arxiv.org/pdf/2407.00499) <br/>
