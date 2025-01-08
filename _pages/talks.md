@@ -4,6 +4,7 @@ title: ""
 permalink: /talks/
 author_profile: true
 ---
+- Conformal Methods for Reliable and Fair Machine Learning, IDEAL Graph Representation Learning Workshop, 2024 May.
 - Algorithmic Fairness in an Uncertain World, AAAI, 2024 Feb.
 - Algorithmic Fairness in an Uncertain World, Case Western Reserve University, 2023 Oct.
 - Applied Causal Inference with Surrogate Representations, LMU Munich, 2023 July.
