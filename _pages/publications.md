@@ -40,7 +40,7 @@ World Scientific
 
 ### Accepted Papers
 * Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs [[pdf]](https://arxiv.org/pdf/2408.09327)  
-  Jiancheng Dong, Wei Jin, <u>Lu Cheng</u>. In NAACL'25              
+  Jiancheng Dong, Wei Jin, <u>Lu Cheng</u>. In NAACL'25 Main Conference             
 * Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective [[pdf]](https://arxiv.org/pdf/2410.08985?)    
       Bo Ni, Yu Wang, <u>Lu Cheng</u>, Erik Blasch, Tyler Derr. In AAAI'25       
 * Unveiling Performance Challenges of Large Language Models in Low-Resource Healthcare: A Demographic Fairness Perspective [[pdf]](https://arxiv.org/pdf/2412.00554)              
