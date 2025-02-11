@@ -15,11 +15,14 @@ I'm very grateful to work with these self-motivated and curious students!
 - Shreya Ganguly (Honors College), Undergraduate, 2024-
 - Shweta Parihar, Master student, 2024-
 - Sai Shridhar Balamurali, Master student, 2024-
+- Saad Riazuddin Mahmood, Master student, 2025-
+- Sharath Kumar Satish Kumar, Master student, 2025-
   
 ### Visiting Students and Interns
 - Baiting Chen, Master student at UCLA, 2023-
 - Zicong He, Master student at Georgia Tech, 2024-
 - Zimo Qi, Undergraduate at SUST, 2024-
+- Ke Fang, Master student at UPenn, 2025-
 
 ### Alumini
 - Tri Quan Do, Master student, 2024
