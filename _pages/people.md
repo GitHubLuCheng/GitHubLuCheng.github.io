@@ -25,7 +25,7 @@ I'm very grateful to work with these self-motivated and curious students!
 - Ke Fang, Master student at UPenn, 2025-
 
 ### Alumini
-- Tri Quan Do, Master student, 2024
+- Tri Quan Do, Master student at UIC, 2024
 - Jiancheng Dong, Undergraduate at Nanjing University, 2024
 - Jiayuan Su, Master student at ZJU-UIUC, 2023-24
 - Xinlin Peng, Undergraduate at ZJU, 2023-24
