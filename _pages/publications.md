@@ -40,7 +40,7 @@ World Scientific
 
 ### Accepted Papers
 * DBR: Divergence-Based Regularization for Debiasing Natural Language Understanding Models           
-  Zihao Li, Ruixiang Tang, <u> Lu Cheng</u>, Shuaiqiang Wang, Dawei Yin, Mengnan Du. In SIGKDD Explorations.       
+  Zihao Li, Ruixiang Tang, <u> Lu Cheng</u>, Shuaiqiang Wang, Dawei Yin, Mengnan Du. In SIGKDD Explorations'25.       
 * Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs [[pdf]](https://arxiv.org/pdf/2408.09327)  
   Jiancheng Dong, Lei Jiang, Wei Jin, <u> Lu Cheng</u>. In NAACL'25 Main Conference             
 * Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective [[pdf]](https://arxiv.org/pdf/2410.08985?)    
