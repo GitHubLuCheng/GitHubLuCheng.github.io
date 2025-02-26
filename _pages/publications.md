@@ -61,7 +61,7 @@ World Scientific
 Zhiyuan Wang, Jinhao Duan, <u>Lu Cheng</u>, Yue Zhang, Qingni Wang, Xiaoshuang Shi, Kaidi Xu, Heng Tao Shen, Xiaofeng Zhu. In EMNLP'24 (Findings).
 * LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing [[pdf]](https://arxiv.org/pdf/2406.16253) <br/>
 Jiangshu Du, Yibo Wang, Wenting Zhao, Zhongfen Deng, Shuaiqi LIU, Renze Lou, Henry Peng Zou, Pranav Narayanan Venkit, Nan Zhang, Mukund Srinath, Haoran Ranran Zhang, Vipul Gupta, Yinghui Li, Tao Li, Fei Wang, Qin Liu, Tianlin Liu, Pengzhi Gao, Congying Xia, Chen Xing et al. In EMNLP'24 (Main Track)
-* API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access [[pdf]](https://arxiv.org/pdf/2403.01216.pdf) <br/>
+* API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access [[pdf]](https://aclanthology.org/2024.findings-emnlp.54.pdf) <br/>
   Jiayuan Su, Jing Luo, Hongwei Wang, <u>Lu Cheng</u>. In EMNLP'24 (Findings).
 * Large Language Models for Data Annotation: A Survey [[pdf]](https://arxiv.org/pdf/2402.13446v1.pdf) <br/>
     Zhen Tan, Dawei Li, Song Wang, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, <u>Lu Cheng</u>, Huan Liu. In EMNLP'24 (Main Track)
