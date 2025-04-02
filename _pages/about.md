@@ -14,6 +14,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md#1-invest-in-projects-not-papers)
 
 <h3>News</h3>
+- [4/2025] Our survey paper [Conformal Prediction: A Data Perspective](https://arxiv.org/pdf/2410.06494) is accepted to ACM Computing Survey. 
 - [3/2025] Our workshop "SciSoc LLM Workshop: Large Language Models for Scientific and Societal Advances" accepted to KDD'25. Thank [Wei Jin](https://www.cs.emory.edu/~wjin30/) for leading this!
 - [2/2025] One paper accepted to SIGKDD Exploration.
 - [1/2025] One paper accepted to NAACL'25 Main Conference.
