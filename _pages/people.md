@@ -15,13 +15,14 @@ I'm very grateful to work with these self-motivated and curious students!
 - Shweta Parihar, Master student, 2024-
 - Sai Shridhar Balamurali, Master student, 2024-
 - Saad Riazuddin Mahmood, Master student, 2025-
-- Sharath Kumar Satish Kumar, Master student, 2025-
   
 ### Visiting Students and Interns
 - Baiting Chen, Master student at UCLA, 2023-
 - Zicong He, Master student at Georgia Tech, 2024-
 - Boxuan Zhang, Master student at Wuhan University, 2024-
 - Ke Fang, Master student at UPenn, 2025-
+- Kangrui Yu, Undergraduate at NYU, 2025-
+- Yongliang Miao, Undergraduate in Beijing Normal University-Hong Kong Baptist University United International College, 2025-
 
 ### Alumini
 - Zimo Qi, Undergraduate at SUSTech, 2024-25
