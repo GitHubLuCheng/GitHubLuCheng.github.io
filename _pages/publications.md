@@ -28,7 +28,7 @@ Dong Shu, Haiyan Zhao, Jingyu Hu, Weirui Liu, <u>Lu Cheng</u>, Mengnan Du
 ### Books and Book Chapters
 * Socially Responsible AI: Theories and Practices [[Link]](https://www.worldscientific.com/worldscibooks/10.1142/13150#t=aboutBook)<br/>
 <u>Lu Cheng</u>, Huan Liu. 
-World Scientific 
+World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.0 package](https://www.worldscientific.com/area/ai-iot-2)                     
 * 因果推断与机器学习 (Causal Inference and Machine Learning) [[Link]](https://item.jd.com/13539573.html)<br/>
 郭若城, <u>程璐</u>, 刘昊, 刘欢. (Ruocheng Guo, <u>Lu Cheng</u>, Hao Liu, Huan Liu) 
 电子工业出版社
