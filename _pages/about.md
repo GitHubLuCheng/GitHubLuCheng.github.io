@@ -14,6 +14,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [You and your research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 <h3>News</h3>
+- [5/2025] Our book SOCIALLY RESPONSIBLE AI: THEORIES AND PRACTICES has been featured in [E-Book Collection on AI and Internet of Things 2.0 package](https://www.worldscientific.com/area/ai-iot-2) that will be sold directly to libraries/research institutions! 
 - [4/2025] Our survey paper [Conformal Prediction: A Data Perspective](https://arxiv.org/pdf/2410.06494) is accepted to ACM Computing Survey. 
 - [3/2025] Congrats to Shweta Girish Parihar (my first Master's student) for successfully defending her Master's thesis, which consists of two papers we recently submitted. She is currently on the job market, I highly recommend her!
 - [3/2025] Our workshop "SciSoc LLM Workshop: Large Language Models for Scientific and Societal Advances" accepted to KDD'25. Thank [Wei Jin](https://www.cs.emory.edu/~wjin30/) for leading this!
