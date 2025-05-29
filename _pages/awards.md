@@ -4,6 +4,7 @@ title: ""
 permalink: /awards/
 author_profile: true
 ---
+*   Google Research Scholar Award, 2025
 *   Amazon Research Award, 2024
 *   PAKDD Best Paper Award, 2024
 *   AAAI New Faculty Highlight, 2024
