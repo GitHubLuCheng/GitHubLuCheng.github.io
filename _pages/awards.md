@@ -4,6 +4,7 @@ title: ""
 permalink: /awards/
 author_profile: true
 ---
+*   NSF CAREER, 2025
 *   Google Research Scholar Award, 2025
 *   Amazon Research Award, 2024
 *   PAKDD Best Paper Award, 2024
