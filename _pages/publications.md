@@ -20,8 +20,6 @@ author_profile: true
 Dong Shu, Haiyan Zhao, Jingyu Hu, Weirui Liu, <u>Lu Cheng</u>, Mengnan Du
 * From generation to judgment: Opportunities and challenges of llm-as-a-judge [[pdf]](https://arxiv.org/pdf/2411.16594)    
   Dawei Li, Bohan Jiang, Liangjie Huang, Alimohammad Beigi, Chengshuai Zhao, Zhen Tan, Amrita Bhattacharjee, Yuxuan Jiang, Canyu Chen, Tianhao Wu, Kai Shu, <u>Lu Cheng</u>, Huan Liu                   
-* Long-Term Fairness Inquiries and Pursuits in Machine Learning: A Survey of Notions, Methods, and Challenges [[pdf]](https://arxiv.org/pdf/2406.06736)  
-  Usman Gohar, Zeyu Tang, Jialu Wang, Kun Zhang, Peter L Spirtes, Yang Liu, <u>Lu Cheng</u>
 * Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
     Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, <u>Lu Cheng</u>, Suhang Wang, Philip S. Yu, Yao Ma
     
@@ -41,6 +39,8 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* Long-Term Fairness Inquiries and Pursuits in Machine Learning: A Survey of Notions, Methods, and Challenges [[pdf]](https://arxiv.org/pdf/2406.06736)  
+  Usman Gohar, Zeyu Tang, Jialu Wang, Kun Zhang, Peter L Spirtes, Yang Liu, <u>Lu Cheng</u>. TMLR'25
 * Conformal Prediction: A Data Perspective [[pdf]](https://arxiv.org/pdf/2410.06494)    
   Xiaofan Zhou\*, Baiting Chen\*, Yu Gui, <u>Lu Cheng</u>. ACM Computing Survey'25
 * DBR: Divergence-Based Regularization for Debiasing Natural Language Understanding Models           
