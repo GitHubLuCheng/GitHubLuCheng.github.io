@@ -10,7 +10,7 @@ I'm very grateful to work with these self-motivated and curious students!
 - [Xiaofan Zhou](https://alearzhou.github.io/), 2024 Fall - 
 - Liangjie Huang, 2025 Spring -
 - Weihao Liu, 2025 Fall -
-- Dehai Min, 2025 Fall -
+- [Dehai Min](https://scholar.google.com/citations?user=lVn0bHUAAAAJ&hl=en), 2025 Fall -
 
 ### Master and Undergraduate Students at UIC
 - Rajvi Shah (Honors College), Undergraduate, 2024-
