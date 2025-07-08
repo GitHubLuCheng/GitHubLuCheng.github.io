@@ -12,6 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
+* A Large Language Model-Empowered Agent for Reliable and Robust Structural Analysis [[pdf]](https://www.arxiv.org/abs/2507.02938)          
+  Jiachen Liu\*, Ziheng Geng\*, Ran Cao, <u>Lu Cheng</u>, Paolo Bocchini, Minghui Cheng         
 * Beyond Accuracy: The Role of Calibration in Self-Improving Large Language Models [[pdf]](https://arxiv.org/pdf/2504.02902)                              
   Liangjie Huang, Dawei Li, Huan Liu, <u>Lu Cheng</u>
 * Accelerating Causal Network Discovery of Alzheimer's Disease Biomarkers via Scientific Literature-based Retrieval Augmented Generation [[pdf]](https://arxiv.org/pdf/2504.08768)                            
