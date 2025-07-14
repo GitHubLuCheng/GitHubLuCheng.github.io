@@ -14,19 +14,19 @@ I'm very grateful to work with these self-motivated and curious students!
 
 ### Master and Undergraduate Students at UIC
 - Rajvi Shah (Honors College), Undergraduate, 2024-
-- Saad Riazuddin Mahmood, Master student, 2025-
+- Shweta Parihar, Master student, 2024-
+- Sai Shridhar Balamurali, Master student, 2024-
   
 ### Visiting Students and Interns
 - Zicong He, Master student at Georgia Tech, 2024-
 - Boxuan Zhang, Master student at Wuhan University, 2024-
 - Ke Fang, Master student at UPenn, 2025-
 - Kangrui Yu, Undergraduate at NYU, 2025-
-- Yongliang Miao, Undergraduate in Beijing Normal University-Hong Kong Baptist University United International College, 2025-
+- Le Yu, Master student at Sichuan University, 2025-
+- Huiyi Chen, Master student at SEU & Monash University, 2025-
 
 ### Alumini
-- Shweta Parihar, Master student, 2024-25
 - Baiting Chen, Master student at UCLA, 2023-25
-- Sai Shridhar Balamurali, Master student, 2024-25
 - Zimo Qi, Undergraduate at SUSTech, 2024-25
 - Shreya Ganguly (Honors College), Undergraduate, 2024. Now at UIUC.
 - Jiancheng Dong, Undergraduate at Nanjing University, 2024. Incoming PhD student at City University of Hong Kong.
