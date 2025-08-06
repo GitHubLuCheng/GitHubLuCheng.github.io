@@ -14,7 +14,9 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [You and your research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 <h3>News</h3>
-- [7/2025] One paper accepted to COLM'25 and one paper accepted to AI and Ethics journal. 
+- [8/2025] R2 Lab welcomes four new members, Dehai, Haochang, Shicheng, and Weihao!
+- [8/2025] Received an NSF grant to study LLM-augmented digital twin for Alzheimer's Disease as PI.  
+- [7/2025] One paper accepted to COLM'25 and one paper accepted to the AI and Ethics journal. 
 - [7/2025] One paper accepted to TMLR. 
 - [6/2025] Received NSF CAREER Award to study reliable and fair language models. 
 - [5/2025] Received Google Research Scholar Award to work on uncertainty in LLMs!
