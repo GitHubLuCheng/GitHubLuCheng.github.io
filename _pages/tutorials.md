@@ -4,7 +4,7 @@ title: ""
 permalink: /tutorials/
 author_profile: true
 --- 
-*   Socially Responsible and Trustworthy Generative Foundation Models: Principles, Challenges, and Practices
+*   Socially Responsible and Trustworthy Generative Foundation Models: Principles, Challenges, and Practices                                       
     Yue Huang, Canyu Chen, <u>Lu Cheng</u>, Bhavya Kaikhura, Nitesh Chawla, and Xiangliang Zhang
 *   Safe Multimodal Machine Learning [[Tutorial Website]](https://sites.google.com/view/kdd-tutorial/safe-multi-modal)              
     Tianyi Zhao, Liangliang Zhang, Yao Ma, and <u>Lu Cheng</u>             
