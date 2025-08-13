@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track Assistant Professor in the [Department of Computer Science](https://cs.uic.edu/) at [University of Illinois Chicago (UIC)](https://www.uic.edu/). I lead the Responsible and Reliable AI Lab (R<sup>2</sup> Lab). I received my PhD degree in Computer Science at Arizona State University (ASU) in 2022 advised by Dr. [Huan Liu](https://scholar.google.com/citations?user=Dzf46C8AAAAJ&hl=en), M.Eng. degree in Industrial Engineering at Rensselaer Polytechnique Institute (RPI), and B.Eng. degree in Industrial Engineering at Huazhong University of Science & Technology (HUST). My research interests are broadly in AI, with a particular focus on socially responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. More details can be found in my [CV](https://drive.google.com/file/d/1s1oTAlrdcz544au1tHUAYIjSouUWhhL0/view).
+I am a tenure-track Assistant Professor in the [Department of Computer Science](https://cs.uic.edu/) at [University of Illinois Chicago (UIC)](https://www.uic.edu/). I lead the Responsible and Reliable AI Lab (R<sup>2</sup> Lab). I received my PhD degree in Computer Science at Arizona State University (ASU) in 2022 advised by Dr. [Huan Liu](https://scholar.google.com/citations?user=Dzf46C8AAAAJ&hl=en), M.Eng. degree in Industrial Engineering at Rensselaer Polytechnic Institute (RPI), and B.Eng. degree in Industrial Engineering at Huazhong University of Science & Technology (HUST). My research interests are broadly in AI, with a particular focus on socially responsible AI (e.g., fairness, interpretability/explainability, and privacy) and reliable AI (e.g., robustness and uncertainty quantification), causal machine learning, and data mining in general. More details can be found in my [CV](https://drive.google.com/file/d/1s1oTAlrdcz544au1tHUAYIjSouUWhhL0/view).
 
 **Prospective students**: I am constantly seeking curious and self-motivated PhD students. If you are one of these people, please email me your CV and transcript(s). Preference will be given to students who have worked with me before. I'm also happy to work with self-funded master's and undergraduate students.
 
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [You and your research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 <h3>News</h3>
+- [8/2025] Our tutorial "Socially Responsible and Trustworthy Generative Foundation Models: Principles, Challenges, and Practices" is accepted to CIKM'25. 
 - [8/2025] R2 Lab welcomes four new members, Dehai, Haochang, Shicheng, and Weihao!
 - [8/2025] Received an NSF grant to study LLM-augmented digital twin for Alzheimer's Disease as PI.  
 - [7/2025] One paper accepted to COLM'25 and one paper accepted to the AI and Ethics journal. 
