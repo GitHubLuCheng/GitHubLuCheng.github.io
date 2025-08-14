@@ -41,6 +41,8 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* Interpretable named entity recognition via integrating logical rule learning with deep neural networks                          
+  Yulin Chen, Bo Yuan, Beishui Liao, Dov Gabbay, <u>Lu Cheng</u>. Expert Systems With Applications'25.           
 * Deconstructing the ethics of large language models from long-standing issues to new-emerging dilemmas [[pdf]](https://arxiv.org/pdf/2406.05392)          
  Chengyuan Deng, Yiqun Duan, Xin Jin, Heng Chang, Yijun Tian, Han Liu, Henry Peng Zou, Yiqiao Jin, Yijia Xiao, Yichen Wang, Shenghao Wu, Zongxing Xie, Kuofeng Gao, Sihong He, <u>Lu Cheng</u>, Haohan Wang,  Jun Zhuang. AI and Ethics'25
 * Understanding the uncertainty of llm explanations: A perspective based on reasoning topology [[pdf]](https://arxiv.org/pdf/2502.17026?)           
