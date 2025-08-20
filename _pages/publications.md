@@ -17,11 +17,7 @@ author_profile: true
 * Beyond Accuracy: The Role of Calibration in Self-Improving Large Language Models [[pdf]](https://arxiv.org/pdf/2504.02902)                              
   Liangjie Huang, Dawei Li, Huan Liu, <u>Lu Cheng</u>
 * Accelerating Causal Network Discovery of Alzheimer's Disease Biomarkers via Scientific Literature-based Retrieval Augmented Generation [[pdf]](https://arxiv.org/pdf/2504.08768)                            
-  Xiaofan Zhou, Liangjie Huang, Pinyang Cheng, Wenpen Yin, Rui Zhang, Wenrui Hao, <u>Lu Cheng</u>
-* Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability [[pdf]](https://arxiv.org/pdf/2501.01346?)          
-Dong Shu, Haiyan Zhao, Jingyu Hu, Weirui Liu, <u>Lu Cheng</u>, Mengnan Du
-* From generation to judgment: Opportunities and challenges of llm-as-a-judge [[pdf]](https://arxiv.org/pdf/2411.16594)    
-  Dawei Li, Bohan Jiang, Liangjie Huang, Alimohammad Beigi, Chengshuai Zhao, Zhen Tan, Amrita Bhattacharjee, Yuxuan Jiang, Canyu Chen, Tianhao Wu, Kai Shu, <u>Lu Cheng</u>, Huan Liu                   
+  Xiaofan Zhou, Liangjie Huang, Pinyang Cheng, Wenpen Yin, Rui Zhang, Wenrui Hao, <u>Lu Cheng</u>        
 * Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
     Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, <u>Lu Cheng</u>, Suhang Wang, Philip S. Yu, Yao Ma
     
@@ -41,6 +37,10 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability [[pdf]](https://arxiv.org/pdf/2501.01346?)          
+Dong Shu, Haiyan Zhao, Jingyu Hu, Weirui Liu, <u>Lu Cheng</u>, Mengnan Du. EMNLP'25
+* From generation to judgment: Opportunities and challenges of llm-as-a-judge [[pdf]](https://arxiv.org/pdf/2411.16594)    
+  Dawei Li, Bohan Jiang, Liangjie Huang, Alimohammad Beigi, Chengshuai Zhao, Zhen Tan, Amrita Bhattacharjee, Yuxuan Jiang, Canyu Chen, Tianhao Wu, Kai Shu, <u>Lu Cheng</u>, Huan Liu. EMNLP'25           
 * Interpretable named entity recognition via integrating logical rule learning with deep neural networks                          
   Yulin Chen, Bo Yuan, Beishui Liao, Dov Gabbay, <u>Lu Cheng</u>. Expert Systems With Applications'25.           
 * Deconstructing the ethics of large language models from long-standing issues to new-emerging dilemmas [[pdf]](https://arxiv.org/pdf/2406.05392)          
