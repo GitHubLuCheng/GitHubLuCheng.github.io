@@ -22,7 +22,6 @@ I'm very grateful to work with these self-motivated and curious students!
   
 ### Visiting Students and Interns
 - Zicong He, Master student at Georgia Tech, 2024-
-- Boxuan Zhang, Master student at Wuhan University, 2024-
 - Ke Fang, Master student at UPenn, 2025-
 - Kangrui Yu, Undergraduate at NYU, 2025-
 - Le Yu, Master student at Sichuan University, 2025-
@@ -30,13 +29,14 @@ I'm very grateful to work with these self-motivated and curious students!
 - Kailin Zhang, Master student at NYU, 2025-
 
 ### Alumini
+- Boxuan Zhang, Master student at Wuhan University, 2024-2025. Next: PhD student at Rutgers. 
 - Sai Shridhar Balamurali, Master student, 2024-25
 - Baiting Chen, Master student at UCLA, 2023-25
-- Zimo Qi, Undergraduate at SUSTech, 2024-25
-- Shreya Ganguly (Honors College), Undergraduate, 2024. Now at UIUC.
-- Jiancheng Dong, Undergraduate at Nanjing University, 2024. PhD student at City University of Hong Kong.
+- Zimo Qi, Undergraduate at SUSTech, 2024-25. Next: Master's student at JHU.
+- Shreya Ganguly (Honors College), Undergraduate, 2024. Next: UIUC.
+- Jiancheng Dong, Undergraduate at Nanjing University, 2024.  Next: PhD student at City University of Hong Kong.
 - Jiayuan Su, Master student at ZJU-UIUC, 2023-24
 - Xinlin Peng, Undergraduate at ZJU, 2023-24
-- Tianyi Zhao, Master student at USC, 2022-25. PhD student at UVA.
+- Tianyi Zhao, Master student at USC, 2022-25. Next: PhD student at UVA.
 - Shan Xie, Master student at Eindhoven Technology University, 2023-24
 - Bhuvani Shah, Undergraduate at UIC, 2022
