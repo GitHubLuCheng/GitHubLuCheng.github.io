@@ -18,7 +18,7 @@ I'm very grateful to work with these self-motivated and curious students!
 - Rajvi Shah (Honors College), Undergraduate, 2024-
 - Olukolajo Sodipe (Honors College), Undergraduate, 2025-
 - Shweta Parihar, Master student, 2024-
-- Nathan Michael Hittesdorf, 2025-
+- Nathan Michael Hittesdorf, Master student, 2025-
   
 ### Visiting Students and Interns
 - Zicong He, Master student at Georgia Tech, 2024-
