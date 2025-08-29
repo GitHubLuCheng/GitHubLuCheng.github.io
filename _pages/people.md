@@ -27,6 +27,7 @@ I'm very grateful to work with these self-motivated and curious students!
 - Le Yu, Master student at Sichuan University, 2025-
 - Huiyi Chen, Master student at SEU & Monash University, 2025-
 - Kailin Zhang, Master student at NYU, 2025-
+- Jiale Zhao, Undergraduate at Chongqing University of Posts and Telecommunications, 2025-
 
 ### Alumini
 - Boxuan Zhang, Master student at Wuhan University, 2024-2025. Next: PhD student at Rutgers. 
