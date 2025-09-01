@@ -24,7 +24,6 @@ I'm very grateful to work with these self-motivated and curious students!
 - Zicong He, Master student at Georgia Tech, 2024-
 - Ke Fang, Master student at UPenn, 2025-
 - Kangrui Yu, Undergraduate at NYU, 2025-
-- Le Yu, Master student at Sichuan University, 2025-
 - Huiyi Chen, Master student at SEU & Monash University, 2025-
 - Kailin Zhang, Master student at NYU, 2025-
 - Jiale Zhao, Undergraduate at Chongqing University of Posts and Telecommunications, 2025-
