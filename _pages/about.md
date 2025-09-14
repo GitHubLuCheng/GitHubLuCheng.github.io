@@ -14,6 +14,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [You and your research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 <h3>News</h3>
+- [9/2025] Our tutorial "Socially Responsible and Trustworthy Generative Foundation Models: Principles, Challenges, and Practices" is also accepted to ICDM'25. 
 - [8/2025] Two papers accepted to EMNLP'25. 
 - [8/2025] Our paper "Interpretable named entity recognition via integrating logical rule learning with deep neural networks" is accepted to Expert Systems with Application Journal.
 - [8/2025] Our tutorial "Socially Responsible and Trustworthy Generative Foundation Models: Principles, Challenges, and Practices" is accepted to CIKM'25. 
