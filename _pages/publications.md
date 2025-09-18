@@ -12,11 +12,15 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
+* Smart Trial: Evaluating the Use of Large Language Models for Recruiting Clinical Trial Participants via Social Media [[pdf]](https://arxiv.org/pdf/2509.10584)                              
+  Xiaofan Zhou, Zisu Wang, Janice Krieger, Mohan Zalake, <u>Lu Cheng</u>
+* Credence Calibration Game? Calibrating Large Language Models through Structured Play [[pdf]](https://arxiv.org/pdf/2508.14390)                          
+  Ke Fang, Tianyi Zhao, <u>Lu Cheng</u>
 * A Large Language Model-Empowered Agent for Reliable and Robust Structural Analysis [[pdf]](https://www.arxiv.org/abs/2507.02938)          
   Jiachen Liu\*, Ziheng Geng\*, Ran Cao, <u>Lu Cheng</u>, Paolo Bocchini, Minghui Cheng         
 * Beyond Accuracy: The Role of Calibration in Self-Improving Large Language Models [[pdf]](https://arxiv.org/pdf/2504.02902)                              
   Liangjie Huang, Dawei Li, Huan Liu, <u>Lu Cheng</u>
-* Accelerating Causal Network Discovery of Alzheimer's Disease Biomarkers via Scientific Literature-based Retrieval Augmented Generation [[pdf]](https://arxiv.org/pdf/2504.08768)                            
+* Accelerating Causal Network Discovery of Alzheimer's Disease Biomarkers via Scientific Literature-based Retrieval Augmented Generation [[pdf]](https://arxiv.org/pdf/2504.08768)                        
   Xiaofan Zhou, Liangjie Huang, Pinyang Cheng, Wenpen Yin, Rui Zhang, Wenrui Hao, <u>Lu Cheng</u>        
 * Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
     Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, <u>Lu Cheng</u>, Suhang Wang, Philip S. Yu, Yao Ma
