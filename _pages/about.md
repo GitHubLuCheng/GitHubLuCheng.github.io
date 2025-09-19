@@ -15,7 +15,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 
 <h3>News</h3>
 - [9/2025] Invited guest lecture at UNC Chapel Hill hosted by [Zhun Deng](https://www.zhundeng.org/).  
-- [9/2025] Our tutorial "Socially Responsible and Trustworthy Generative Foundation Models: Principles, Challenges, and Practices" is also accepted to ICDM'25. 
+- [9/2025] Our tutorial "Responsible GenFMs: From Foundational Principles to Real-World Impact" is accepted to ICDM'25. 
 - [8/2025] Two papers accepted to EMNLP'25. 
 - [8/2025] Our paper "Interpretable named entity recognition via integrating logical rule learning with deep neural networks" is accepted to Expert Systems with Application Journal.
 - [8/2025] Our tutorial "Socially Responsible and Trustworthy Generative Foundation Models: Principles, Challenges, and Practices" is accepted to CIKM'25. 
