@@ -12,6 +12,12 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
+* A Lightweight Large Language Model-Based Multi-Agent System for 2D Frame Structural Analysis [[pdf]](https://arxiv.org/pdf/2510.05414)                                                   
+  Ziheng Geng\*, Jiachen Liu\*, Ran Cao, <u>Lu Cheng</u>, Haifeng Wang, Minghui Cheng                 
+* What Shapes a Creative Machine Mind? Comprehensively Benchmarking Creativity in Foundation Models [[pdf]](https://arxiv.org/pdf/2510.04009)                                 
+  Zicong He\*, Boxuan Zhang\*, Weihao Liu\*, Ruixiang Tang, <u>Lu Cheng</u>                                     
+* SOM-1k: A thousand-problem benchmark dataset for strength of materials [[pdf]](https://arxiv.org/pdf/2509.21079)                                 
+  Qixin Wan, Zilong Wang, Jingwen Zhou, Wanting Wang, Ziheng Geng, Jiachen Liu, Ran Cao, Minghui Cheng, <u>Lu Cheng</u>                                                                                                
 * Smart Trial: Evaluating the Use of Large Language Models for Recruiting Clinical Trial Participants via Social Media [[pdf]](https://arxiv.org/pdf/2509.10584)                              
   Xiaofan Zhou, Zisu Wang, Janice Krieger, Mohan Zalake, <u>Lu Cheng</u>
 * Credence Calibration Game? Calibrating Large Language Models through Structured Play [[pdf]](https://arxiv.org/pdf/2508.14390)                          
