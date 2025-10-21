@@ -20,7 +20,7 @@ author_profile: true
   Qixin Wan, Zilong Wang, Jingwen Zhou, Wanting Wang, Ziheng Geng, Jiachen Liu, Ran Cao, Minghui Cheng, <u>Lu Cheng</u>                                                                                                
 * Smart Trial: Evaluating the Use of Large Language Models for Recruiting Clinical Trial Participants via Social Media [[pdf]](https://arxiv.org/pdf/2509.10584)                              
   Xiaofan Zhou, Zisu Wang, Janice Krieger, Mohan Zalake, <u>Lu Cheng</u>
-* Credence Calibration Game? Calibrating Large Language Models through Structured Play [[pdf]](https://arxiv.org/pdf/2508.14390)                          
+* Credence Calibration Game: Calibrating Large Language Models through Structured Play [[pdf]](https://arxiv.org/pdf/2508.14390)                          
   Ke Fang, Tianyi Zhao, <u>Lu Cheng</u>
 * A Large Language Model-Empowered Agent for Reliable and Robust Structural Analysis [[pdf]](https://www.arxiv.org/abs/2507.02938)          
   Jiachen Liu\*, Ziheng Geng\*, Ran Cao, <u>Lu Cheng</u>, Paolo Bocchini, Minghui Cheng         
