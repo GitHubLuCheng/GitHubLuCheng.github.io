@@ -47,6 +47,8 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* Moral Self-correction is Not An Innate Capability in Language Models [[pdf]](https://arxiv.org/pdf/2410.20513)                        
+  Guangliang Liu\*, Zimo Qi\*, Xitong Zhang, <u>Lu Cheng</u>, Kristen Marie Johnson. IJCNLP-AACL'25 (Findings)                                                  
 * Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability [[pdf]](https://arxiv.org/pdf/2501.01346?)          
 Dong Shu, Haiyan Zhao, Jingyu Hu, Weirui Liu, <u>Lu Cheng</u>, Mengnan Du. EMNLP'25 (Findings)
 * From generation to judgment: Opportunities and challenges of llm-as-a-judge [[pdf]](https://arxiv.org/pdf/2411.16594)    
