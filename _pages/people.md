@@ -30,7 +30,7 @@ I'm very grateful to work with these self-motivated and curious students!
 
 ### Alumini
 - Boxuan Zhang, Master student at Wuhan University, 2024-2025. Next: PhD student at Rutgers. 
-- Sai Shridhar Balamurali, Master student, 2024-25. Next: AI engineer at Foxbox Digital
+- Sai Shridhar Balamurali, Master student at UIC, 2024-25. Next: AI engineer at Foxbox Digital
 - Baiting Chen, Master student at UCLA, 2023-25
 - Zimo Qi, Undergraduate at SUSTech, 2024-25. Next: Master's student at JHU.
 - Shreya Ganguly (Honors College), Undergraduate, 2024. Next: UIUC.
