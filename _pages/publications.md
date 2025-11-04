@@ -44,7 +44,7 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 
 ### Accepted Papers
 * DemoShapley: Valuation of Demonstrations for In-Context Learning [[pdf]](https://arxiv.org/pdf/2410.07523?)                       
-  Shan Xie, Man Luo, Chadly Daniel Stern, Mengnan Du, Lu Cheng. IEEE Big Data'25
+  Shan Xie, Man Luo, Chadly Daniel Stern, Mengnan Du, <u>Lu Cheng</u>. IEEE Big Data'25
 * FABLE: Fairness Attack in Abusive Language Detection [[pdf]](https://arxiv.org/pdf/2311.09428)    
   Yueqing Liang, <u>Lu Cheng</u>, Ali Payani, and Kai Shu. In IEEE Big Data'25                                                      
 * Beyond Accuracy: The Role of Calibration in Self-Improving Large Language Models [[pdf]](https://arxiv.org/pdf/2504.02902)                              
