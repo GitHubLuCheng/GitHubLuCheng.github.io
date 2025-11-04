@@ -43,6 +43,10 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* DemoShapley: Valuation of Demonstrations for In-Context Learning [[pdf]](https://arxiv.org/pdf/2410.07523?)                       
+  Shan Xie, Man Luo, Chadly Daniel Stern, Mengnan Du, Lu Cheng. IEEE Big Data'25
+* FABLE: Fairness Attack in Abusive Language Detection [[pdf]](https://arxiv.org/pdf/2311.09428)    
+  Yueqing Liang, <u>Lu Cheng</u>, Ali Payani, and Kai Shu. In IEEE Big Data'25                                                      
 * Beyond Accuracy: The Role of Calibration in Self-Improving Large Language Models [[pdf]](https://arxiv.org/pdf/2504.02902)                              
   Liangjie Huang, Dawei Li, Huan Liu, <u>Lu Cheng</u>.  IEEE Big Data'25.                  
 * Accelerating Causal Network Discovery of Alzheimer's Disease Biomarkers via Scientific Literature-based Retrieval Augmented Generation [[pdf]](https://arxiv.org/pdf/2504.08768)                        
@@ -73,8 +77,6 @@ Dong Shu, Haiyan Zhao, Jingyu Hu, Weirui Liu, <u>Lu Cheng</u>, Mengnan Du. EMNLP
       Bo Ni, Yu Wang, <u>Lu Cheng</u>, Erik Blasch, Tyler Derr. In AAAI'25       
 * Unveiling Performance Challenges of Large Language Models in Low-Resource Healthcare: A Demographic Fairness Perspective [[pdf]](https://arxiv.org/pdf/2412.00554)              
   Yue Zhou, Barbara Di Eugenio, and <u>Lu Cheng</u>. In COLING'25
-* FABLE: Fairness Attack in Abusive Language Detection [[pdf]](https://arxiv.org/pdf/2311.09428)    
-  Yueqing Liang, <u>Lu Cheng</u>, and Kai Shu. In IEEE Big Data'24
 * Assessing Empathy in Large Language Models with Real-World Physician-Patient Interactions [[pdf]](https://arxiv.org/pdf/2405.16402)    
   Man Luo, Christopher J Warren, <u>Lu Cheng</u>, Haidar M Abdul-Muhsin, Imon Banerjee. In IEEE Big Data'24
 * On Demonstration Selection for Improving Fairness in Language Models [[pdf]](https://openreview.net/pdf?id=V9PCoMqqdO)      
