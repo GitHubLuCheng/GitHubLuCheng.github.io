@@ -21,14 +21,13 @@ I'm very grateful to work with these self-motivated and curious students!
 - Nathan Michael Hittesdorf, Master student, 2025-
   
 ### Visiting Students and Interns
-- Zicong He, Master student at Georgia Tech, 2024-
 - Ke Fang, Master student at UPenn, 2025-
-- Kangrui Yu, Undergraduate at NYU, 2025-
 - Huiyi Chen, Master student at SEU & Monash University, 2025-
 - Kailin Zhang, Master student at NYU, 2025-
 - Jiale Zhao, Undergraduate at Chongqing University of Posts and Telecommunications, 2025-
 
 ### Alumini
+- Zicong He, Master student at Georgia Tech, 2024-2025
 - Boxuan Zhang, Master student at Wuhan University, 2024-2025. Next: PhD student at Rutgers. 
 - Sai Shridhar Balamurali, Master student at UIC, 2024-25. Next: AI engineer at Foxbox Digital
 - Baiting Chen, Master student at UCLA, 2023-25
