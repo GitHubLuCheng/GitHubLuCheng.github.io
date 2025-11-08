@@ -43,6 +43,8 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* CP-Router: An Uncertainty-Aware Router Between LLM and LRM [[pdf]](https://arxiv.org/pdf/2505.19970?)                       
+  Jiayuan Su, Fulin Lin, Zhaopeng Feng, Han Zheng, Teng Wang, Zhenyu Xiao, Xinlong Zhao, Zuozhu Liu, <u>Lu Cheng</u>, Hongwei Wang. AAAI'26 (Oral)                                         
 * DemoShapley: Valuation of Demonstrations for In-Context Learning [[pdf]](https://arxiv.org/pdf/2410.07523?)                       
   Shan Xie, Man Luo, Chadly Daniel Stern, Mengnan Du, <u>Lu Cheng</u>. IEEE Big Data'25
 * FABLE: Fairness Attack in Abusive Language Detection [[pdf]](https://arxiv.org/pdf/2311.09428)    
