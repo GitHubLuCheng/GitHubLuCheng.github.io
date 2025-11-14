@@ -12,6 +12,10 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
+* Revisiting NLI: Towards Cost-Effective and Human-Aligned Metrics for Evaluating LLMs in Question Answering [[pdf]](https://arxiv.org/pdf/2511.07659)                                    
+  Sai Shridhar Balamurali, <u>Lu Cheng</u>
+* Robust Uncertainty Quantification for Self-Evolving Large Language Models via Continual Domain Pretraining [[pdf]](https://arxiv.org/pdf/2510.22931)                                  
+  Xiaofan Zhou, <u>Lu Cheng</u>                                                 
 * A Lightweight Large Language Model-Based Multi-Agent System for 2D Frame Structural Analysis [[pdf]](https://arxiv.org/pdf/2510.05414)                                                   
   Ziheng Geng\*, Jiachen Liu\*, Ran Cao, <u>Lu Cheng</u>, Haifeng Wang, Minghui Cheng                 
 * What Shapes a Creative Machine Mind? Comprehensively Benchmarking Creativity in Foundation Models [[pdf]](https://arxiv.org/pdf/2510.04009)                                 
