@@ -38,4 +38,4 @@ I'm very grateful to work with these self-motivated and curious students!
 - Xinlin Peng, Undergraduate at ZJU, 2023-24
 - Tianyi Zhao, Master student at USC, 2022-25. Next: PhD student at UVA.
 - Shan Xie, Master student at Eindhoven Technology University, 2023-24
-- Bhuvani Shah, Undergraduate at UIC, 2022
+- Bhuvani Shah, Undergraduate at UIC, 2022. Next: Software Engineer at Adyen
