@@ -14,8 +14,8 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [You and your research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 <h3>News</h3>
-- [12/2025] Will give a tutorial on trustworthy foundation models at SkAI seminar.
-- [12/2025] Will give a talk at LUC CS seminar about our work on uncertainty and creativity in LLMs.
+- [12/2025] Invited tutorial on trustworthy foundation models at SkAI seminar.
+- [12/2025] Invited talk at LUC CS seminar about our work on uncertainty and creativity in LLMs.
 - [11/2025] One paper accepted to AAAI'26 as oral presentation.
 - [11/2025] Five papers accepted to IEEE Big Data'25.
 - [10/2025] One paper accepted to IJCNLP-AACL'25 Findings. 
