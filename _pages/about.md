@@ -28,7 +28,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 - [8/2025] Received an NSF grant to study LLM-augmented digital twin for Alzheimer's Disease as PI.  
 - [7/2025] One paper accepted to COLM'25 and one paper accepted to the AI and Ethics journal. 
 - [7/2025] One paper accepted to TMLR. 
-- [6/2025] Received NSF CAREER Award to study reliable and fair language models. 
+- [6/2025] Received NSF CAREER Award to study responsible language models. 
 - [5/2025] Received Google Research Scholar Award to work on uncertainty in LLMs!
 - [5/2025] Received another NAIRR Pilot Project computing resources.
 - [5/2025] Our PAKDD'24 paper "Interpreting Pretrained Language Models via Concept Bottlenecks" is accepted to the IJCAI'25 Best Paper Track.
