@@ -12,21 +12,22 @@ I'm very grateful to work with these self-motivated and curious students!
 - [Weihao Liu](https://scholar.google.com/citations?hl=en&user=eH3LCxEAAAAJ&view_op=list_works&sortby=pubdate), 2025 Fall -
 - [Dehai Min](https://scholar.google.com/citations?user=lVn0bHUAAAAJ&hl=en), 2025 Fall -
 - Shicheng Fan, 2025 Fall -
-- Haochang Hao, 2025 Fall - 
+- Haochang Hao, 2025 Fall -
+- Ke Fang, 2026 - Spring
 
 ### Master and Undergraduate Students at UIC
 - Rajvi Shah (Honors College), Undergraduate, 2024-
-- Olukolajo Sodipe (Honors College), Undergraduate, 2025-
 - Shweta Parihar, Master student, 2024-
+- Olukolajo Sodipe (Honors College), Undergraduate, 2025-
 - Nathan Michael Hittesdorf, Master student, 2025-
   
 ### Visiting Students and Interns
-- Ke Fang, Master student at UPenn, 2025-
 - Huiyi Chen, Master student at SEU & Monash University, 2025-
 - Kailin Zhang, Master student at NYU, 2025-
 - Jiale Zhao, Undergraduate at Chongqing University of Posts and Telecommunications, 2025-
 
 ### Alumini
+- Ke Fang, Master student at UPenn, 2025-26. Next: PhD Student at UIC.
 - Zicong He, Master student at Georgia Tech, 2024-2025
 - Boxuan Zhang, Master student at Wuhan University, 2024-2025. Next: PhD student at Rutgers. 
 - Sai Shridhar Balamurali, Master student at UIC, 2024-25. Next: AI engineer at Foxbox Digital
