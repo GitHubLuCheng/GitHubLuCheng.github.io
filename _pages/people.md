@@ -13,7 +13,7 @@ I'm very grateful to work with these self-motivated and curious students!
 - [Dehai Min](https://scholar.google.com/citations?user=lVn0bHUAAAAJ&hl=en), 2025 Fall -
 - Shicheng Fan, 2025 Fall -
 - Haochang Hao, 2025 Fall -
-- Ke Fang, 2026 - Spring
+- Ke Fang, 2026 Spring -
 
 ### Master and Undergraduate Students at UIC
 - Rajvi Shah (Honors College), Undergraduate, 2024-
