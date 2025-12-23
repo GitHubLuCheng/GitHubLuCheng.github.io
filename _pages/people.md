@@ -4,7 +4,7 @@ title: ""
 permalink: /people/
 author_profile: true
 ---
-<h4/>I'm very grateful to work with these self-motivated and curious students!</h4>
+#### I'm grateful to work with these self-motivated and curious students!
 
 ### PhD Students 
 - [Xiaofan Zhou](https://alearzhou.github.io/), 2024 Fall - 
