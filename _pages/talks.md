@@ -4,6 +4,8 @@ title: ""
 permalink: /talks/
 author_profile: true
 ---
+- A Mini-Tutorial on Responsible and Trustworthy Generative Foundation Models, NSF SkAI Institute, 2025 Dec.
+- From Probabilities to Possibilities: Uncertainty and Creativity in Foundation Models, LUC, 2025 Dec.
 - Conformal Methods for Reliable and Fair Machine Learning, IDEAL Graph Representation Learning Workshop, 2024 May.
 - Algorithmic Fairness in an Uncertain World, AAAI, 2024 Feb.
 - Algorithmic Fairness in an Uncertain World, Case Western Reserve University, 2023 Oct.
@@ -21,5 +23,4 @@ author_profile: true
   PhD Research Talk at IJCAI MAISoN 2021
 - Socially Responsible AI Algorithms: Issues, Purposes, and Challenges,
   NSF REU Program at University of North Texas 2021
-- My experience of publishing the first research papers,
-  DMML Group Meeting 2021
+
