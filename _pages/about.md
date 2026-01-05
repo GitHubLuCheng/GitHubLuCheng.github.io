@@ -16,6 +16,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 <h3>News</h3>
 - [12/2025] Invited tutorial on trustworthy and responsible foundation models at NSF SkAI seminar.
 - [12/2025] Invited talk at LUC CS seminar about our work on uncertainty and creativity in LLMs.
+- [12/2025] One paper accepted to SIGKDD Exploration.
 - [11/2025] One paper accepted to AAAI'26 as oral presentation.
 - [11/2025] Five papers accepted to IEEE Big Data'25.
 - [10/2025] One paper accepted to IJCNLP-AACL'25 Findings. 
