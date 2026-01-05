@@ -12,10 +12,14 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
+* QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation [[pdf]](https://arxiv.org/pdf/2512.19134)              
+  Dehai Min, Kailin Zhang, Tongtong Wu, <u>Lu Cheng</u>                 
 * Revisiting NLI: Towards Cost-Effective and Human-Aligned Metrics for Evaluating LLMs in Question Answering [[pdf]](https://arxiv.org/pdf/2511.07659)                                    
   Sai Shridhar Balamurali, <u>Lu Cheng</u>
 * Robust Uncertainty Quantification for Self-Evolving Large Language Models via Continual Domain Pretraining [[pdf]](https://arxiv.org/pdf/2510.22931)                                  
-  Xiaofan Zhou, <u>Lu Cheng</u>                                                 
+  Xiaofan Zhou, <u>Lu Cheng</u>
+* MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs [[pdf]](https://arxiv.org/pdf/2511.14159)
+  Huiyi Chen, Jiawei Peng, Dehai Min, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, <u>Lu Cheng</u>                  
 * A Lightweight Large Language Model-Based Multi-Agent System for 2D Frame Structural Analysis [[pdf]](https://arxiv.org/pdf/2510.05414)                                                   
   Ziheng Geng\*, Jiachen Liu\*, Ran Cao, <u>Lu Cheng</u>, Haifeng Wang, Minghui Cheng                 
 * What Shapes a Creative Machine Mind? Comprehensively Benchmarking Creativity in Foundation Models [[pdf]](https://arxiv.org/pdf/2510.04009)                                 
@@ -28,8 +32,6 @@ author_profile: true
   Ke Fang, Tianyi Zhao, <u>Lu Cheng</u>
 * A Large Language Model-Empowered Agent for Reliable and Robust Structural Analysis [[pdf]](https://www.arxiv.org/abs/2507.02938)          
   Jiachen Liu\*, Ziheng Geng\*, Ran Cao, <u>Lu Cheng</u>, Paolo Bocchini, Minghui Cheng         
-* Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
-    Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, <u>Lu Cheng</u>, Suhang Wang, Philip S. Yu, Yao Ma
     
 ### Books and Book Chapters
 * Socially Responsible AI: Theories and Practices [[Link]](https://www.worldscientific.com/worldscibooks/10.1142/13150#t=aboutBook)<br/>
@@ -48,7 +50,9 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 
 ### Accepted Papers
 * CP-Router: An Uncertainty-Aware Router Between LLM and LRM [[pdf]](https://arxiv.org/pdf/2505.19970?)                       
-  Jiayuan Su, Fulin Lin, Zhaopeng Feng, Han Zheng, Teng Wang, Zhenyu Xiao, Xinlong Zhao, Zuozhu Liu, <u>Lu Cheng</u>, Hongwei Wang. AAAI'26 (Oral)                                         
+  Jiayuan Su, Fulin Lin, Zhaopeng Feng, Han Zheng, Teng Wang, Zhenyu Xiao, Xinlong Zhao, Zuozhu Liu, <u>Lu Cheng</u>, Hongwei Wang. AAAI'26 (Oral)
+* Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
+    Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, <u>Lu Cheng</u>, Suhang Wang, Philip S. Yu, Yao Ma. SIGKDD Exploration. 2025                                        
 * DemoShapley: Valuation of Demonstrations for In-Context Learning [[pdf]](https://arxiv.org/pdf/2410.07523?)                       
   Shan Xie, Man Luo, Chadly Daniel Stern, Mengnan Du, <u>Lu Cheng</u>. IEEE Big Data'25
 * FABLE: Fairness Attack in Abusive Language Detection [[pdf]](https://arxiv.org/pdf/2311.09428)    
