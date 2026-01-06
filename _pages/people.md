@@ -23,10 +23,10 @@ author_profile: true
   
 ### Visiting Students and Interns
 - Huiyi Chen, Master student at SEU & Monash University, 2025-
-- Kailin Zhang, Master student at NYU, 2025-
 - Jiale Zhao, Undergraduate at Chongqing University of Posts and Telecommunications, 2025-
 
 ### Alumini
+- Kailin Zhang, Master student at NYU, 2025.
 - Ke Fang, Master student at UPenn, 2025-26. Next: PhD Student at UIC.
 - Zicong He, Master student at Georgia Tech, 2024-2025
 - Boxuan Zhang, Master student at Wuhan University, 2024-2025. Next: PhD student at Rutgers. 
