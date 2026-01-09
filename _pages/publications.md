@@ -18,7 +18,7 @@ author_profile: true
   Sai Shridhar Balamurali, <u>Lu Cheng</u>
 * Robust Uncertainty Quantification for Self-Evolving Large Language Models via Continual Domain Pretraining [[pdf]](https://arxiv.org/pdf/2510.22931)                                  
   Xiaofan Zhou, <u>Lu Cheng</u>
-* MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs [[pdf]](https://arxiv.org/pdf/2511.14159)
+* MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs [[pdf]](https://arxiv.org/pdf/2511.14159)                     
   Huiyi Chen, Jiawei Peng, Dehai Min, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, <u>Lu Cheng</u>                  
 * A Lightweight Large Language Model-Based Multi-Agent System for 2D Frame Structural Analysis [[pdf]](https://arxiv.org/pdf/2510.05414)                                                   
   Ziheng Geng\*, Jiachen Liu\*, Ran Cao, <u>Lu Cheng</u>, Haifeng Wang, Minghui Cheng                 
