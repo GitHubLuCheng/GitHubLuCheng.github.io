@@ -40,8 +40,6 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 * 因果推断与机器学习 (Causal Inference and Machine Learning) [[Link]](https://item.jd.com/13539573.html)<br/>
 郭若城, <u>程璐</u>, 刘昊, 刘欢. (Ruocheng Guo, <u>Lu Cheng</u>, Hao Liu, Huan Liu) 
 电子工业出版社
-* Algorithmic Fairness in Machine Learning [[PDF]](https://mengnandu.com/files/Algorithmic_Fairness_in_Machine_Learning.pdf)<br/>
-  Mengnan Du, <u>Lu Cheng</u>, Dejing Dou.
 
 <div style="display: flex;">
   <img src="/images/SRAI.png" alt="" width="250" height="150">
