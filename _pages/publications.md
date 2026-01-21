@@ -49,6 +49,8 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* InsurAgent: A Large Language Model-Empowered Agent for Simulating Individual Behavior in Purchasing Flood Insurance [[pdf]](https://arxiv.org/abs/2511.02119)                        
+  Ziheng Geng; Jiachen Liu; Ran Cao;<u>Lu Cheng</u>; Dan M. Frangopol; Minghui Cheng. Journal of Risk and Uncertainty Analysis. 2026
 * CP-Router: An Uncertainty-Aware Router Between LLM and LRM [[pdf]](https://arxiv.org/pdf/2505.19970?)                       
   Jiayuan Su, Fulin Lin, Zhaopeng Feng, Han Zheng, Teng Wang, Zhenyu Xiao, Xinlong Zhao, Zuozhu Liu, <u>Lu Cheng</u>, Hongwei Wang. AAAI'26 (Oral)
 * Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks [[pdf]](https://arxiv.org/pdf/2402.15680.pdf)  
