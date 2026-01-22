@@ -19,7 +19,7 @@ author_profile: true
 - Shweta Parihar, Master student, 2024-
 - Olukolajo Sodipe (Honors College), Undergraduate, 2025-
 - Nathan Michael Hittesdorf, Master student, 2025-
-- Giovanni Vaccarino, 2025-
+- Giovanni Vaccarino, Master student, 2025-
   
 ### Visiting Students and Interns
 - Huiyi Chen, Master student at SEU & Monash University, 2025-
