@@ -12,6 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
+* TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning [[pdf]](https://arxiv.org/abs/2601.21135)                               
+  Shicheng Fan, Kun Zhang, <u>Lu Cheng</u>                         
 * QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation [[pdf]](https://arxiv.org/pdf/2512.19134)              
   Dehai Min, Kailin Zhang, Tongtong Wu, <u>Lu Cheng</u>                 
 * Revisiting NLI: Towards Cost-Effective and Human-Aligned Metrics for Evaluating LLMs in Question Answering [[pdf]](https://arxiv.org/pdf/2511.07659)                                    
@@ -29,9 +31,7 @@ author_profile: true
 * Smart Trial: Evaluating the Use of Large Language Models for Recruiting Clinical Trial Participants via Social Media [[pdf]](https://arxiv.org/pdf/2509.10584)                              
   Xiaofan Zhou, Zisu Wang, Janice Krieger, Mohan Zalake, <u>Lu Cheng</u>
 * Credence Calibration Game: Calibrating Large Language Models through Structured Play [[pdf]](https://arxiv.org/pdf/2508.14390)                          
-  Ke Fang, Tianyi Zhao, <u>Lu Cheng</u>
-* A Large Language Model-Empowered Agent for Reliable and Robust Structural Analysis [[pdf]](https://www.arxiv.org/abs/2507.02938)          
-  Jiachen Liu\*, Ziheng Geng\*, Ran Cao, <u>Lu Cheng</u>, Paolo Bocchini, Minghui Cheng         
+  Ke Fang, Tianyi Zhao, <u>Lu Cheng</u>    
     
 ### Books and Book Chapters
 * Socially Responsible AI: Theories and Practices [[Link]](https://www.worldscientific.com/worldscibooks/10.1142/13150#t=aboutBook)<br/>
@@ -47,6 +47,8 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* A Large Language Model-Empowered Agent for Reliable and Robust Structural Analysis [[pdf]](https://www.arxiv.org/abs/2507.02938)          
+  Jiachen Liu\*, Ziheng Geng\*, Ran Cao, <u>Lu Cheng</u>, Paolo Bocchini, Minghui Cheng. Journal of Structure and Infrastructure Engineering. 2026.                 
 * InsurAgent: A Large Language Model-Empowered Agent for Simulating Individual Behavior in Purchasing Flood Insurance [[pdf]](https://arxiv.org/abs/2511.02119)                        
   Ziheng Geng; Jiachen Liu; Ran Cao;<u>Lu Cheng</u>; Dan M. Frangopol; Minghui Cheng. Journal of Risk and Uncertainty Analysis. 2026
 * CP-Router: An Uncertainty-Aware Router Between LLM and LRM [[pdf]](https://arxiv.org/pdf/2505.19970?)                       
