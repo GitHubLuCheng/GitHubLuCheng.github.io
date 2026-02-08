@@ -14,6 +14,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [You and your research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 <h3>News</h3>
+- [02/2026] Three papers accepted to PAKDD'2026
 - [02/2026] Invited talk at CME Group.
 - [02/2026] Invited talk at WSDM'26 CausalBench Workshop.
 - [02/2026] One paper accepted to the Journal of Structure and Infrastructure Engineering. 
