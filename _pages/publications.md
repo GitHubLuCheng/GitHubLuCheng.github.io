@@ -27,9 +27,7 @@ author_profile: true
 * What Shapes a Creative Machine Mind? Comprehensively Benchmarking Creativity in Foundation Models [[pdf]](https://arxiv.org/pdf/2510.04009)                                 
   Zicong He\*, Boxuan Zhang\*, Weihao Liu\*, Ruixiang Tang, <u>Lu Cheng</u>                                     
 * SOM-1k: A thousand-problem benchmark dataset for strength of materials [[pdf]](https://arxiv.org/pdf/2509.21079)                                 
-  Qixin Wan, Zilong Wang, Jingwen Zhou, Wanting Wang, Ziheng Geng, Jiachen Liu, Ran Cao, Minghui Cheng, <u>Lu Cheng</u>                                                                                   
-* Smart Trial: Evaluating the Use of Large Language Models for Recruiting Clinical Trial Participants via Social Media [[pdf]](https://arxiv.org/pdf/2509.10584)                              
-  Xiaofan Zhou, Zisu Wang, Janice Krieger, Mohan Zalake, <u>Lu Cheng</u>
+  Qixin Wan, Zilong Wang, Jingwen Zhou, Wanting Wang, Ziheng Geng, Jiachen Liu, Ran Cao, Minghui Cheng, <u>Lu Cheng</u>                                                             
 * Credence Calibration Game: Calibrating Large Language Models through Structured Play [[pdf]](https://arxiv.org/pdf/2508.14390)                          
   Ke Fang, Tianyi Zhao, <u>Lu Cheng</u>    
     
@@ -47,6 +45,12 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards.                        
+  Dengjia Zhang, Xiaoou Liu, <u>Lu Cheng</u>, Yaqing Wang, Kenton Murray, Hua Wei. PAKDD'2026                       
+*  Evaluating Social Bias in RAG Systems: When External Context Helps and Reasoning Hurts                           
+  Shweta Parihar, <u>Lu Cheng</u>. PAKDD'2026
+* Smart Trial: Evaluating the Use of Large Language Models for Recruiting Clinical Trial Participants via Social Media [[pdf]](https://arxiv.org/pdf/2509.10584)                              
+  Xiaofan Zhou, Zisu Wang, Janice Krieger, Mohan Zalake, <u>Lu Cheng</u>. PAKDD'2026
 * A Large Language Model-Empowered Agent for Reliable and Robust Structural Analysis [[pdf]](https://www.arxiv.org/abs/2507.02938)          
   Jiachen Liu\*, Ziheng Geng\*, Ran Cao, <u>Lu Cheng</u>, Paolo Bocchini, Minghui Cheng. Journal of Structure and Infrastructure Engineering. 2026.                 
 * InsurAgent: A Large Language Model-Empowered Agent for Simulating Individual Behavior in Purchasing Flood Insurance [[pdf]](https://arxiv.org/abs/2511.02119)                        
