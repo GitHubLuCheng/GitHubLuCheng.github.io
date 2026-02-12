@@ -4,6 +4,7 @@ title: ""
 permalink: /talks/
 author_profile: true
 ---
+- Uncertainty-Aware and Conformally Reliable Language Models, CME Group, 2026 Feb. 
 - A Mini-Tutorial on Responsible and Trustworthy Generative Foundation Models, NSF SkAI Institute, 2025 Dec.
 - From Probabilities to Possibilities: Uncertainty and Creativity in Foundation Models, LUC, 2025 Dec.
 - Conformal Methods for Reliable and Fair Machine Learning, IDEAL Graph Representation Learning Workshop, 2024 May.
