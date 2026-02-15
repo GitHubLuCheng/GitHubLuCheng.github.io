@@ -12,7 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
-* When and What to Ask: AskBench and Rubric-Guided RLVR for LLM Clarification [[pdf]](https://arxiv.org/pdf/2602.11199v1)                 Jiale Zhao, Ke Fang, <u>Lu Cheng</u>                     
+* When and What to Ask: AskBench and Rubric-Guided RLVR for LLM Clarification [[pdf]](https://arxiv.org/pdf/2602.11199v1)               
+           Jiale Zhao, Ke Fang, <u>Lu Cheng</u>                     
 * TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning [[pdf]](https://arxiv.org/abs/2601.21135)                               
   Shicheng Fan, Kun Zhang, <u>Lu Cheng</u>                         
 * QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation [[pdf]](https://arxiv.org/pdf/2512.19134)              
