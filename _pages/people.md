@@ -8,9 +8,9 @@ author_profile: true
 
 ### PhD Students 
 - [Xiaofan Zhou](https://alearzhou.github.io/), 2024 Fall - 
-- [Weihao Liu](https://scholar.google.com/citations?hl=en&user=eH3LCxEAAAAJ&view_op=list_works&sortby=pubdate), 2025 Fall -
+- [Weihao Liu](https://neosknight233.github.io/), 2025 Fall -
 - [Dehai Min](https://scholar.google.com/citations?user=lVn0bHUAAAAJ&hl=en), 2025 Fall -
-- Shicheng Fan, 2025 Fall -
+- [Shicheng Fan](https://shichengf.github.io/), 2025 Fall -
 - Haochang Hao, 2025 Fall -
 - Ke Fang, 2026 Spring -
 
