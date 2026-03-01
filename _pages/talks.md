@@ -4,6 +4,7 @@ title: ""
 permalink: /talks/
 author_profile: true
 ---
+- Causal Discovery for Biology: From Molecular to Disease Networks, WSDM CausalBench'26. 2026, Feb.                
 - Uncertainty-Aware and Conformally Reliable Language Models, CME Group, 2026 Feb. 
 - A Mini-Tutorial on Responsible and Trustworthy Generative Foundation Models, NSF SkAI Institute, 2025 Dec.
 - From Probabilities to Possibilities: Uncertainty and Creativity in Foundation Models, LUC, 2025 Dec.
