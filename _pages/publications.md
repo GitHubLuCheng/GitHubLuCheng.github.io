@@ -49,9 +49,9 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
-* SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards.                        
+* SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards [[pdf]](https://arxiv.org/pdf/2602.21158)                                      
   Dengjia Zhang, Xiaoou Liu, <u>Lu Cheng</u>, Yaqing Wang, Kenton Murray, Hua Wei. PAKDD'2026                       
-*  Evaluating Social Bias in RAG Systems: When External Context Helps and Reasoning Hurts                           
+*  Evaluating Social Bias in RAG Systems: When External Context Helps and Reasoning Hurts [[pdf]](https://arxiv.org/pdf/2602.09442)                                      
   Shweta Parihar, <u>Lu Cheng</u>. PAKDD'2026
 * Smart Trial: Evaluating the Use of Large Language Models for Recruiting Clinical Trial Participants via Social Media [[pdf]](https://arxiv.org/pdf/2509.10584)                              
   Xiaofan Zhou, Zisu Wang, Janice Krieger, Mohan Zalake, <u>Lu Cheng</u>. PAKDD'2026
@@ -71,7 +71,7 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
   Liangjie Huang, Dawei Li, Huan Liu, <u>Lu Cheng</u>.  IEEE Big Data'25.                  
 * Accelerating Causal Network Discovery of Alzheimer's Disease Biomarkers via Scientific Literature-based Retrieval Augmented Generation [[pdf]](https://arxiv.org/pdf/2504.08768)                        
   Xiaofan Zhou, Liangjie Huang, Pinyang Cheng, Wenpen Yin, Rui Zhang, Wenrui Hao, <u>Lu Cheng</u>. IEEE Big Data'25.           
-* Adaptive Degree-based Conformal Prediction for Individual Treatment Effect Estimation on Networked Data                        
+* Adaptive Degree-based Conformal Prediction for Individual Treatment Effect Estimation on Networked Data [[pdf]](https://ieeexplore.ieee.org/iel8/11400704/11400712/11402563.pdf)                                           
   Xiaofan Zhou, Jing Ma, <u>Lu Cheng</u>.  IEEE Big Data'25.                   
 * Moral Self-correction is Not An Innate Capability in Language Models [[pdf]](https://arxiv.org/pdf/2410.20513)                        
   Guangliang Liu\*, Zimo Qi\*, Xitong Zhang, <u>Lu Cheng</u>, Kristen Marie Johnson. IJCNLP-AACL'25 (Findings)                                                  
