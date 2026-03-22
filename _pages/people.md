@@ -16,7 +16,6 @@ author_profile: true
 
 ### Master and Undergraduate Students at UIC
 - Rajvi Shah (Honors College), Undergraduate, 2024-
-- Shweta Parihar, Master student, 2024-
 - Olukolajo Sodipe (Honors College), Undergraduate, 2025-
 - Giovanni Vaccarino, Master student, 2025-
   
@@ -27,6 +26,7 @@ author_profile: true
 ### Alumini
 - Nathan Michael Hittesdorf, Master student at UIC. Next: Data scientist at CME Group.
 - Kailin Zhang, Master student at NYU, 2025.
+- Shweta Parihar, Master student, 2024-25.
 - Ke Fang, Master student at UPenn, 2025-26. Next: PhD Student at UIC.
 - Zicong He, Master student at Georgia Tech, 2024-2025
 - Boxuan Zhang, Master student at Wuhan University, 2024-2025. Next: PhD student at Rutgers. 
