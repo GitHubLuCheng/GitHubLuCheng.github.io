@@ -4,6 +4,8 @@ title: ""
 permalink: /tutorials/
 author_profile: true
 --- 
+*   Responsible GenFMs: From Foundational Principles to Real‑World Impact.                                 
+    Yue Huang, Canyu Chen, Lu Cheng, Bhavya Kaikhura, Manling Li, and Xiangliang Zhang.  ICDM, 2025.
 *   Socially Responsible and Trustworthy Generative Foundation Models: Principles, Challenges, and Practices                                       
     Yue Huang, Canyu Chen, <u>Lu Cheng</u>, Bhavya Kaikhura, Nitesh Chawla, and Xiangliang Zhang                                        
     CIKM 2025.
