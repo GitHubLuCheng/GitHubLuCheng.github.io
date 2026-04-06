@@ -49,7 +49,6 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
   Xiaofan Zhou, <u>Lu Cheng</u>. ACL'2026 Findings.
 * When and What to Ask: AskBench and Rubric-Guided RLVR for LLM Clarification [[pdf]](https://arxiv.org/pdf/2602.11199v1)               
            Jiale Zhao, Ke Fang, <u>Lu Cheng</u>. ACL'2026 Findings.
-        
 * SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards [[pdf]](https://arxiv.org/pdf/2602.21158)                                      
   Dengjia Zhang, Xiaoou Liu, <u>Lu Cheng</u>, Yaqing Wang, Kenton Murray, Hua Wei. PAKDD'2026                       
 *  Evaluating Social Bias in RAG Systems: When External Context Helps and Reasoning Hurts [[pdf]](https://arxiv.org/pdf/2602.09442)                                      
