@@ -13,17 +13,11 @@ author_profile: true
 
 ### New Preprints
 * Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens [[pdf]](https://arxiv.org/abs/2602.10229)                
-   Weihao Liu, Dehai Min, <u>Lu Cheng</u>
-* When and What to Ask: AskBench and Rubric-Guided RLVR for LLM Clarification [[pdf]](https://arxiv.org/pdf/2602.11199v1)               
-           Jiale Zhao, Ke Fang, <u>Lu Cheng</u>                     
+   Weihao Liu, Dehai Min, <u>Lu Cheng</u>               
 * TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning [[pdf]](https://arxiv.org/abs/2601.21135)                               
-  Shicheng Fan, Kun Zhang, <u>Lu Cheng</u>                         
-* QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation [[pdf]](https://arxiv.org/pdf/2512.19134)              
-  Dehai Min, Kailin Zhang, Tongtong Wu, <u>Lu Cheng</u>                 
+  Shicheng Fan, Kun Zhang, <u>Lu Cheng</u>                                        
 * Revisiting NLI: Towards Cost-Effective and Human-Aligned Metrics for Evaluating LLMs in Question Answering [[pdf]](https://arxiv.org/pdf/2511.07659)                                    
   Sai Shridhar Balamurali, <u>Lu Cheng</u>
-* Robust Uncertainty Quantification for Self-Evolving Large Language Models via Continual Domain Pretraining [[pdf]](https://arxiv.org/pdf/2510.22931)                                  
-  Xiaofan Zhou, <u>Lu Cheng</u>
 * MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs [[pdf]](https://arxiv.org/pdf/2511.14159)                     
   Huiyi Chen, Jiawei Peng, Dehai Min, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, <u>Lu Cheng</u>                  
 * A Lightweight Large Language Model-Based Multi-Agent System for 2D Frame Structural Analysis [[pdf]](https://arxiv.org/pdf/2510.05414)                                                   
@@ -49,6 +43,13 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation [[pdf]](https://arxiv.org/pdf/2512.19134)              
+  Dehai Min, Kailin Zhang, Tongtong Wu, <u>Lu Cheng</u>. ACL'2026 Findings.
+* Robust Uncertainty Quantification for Self-Evolving Large Language Models via Continual Domain Pretraining [[pdf]](https://arxiv.org/pdf/2510.22931)                                           
+  Xiaofan Zhou, <u>Lu Cheng</u>. ACL'2026 Findings.
+* When and What to Ask: AskBench and Rubric-Guided RLVR for LLM Clarification [[pdf]](https://arxiv.org/pdf/2602.11199v1)               
+           Jiale Zhao, Ke Fang, <u>Lu Cheng</u>. ACL'2026 Findings.
+        
 * SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards [[pdf]](https://arxiv.org/pdf/2602.21158)                                      
   Dengjia Zhang, Xiaoou Liu, <u>Lu Cheng</u>, Yaqing Wang, Kenton Murray, Hua Wei. PAKDD'2026                       
 *  Evaluating Social Bias in RAG Systems: When External Context Helps and Reasoning Hurts [[pdf]](https://arxiv.org/pdf/2602.09442)                                      
