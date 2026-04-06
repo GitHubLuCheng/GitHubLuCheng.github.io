@@ -12,6 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
+* Adaptive Stopping for Multi-Turn LLM Reasoning [[pdf]](https://arxiv.org/pdf/2604.01413)                               
+  Xiaofan Zhou, Huy Nguyen, Bo Yu, Chenxi Liu, <u>Lu Cheng</u>                              
 * Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens [[pdf]](https://arxiv.org/abs/2602.10229)                
    Weihao Liu, Dehai Min, <u>Lu Cheng</u>               
 * TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning [[pdf]](https://arxiv.org/abs/2601.21135)                               
