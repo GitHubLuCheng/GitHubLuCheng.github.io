@@ -14,6 +14,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [You and your research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 <h3>News</h3>
+- [04/2026] Invited to organize the Open SkAI Conference 2026
 - [04/2026] Three papers are accepted to ACL'2026 Findings.
 - [03/2026] Invited panelist in the Academic Panel on The Governance Challenge: Academic Approaches to Safe AI at the UIC AI Business and Society Symposium           
 - [02/2026] Three papers accepted to PAKDD'2026
