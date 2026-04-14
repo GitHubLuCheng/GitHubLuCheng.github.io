@@ -45,7 +45,9 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
-* QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation [[pdf]](https://arxiv.org/pdf/2512.19134)              
+* Post-Training Adaptive Conformal Prediction for Incomplete Time Series                                
+  Baiting Chen, Xiaofan Zhou, <u>Lu Cheng</u>. TMLR'2026                   
+*  QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation [[pdf]](https://arxiv.org/pdf/2512.19134)              
   Dehai Min, Kailin Zhang, Tongtong Wu, <u>Lu Cheng</u>. ACL'2026 Findings.
 * Robust Uncertainty Quantification for Self-Evolving Large Language Models via Continual Domain Pretraining [[pdf]](https://arxiv.org/pdf/2510.22931)                                           
   Xiaofan Zhou, <u>Lu Cheng</u>. ACL'2026 Findings.
