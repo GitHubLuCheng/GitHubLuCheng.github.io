@@ -31,11 +31,11 @@ author_profile: true
 - Zicong He, Master student at Georgia Tech, 2024-2025
 - Boxuan Zhang, Master student at Wuhan University, 2024-2025. Next: PhD student at Rutgers. 
 - Sai Shridhar Balamurali, Master student at UIC, 2024-25. Next: AI engineer at Foxbox Digital
-- Baiting Chen, Master student at UCLA, 2023-25
+- Baiting Chen, Master student at UCLA, 2023-25. Next: PhD student at UCLA.
 - Zimo Qi, Undergraduate at SUSTech, 2024-25. Next: Master's student at JHU.
 - Shreya Ganguly (Honors College), Undergraduate, 2024. Next: UIUC.
 - Jiancheng Dong, Undergraduate at Nanjing University, 2024.  Next: PhD student at City University of Hong Kong.
-- Jiayuan Su, Master student at ZJU-UIUC, 2023-24
+- Jiayuan Su, Master student at ZJU-UIUC, 2023-24. Next: Algorithm Engineer at Tencent.
 - Xinlin Peng, Undergraduate at ZJU, 2023-24
 - Tianyi Zhao, Master student at USC, 2022-25. Next: PhD student at UVA.
 - Shan Xie, Master student at Eindhoven Technology University, 2023-24
