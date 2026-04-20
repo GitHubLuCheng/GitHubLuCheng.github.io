@@ -45,6 +45,8 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* Early Risk Prediction with Temporally and Contextually Grounded Clinical Language Processing [[pdf]](https://arxiv.org/pdf/2511.22038)    
+  Rochana Chaturvedi, Yue Zhou, Andrew Boyd, Brian T Layden, Mudassir Rashid, <u>Lu Cheng</u>, Ali Cinar, Barbara Di Eugenio. TACL'2026
 * Post-Training Adaptive Conformal Prediction for Incomplete Time Series                                
   Baiting Chen, Xiaofan Zhou, <u>Lu Cheng</u>. TMLR'2026                   
 *  QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation [[pdf]](https://arxiv.org/pdf/2512.19134)              
