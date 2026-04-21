@@ -16,7 +16,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 <h3>News</h3>
 - [04/2026] Our paper "Early Risk Prediction with Temporally and Contextually Grounded Clinical Language Processing" is accepted to TACL'26.
 - [04/2026] Our paper "Post-Training Adaptive Conformal Prediction for Incomplete Time Series" is accepted to TMLR'26. 
-- [04/2026] Invited to organize the Open SkAI Conference 2026
+- [04/2026] Invited to organize the Open SkAI Conference 2026. Call for [Abstract Submission](https://www.openskai-conference.org/abstract-submission-registration/).
 - [04/2026] Three papers are accepted to ACL'2026 Findings.
 - [03/2026] Invited panelist in the Academic Panel on The Governance Challenge: Academic Approaches to Safe AI at the UIC AI Business and Society Symposium           
 - [02/2026] Three papers accepted to PAKDD'2026
