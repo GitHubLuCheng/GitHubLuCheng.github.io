@@ -41,3 +41,6 @@ author_profile: true
 - Tianyi Zhao, Master student at USC, 2022-25. Next: PhD student at UVA.
 - Shan Xie, Master student at Eindhoven Technology University, 2023-24
 - Bhuvani Shah, Undergraduate at UIC, 2022. Next: Software Engineer at Adyen
+  
+### Funding
+We would like to thank the following sponsors and funding agencies for supporting our research: NSF, NIH, Simons Foundation, Amazon, Cisco, Google, UIC Institute for Health Data Science Research, and DHS CINA. 
