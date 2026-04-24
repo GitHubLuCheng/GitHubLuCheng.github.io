@@ -19,7 +19,7 @@ author_profile: true
 - Olukolajo Sodipe (Honors College), Undergraduate, 2025-
 - Giovanni Vaccarino (Mentor: Dehai Min), Master student, 2025-
   
-### Visiting Students and Interns
+### Visiting Students
 - Huy Nguyen (Mentor: Xiaofan Zhou), Undergraduate at Augustana College, 2025-
 - Huiyi Chen, Master student at SEU & Monash University, 2025-
 - Jiale Zhao, Undergraduate at Chongqing University of Posts and Telecommunications, 2025-
