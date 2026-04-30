@@ -13,15 +13,9 @@ author_profile: true
 
 ### New Preprints
 * Adaptive Stopping for Multi-Turn LLM Reasoning [[pdf]](https://arxiv.org/pdf/2604.01413)                               
-  Xiaofan Zhou, Huy Nguyen, Bo Yu, Chenxi Liu, <u>Lu Cheng</u>                              
-* Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens [[pdf]](https://arxiv.org/abs/2602.10229)                
-   Weihao Liu, Dehai Min, <u>Lu Cheng</u>               
-* TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning [[pdf]](https://arxiv.org/abs/2601.21135)                               
-  Shicheng Fan, Kun Zhang, <u>Lu Cheng</u>                                        
+  Xiaofan Zhou, Huy Nguyen, Bo Yu, Chenxi Liu, <u>Lu Cheng</u>                                                                
 * Revisiting NLI: Towards Cost-Effective and Human-Aligned Metrics for Evaluating LLMs in Question Answering [[pdf]](https://arxiv.org/pdf/2511.07659)                                    
-  Sai Shridhar Balamurali, <u>Lu Cheng</u>
-* MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs [[pdf]](https://arxiv.org/pdf/2511.14159)                     
-  Huiyi Chen, Jiawei Peng, Dehai Min, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, <u>Lu Cheng</u>                  
+  Sai Shridhar Balamurali, <u>Lu Cheng</u>             
 * A Lightweight Large Language Model-Based Multi-Agent System for 2D Frame Structural Analysis [[pdf]](https://arxiv.org/pdf/2510.05414)                                                   
   Ziheng Geng\*, Jiachen Liu\*, Ran Cao, <u>Lu Cheng</u>, Haifeng Wang, Minghui Cheng                 
 * What Shapes a Creative Machine Mind? Comprehensively Benchmarking Creativity in Foundation Models [[pdf]](https://arxiv.org/pdf/2510.04009)                                 
@@ -45,6 +39,16 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution                     
+Xiaoou Liu, Tiejin Chen, Dengjia Zhang, Yaqing Wang, <u>Lu Cheng</u>, Hua Wei. ICML'2026
+* Differentiable Conformal Training for LLM Reasoning Factuality [[pdf]](https://arxiv.org/pdf/2604.20098)                    
+Nathan Hittesdorf, Marco Salzetta, <u>Lu Cheng</u>. ICML'2026
+* MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs [[pdf]](https://arxiv.org/pdf/2511.14159)                     
+  Huiyi Chen, Jiawei Peng, Dehai Min, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, <u>Lu Cheng</u>. ICML'2026     
+* Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens [[pdf]](https://arxiv.org/abs/2602.10229)                
+   Weihao Liu, Dehai Min, <u>Lu Cheng</u>. ICML'2026               
+* TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning [[pdf]](https://arxiv.org/abs/2601.21135)                               
+  Shicheng Fan, Kun Zhang, <u>Lu Cheng</u>. ICML'2026      
 * Early Risk Prediction with Temporally and Contextually Grounded Clinical Language Processing [[pdf]](https://arxiv.org/pdf/2511.22038)    
   Rochana Chaturvedi, Yue Zhou, Andrew Boyd, Brian T Layden, Mudassir Rashid, <u>Lu Cheng</u>, Ali Cinar, Barbara Di Eugenio. TACL'2026
 * Post-Training Adaptive Conformal Prediction for Incomplete Time Series                                
