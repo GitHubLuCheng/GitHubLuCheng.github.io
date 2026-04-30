@@ -254,17 +254,3 @@ Paras Sheth, Ruocheng Guo, Kaize Ding, <u>Lu Cheng</u>, K. Selcuk Candan, Huan L
 *   A Multi-objective Immune Genetic Algorithm for Project Scheduling on Multi-skill Resources  
     <u>Lu Cheng</u>, Guangrui Liao, Zhenyuan Liu  
     Applied Mechanics and Materials. 2014, Vol. 719-720, p1268-1274\. 7p.
-
-### Peer-reviewed Posters (with poster papers or abstracts)
-*   BullyBlocker: Integrating Data, Computer, and Psychological Science to Identify Cyberbullying on Social Media  
-    B. Wheeler, <u>L. Cheng</u>, D. Hall, and Y. N. Silva  
-    The 2020 Women in Statistics and Data Science Conference (WSDS), 2020.
-*   An interdisciplinary investigation of temporal aspects of cyberbullying on Instagram  
-    W. Yang, <u>L. Cheng</u>, K. Schodt, C. Shao, D. Hall, and Y. N. Silva  
-    The Annual Meeting of the Society for Personality & Social Psychology (SPSP), Portland, OR, USA, 2019.
-*   An Interdisciplinary Investigation of Temporal Aspects of Cyberbullying  
-    L. Jiang, A. Trow, V. Delgadillo, C. Sanchez, <u>L. Cheng</u>, Y. Silva, D. Hall.  
-    The Western Psychological Association (WPA) Convention, Portland, OR, USA, 2018.
-*   BullyBlocker: Detecting Cyberbullying Victimization Risk through an Interdisciplinary Identification Model  
-    A. Trow, L. Jiang, <u>L. Cheng</u>, C. Sanchez, V. Delgadillo, D. Hall, Y. Silva.  
-    The Western Psychological Association (WPA) Convention, Portland, OR, USA, 2018.
