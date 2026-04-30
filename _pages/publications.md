@@ -13,7 +13,9 @@ author_profile: true
 
 ### New Preprints
 * Adaptive Stopping for Multi-Turn LLM Reasoning [[pdf]](https://arxiv.org/pdf/2604.01413)                               
-  Xiaofan Zhou, Huy Nguyen, Bo Yu, Chenxi Liu, <u>Lu Cheng</u>                                                                
+  Xiaofan Zhou, Huy Nguyen, Bo Yu, Chenxi Liu, <u>Lu Cheng</u>
+* SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems [[pdf]](https://arxiv.org/pdf/2603.03536)     
+  Haochang Hao\*, Yifan Xu\*, Yingqiang Ge, <u>Lu Cheng</u>                                                            
 * Revisiting NLI: Towards Cost-Effective and Human-Aligned Metrics for Evaluating LLMs in Question Answering [[pdf]](https://arxiv.org/pdf/2511.07659)                                    
   Sai Shridhar Balamurali, <u>Lu Cheng</u>             
 * A Lightweight Large Language Model-Based Multi-Agent System for 2D Frame Structural Analysis [[pdf]](https://arxiv.org/pdf/2510.05414)                                                   
