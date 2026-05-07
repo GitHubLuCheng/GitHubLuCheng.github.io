@@ -4,6 +4,7 @@ title: ""
 permalink: /talks/
 author_profile: true
 ---
+- Trustworthy AI for Time Series: Adaptive Conformal Prediction Under Drift and Missingness, SkAI Spring, 2026 May.
 - Reliable AI Beyond Accuracy, PSU, 2026 Feb
 - Causal Discovery for Biology: From Molecular to Disease Networks, WSDM CausalBench'26. 2026, Feb.                
 - Uncertainty-Aware and Conformally Reliable Language Models, CME Group, 2026 Feb. 
