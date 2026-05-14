@@ -21,10 +21,10 @@ author_profile: true
   
 ### Visiting Students
 - Huy Nguyen (Mentor: Xiaofan Zhou), Undergraduate at Augustana College, 2025-
-- Huiyi Chen, Master student at SEU & Monash University, 2025-
 - Jiale Zhao, Undergraduate at Chongqing University of Posts and Telecommunications, 2025-
 
 ### Alumini
+- Huiyi Chen, Master student at SEU & Monash University, 2025-2026.
 - Nathan Michael Hittesdorf, Master student at UIC. Next: Data scientist at CME Group.
 - Kailin Zhang (Mentor: Dehai Min), Master student at NYU, 2025.
 - Shweta Parihar, Master student, 2024-25.
