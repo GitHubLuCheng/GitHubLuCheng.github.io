@@ -8,10 +8,6 @@ author_profile: true
 
 ### PhD Students 
 - [Xiaofan Zhou](https://alearzhou.github.io/), 2024 Summer - 
-- [Weihao Liu](https://neosknight233.github.io/), 2025 - 2026
-- [Dehai Min](https://scholar.google.com/citations?user=lVn0bHUAAAAJ&hl=en), 2025 - 2026
-- [Shicheng Fan](https://shichengf.github.io/), 2025 - 2026
-- Haochang Hao, 2025 - 2026
 - Ke Fang, 2026 Spring -
 
 ### Master and Undergraduate Students at UIC
@@ -24,6 +20,10 @@ author_profile: true
 - Jiale Zhao, Undergraduate at Chongqing University of Posts and Telecommunications, 2025-
 
 ### Alumini
+- [Weihao Liu](https://neosknight233.github.io/), PhD student at UIC. 2025 - 2026
+- [Dehai Min](https://scholar.google.com/citations?user=lVn0bHUAAAAJ&hl=en), PhD student at UIC. 2025 - 2026
+- [Shicheng Fan](https://shichengf.github.io/), PhD student at UIC. 2025 - 2026
+- Haochang Hao, 2025 - 2026. PhD student at UIC.
 - Huiyi Chen, Master student at SEU & Monash University, 2025-2026.
 - Nathan Michael Hittesdorf, Master student at UIC. Next: Data scientist at CME Group.
 - Kailin Zhang (Mentor: Dehai Min), Master student at NYU, 2025.
