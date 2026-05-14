@@ -23,7 +23,7 @@ author_profile: true
 - [Weihao Liu](https://neosknight233.github.io/), PhD student at UIC. 2025 - 2026
 - [Dehai Min](https://scholar.google.com/citations?user=lVn0bHUAAAAJ&hl=en), PhD student at UIC. 2025 - 2026
 - [Shicheng Fan](https://shichengf.github.io/), PhD student at UIC. 2025 - 2026
-- Haochang Hao, 2025 - 2026. PhD student at UIC.
+- Haochang Hao,  PhD student at UIC. 2025 - 2026
 - Huiyi Chen, Master student at SEU & Monash University, 2025-2026.
 - Nathan Michael Hittesdorf, Master student at UIC. Next: Data scientist at CME Group.
 - Kailin Zhang (Mentor: Dehai Min), Master student at NYU, 2025.
