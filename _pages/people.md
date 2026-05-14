@@ -27,8 +27,8 @@ author_profile: true
 - Huiyi Chen, Master student at SEU & Monash University, 2025-2026.
 - Nathan Michael Hittesdorf, Master student at UIC. Next: Data scientist at CME Group.
 - Kailin Zhang (Mentor: Dehai Min), Master student at NYU, 2025.
-- Shweta Parihar, Master student, 2024-25.
-- Ke Fang, Master student at UPenn, 2025-26. Next: PhD Student at UIC.
+- Shweta Parihar, Master student, 2024-25. Next: PhD student at NJIT.
+- Ke Fang, Master student at UPenn, 2025-26. Next: PhD student at UIC.
 - Zicong He, Master student at Georgia Tech, 2024-2025
 - Boxuan Zhang, Master student at Wuhan University, 2024-2025. Next: PhD student at Rutgers. 
 - Sai Shridhar Balamurali, Master student at UIC, 2024-25. Next: AI engineer at Foxbox Digital
