@@ -7,11 +7,11 @@ author_profile: true
 #### I'm grateful to work with these self-motivated and curious students!
 
 ### PhD Students 
-- [Xiaofan Zhou](https://alearzhou.github.io/), 2024 Fall - 
-- [Weihao Liu](https://neosknight233.github.io/), 2025 Fall -
-- [Dehai Min](https://scholar.google.com/citations?user=lVn0bHUAAAAJ&hl=en), 2025 Fall -
-- [Shicheng Fan](https://shichengf.github.io/), 2025 Fall -
-- Haochang Hao, 2025 Fall -
+- [Xiaofan Zhou](https://alearzhou.github.io/), 2024 Summer - 
+- [Weihao Liu](https://neosknight233.github.io/), 2025 - 2026
+- [Dehai Min](https://scholar.google.com/citations?user=lVn0bHUAAAAJ&hl=en), 2025 - 2026
+- [Shicheng Fan](https://shichengf.github.io/), 2025 - 2026
+- Haochang Hao, 2025 - 2026
 - Ke Fang, 2026 Spring -
 
 ### Master and Undergraduate Students at UIC
