@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track Assistant Professor in the [Department of Computer Science](https://cs.uic.edu/) at [University of Illinois Chicago (UIC)](https://www.uic.edu/). I lead the Responsible and Reliable AI Lab (R<sup>2</sup> Lab). I received my PhD degree in Computer Science at Arizona State University (ASU) in 2022 advised by Dr. [Huan Liu](https://scholar.google.com/citations?user=Dzf46C8AAAAJ&hl=en), M.Eng. degree in Industrial Engineering at Rensselaer Polytechnic Institute (RPI), and B.Eng. degree in Industrial Engineering at Huazhong University of Science & Technology (HUST). My research interests are broadly in AI, with a particular focus on responsible and reliable AI, causal machine learning, foundation models, and their applications in science and engineering, and in AI for good. More details can be found in my [CV](https://drive.google.com/file/d/1XZKQJTNyawHf67Erg1MiAwDnyXVvjLLv/view?usp=sharing) (Updated on 4/17/26).
+I am a tenure-track Assistant Professor in the [Department of Computer Science](https://cs.uic.edu/) at [University of Illinois Chicago (UIC)](https://www.uic.edu/). I lead the Responsible and Reliable AI Lab (R<sup>2</sup> Lab). I received my PhD degree in Computer Science at Arizona State University (ASU) in 2022 advised by Dr. [Huan Liu](https://scholar.google.com/citations?user=Dzf46C8AAAAJ&hl=en). My research interests are broadly in AI, with a particular focus on responsible and reliable AI, causal AI, world foundation models, and their applications in science and engineering, and in AI for good. More details can be found in my [CV](https://drive.google.com/file/d/1XZKQJTNyawHf67Erg1MiAwDnyXVvjLLv/view?usp=sharing) (Updated on 4/17/26).
 
 **Prospective students**: I am constantly seeking curious and self-motivated PhD students. If you are interested, please email me your CV and transcript(s). Preference will be given to students who have worked with me before. I'm also happy to work with self-funded master's and undergraduate students.
+
+<span style="color: red;">Our group will join PSU CSE department in 2026 Fall. Please apply from there if you are interested in working with us. </span>
 
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [You and your research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
