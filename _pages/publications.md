@@ -12,10 +12,10 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
+* MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series [[pdf]](https://arxiv.org/html/2605.05524v1)                                            
+  Shicheng Fan, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng
 * Adaptive Stopping for Multi-Turn LLM Reasoning [[pdf]](https://arxiv.org/pdf/2604.01413)                               
-  Xiaofan Zhou, Huy Nguyen, Bo Yu, Chenxi Liu, <u>Lu Cheng</u>
-* SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems [[pdf]](https://arxiv.org/pdf/2603.03536)     
-  Haochang Hao\*, Yifan Xu\*, Yingqiang Ge, <u>Lu Cheng</u>                                                            
+  Xiaofan Zhou, Huy Nguyen, Bo Yu, Chenxi Liu, <u>Lu Cheng</u>                                                          
 * Revisiting NLI: Towards Cost-Effective and Human-Aligned Metrics for Evaluating LLMs in Question Answering [[pdf]](https://arxiv.org/pdf/2511.07659)                                    
   Sai Shridhar Balamurali, <u>Lu Cheng</u>             
 * A Lightweight Large Language Model-Based Multi-Agent System for 2D Frame Structural Analysis [[pdf]](https://arxiv.org/pdf/2510.05414)                                                   
@@ -41,6 +41,12 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* Temporal Graph Prototype-conditioned Conformal Prediction for Fraud Detection                                      
+  Xudong Chen, Shengbo Gong, Lu Cheng, Wei Jin. KDD'2026
+* The Confidence Trap: Calibration Attacks for Graph Neural Networks                                         
+  Dang Cao Cuong, Jiahao Zhang, HIEU TA QUANG, Dung D. Le, Lu Cheng, Suhang Wang. KDD'2026
+* SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems [[pdf]](https://arxiv.org/pdf/2603.03536)     
+  Haochang Hao\*, Yifan Xu\*, Yingqiang Ge, <u>Lu Cheng</u>. KDD'2026  
 * Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution                     
 Xiaoou Liu, Tiejin Chen, Dengjia Zhang, Yaqing Wang, <u>Lu Cheng</u>, Hua Wei. ICML'2026
 * Differentiable Conformal Training for LLM Reasoning Factuality [[pdf]](https://arxiv.org/pdf/2604.20098)                    
