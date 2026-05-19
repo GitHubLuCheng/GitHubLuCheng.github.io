@@ -59,7 +59,7 @@ Nathan Hittesdorf, Marco Salzetta, <u>Lu Cheng</u>. ICML'2026
   Shicheng Fan, Kun Zhang, <u>Lu Cheng</u>. ICML'2026      
 * Early Risk Prediction with Temporally and Contextually Grounded Clinical Language Processing [[pdf]](https://arxiv.org/pdf/2511.22038)    
   Rochana Chaturvedi, Yue Zhou, Andrew Boyd, Brian T Layden, Mudassir Rashid, <u>Lu Cheng</u>, Ali Cinar, Barbara Di Eugenio. TACL'2026
-* Post-Training Adaptive Conformal Prediction for Incomplete Time Series                                
+* Post-Training Adaptive Conformal Prediction for Incomplete Time Series. [[pdf]](https://openreview.net/pdf/bc5b1f3cf33331fca072ddb0497af15a920e10ba.pdf)                                                
   Baiting Chen, Xiaofan Zhou, <u>Lu Cheng</u>. TMLR'2026                   
 *  QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation [[pdf]](https://arxiv.org/pdf/2512.19134)              
   Dehai Min, Kailin Zhang, Tongtong Wu, <u>Lu Cheng</u>. ACL'2026 Findings.
