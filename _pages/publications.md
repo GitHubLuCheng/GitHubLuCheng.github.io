@@ -12,6 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
+* Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models [[pdf]](https://arxiv.org/pdf/2605.17672)                                  
+  Dehai Min\*, Giovanni Vaccarino\*, Huiyi Chen, Yongliang Wu, Gal Yona, Lu Cheng     
 * MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series [[pdf]](https://arxiv.org/html/2605.05524v1)                                            
   Shicheng Fan, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng
 * Adaptive Stopping for Multi-Turn LLM Reasoning [[pdf]](https://arxiv.org/pdf/2604.01413)                               
