@@ -6,7 +6,7 @@ author_profile: true
 ---
 - Reliable AI Beyond Accuracy, ANL, 2026 June.
 - Toward Reliable LLMs under Uncertainty, Amazon, 2026 June.
-- AI Ethics 101, LSST-DA, 2026 June.
+- Responsible AI 101, LSST-DA, 2026 June.
 - Trustworthy AI for Time Series: Adaptive Conformal Prediction Under Drift and Missingness, SkAI Spring, 2026 May.
 - Reliable AI Beyond Accuracy, PSU, 2026 Feb
 - Causal Discovery for Biology: From Molecular to Disease Networks, WSDM CausalBench'26. 2026, Feb. [Abstract](https://dl.acm.org/doi/pdf/10.1145/3779211.3793180)               
