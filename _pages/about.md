@@ -16,6 +16,9 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [You and your research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 <h3>News</h3>
+- [06/2026] Invited talk at Argonne National Lab.
+- [06/2026] Invited talk at Amazon. 
+- [06/2026] Invited lecture on AI ethics at the LSST Discovery Alliance (LSST-DA).
 - [05/2026] Three papers accepted to KDD'26.
 - [04/2026] Five papers accepted to ICML'26.
 - [04/2026] Our paper "Early Risk Prediction with Temporally and Contextually Grounded Clinical Language Processing" is accepted to TACL'26.
