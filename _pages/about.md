@@ -18,7 +18,7 @@ I am a tenure-track Assistant Professor in the [Department of Computer Science](
 <h3>News</h3>
 - [06/2026] Invited talk at Argonne National Lab.
 - [06/2026] Invited talk at Amazon. 
-- [06/2026] Invited lecture on AI ethics at the LSST Discovery Alliance (LSST-DA).
+- [06/2026] Invited lecture on Socially Responsibel AI at the LSST Discovery Alliance (LSST-DA).
 - [05/2026] Three papers accepted to KDD'26.
 - [04/2026] Five papers accepted to ICML'26.
 - [04/2026] Our paper "Early Risk Prediction with Temporally and Contextually Grounded Clinical Language Processing" is accepted to TACL'26.
