@@ -45,7 +45,7 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 ### Accepted Papers
 * Temporal Graph Prototype-conditioned Conformal Prediction for Fraud Detection                                      
   Xudong Chen, Shengbo Gong, Lu Cheng, Wei Jin. KDD'2026
-* The Confidence Trap: Calibration Attacks for Graph Neural Networks                                         
+* The Confidence Trap: Calibration Attacks for Graph Neural Networks [[pdf]](https://arxiv.org/abs/2606.08467)                                                                        
   Dang Cao Cuong, Jiahao Zhang, HIEU TA QUANG, Dung D. Le, Lu Cheng, Suhang Wang. KDD'2026
 * SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems [[pdf]](https://arxiv.org/pdf/2603.03536)     
   Haochang Hao\*, Yifan Xu\*, Yingqiang Ge, <u>Lu Cheng</u>. KDD'2026  
