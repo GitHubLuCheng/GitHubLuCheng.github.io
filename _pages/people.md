@@ -8,27 +8,30 @@ author_profile: true
 
 ### PhD Students 
 - [Xiaofan Zhou](https://alearzhou.github.io/), 2024 Summer -
-- [Weihao Liu](https://neosknight233.github.io/), 2025 Fall - 
-- [Dehai Min](https://scholar.google.com/citations?user=lVn0bHUAAAAJ&hl=en), 2025 Fall - 
-- [Shicheng Fan](https://shichengf.github.io/), 2025 Fall - 
-- Haochang Hao, 2025 Fall - 
 - Ke Fang, 2026 Spring -
+- Jiale Zhao, 2026 Fall -
+- Zhilin Zhang, 2026 Fall -
+- Yupu Yao, 2026 Fall -
 
 ### Master and Undergraduate Students at UIC
 - Rajvi Shah (Honors College), Undergraduate, 2024-
 - Olukolajo Sodipe (Honors College), Undergraduate, 2025-
 - Giovanni Vaccarino (Mentor: Dehai Min), Master student, 2025-
+- Vaishnavi Jadhav, 2026- 
   
 ### Visiting Students
 - Huy Nguyen (Mentor: Xiaofan Zhou), Undergraduate at Augustana College, 2025-
-- Jiale Zhao, Undergraduate at Chongqing University of Posts and Telecommunications, 2025-
 
 ### Alumini
-- Huiyi Chen, Master student at SEU & Monash University, 2025-2026.
+- Weihao Liu, 2025 - 2026. PhD student at UIC.
+- Dehai Min, 2025 - 2026. PhD student at UIC.
+- Shicheng Fan, 2025 - 2026. PhD student at UIC.
+- Haochang Hao, 2025-2026. PhD student at UIC.
+- Huiyi Chen, Master student at SEU & Monash University, 2025-2026. Next: PhD student at UIC.
 - Nathan Michael Hittesdorf, Master student at UIC. Next: Data scientist at CME Group.
 - Kailin Zhang (Mentor: Dehai Min), Master student at NYU, 2025.
 - Shweta Parihar, Master student, 2024-25. Next: PhD student at NJIT.
-- Ke Fang, Master student at UPenn, 2025-26. Next: PhD student at UIC.
+- Ke Fang, Master student at UPenn, 2025-26. Next: PhD student at PSU.
 - Zicong He, Master student at Georgia Tech, 2024-2025
 - Boxuan Zhang, Master student at Wuhan University, 2024-2025. Next: PhD student at Rutgers. 
 - Sai Shridhar Balamurali, Master student at UIC, 2024-25. Next: AI engineer at Foxbox Digital
