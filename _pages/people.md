@@ -16,8 +16,9 @@ author_profile: true
 ### Master and Undergraduate Students at UIC
 - Rajvi Shah (Honors College), Undergraduate, 2024-
 - Olukolajo Sodipe (Honors College), Undergraduate, 2025-
+- Adit Sharma (Mentor: Xiaofan Zhou), Undergraduate, 2026-
 - Giovanni Vaccarino (Mentor: Dehai Min), Master student, 2025-
-- Vaishnavi Jadhav, 2026- 
+- Vaishnavi Jadhav, Master student, 2026- 
   
 ### Visiting Students
 - Huy Nguyen (Mentor: Xiaofan Zhou), Undergraduate at Augustana College, 2025-
