@@ -53,7 +53,7 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
   Dang Cao Cuong, Jiahao Zhang, HIEU TA QUANG, Dung D. Le, Lu Cheng, Suhang Wang. KDD'2026
 * SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems [[pdf]](https://arxiv.org/pdf/2603.03536)     
   Haochang Hao\*, Yifan Xu\*, Yingqiang Ge, <u>Lu Cheng</u>. KDD'2026  
-* Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution                     
+* Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution [[pdf]](https://arxiv.org/abs/2605.19228)                    
 Xiaoou Liu, Tiejin Chen, Dengjia Zhang, Yaqing Wang, <u>Lu Cheng</u>, Hua Wei. ICML'2026
 * Differentiable Conformal Training for LLM Reasoning Factuality [[pdf]](https://arxiv.org/pdf/2604.20098)                    
 Nathan Hittesdorf, Marco Salzetta, <u>Lu Cheng</u>. ICML'2026
