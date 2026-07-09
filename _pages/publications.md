@@ -12,6 +12,10 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
+* ConfDock: Atom-specific Uncertainty Quantification for Molecular Docking via Conformal Prediction [[pdf]](https://www.biorxiv.org/content/10.64898/2026.06.29.735353v1)                                             
+  Haochang Hao, Nour Elhendawy, Yihang Wang\*, Lu Cheng\*
+* Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering [[pdf]](https://arxiv.org/pdf/2605.29648)
+  Shicheng Fan\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng        
 * Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models [[pdf]](https://arxiv.org/pdf/2605.17672)                                  
   Dehai Min\*, Giovanni Vaccarino\*, Huiyi Chen, Yongliang Wu, Gal Yona, Lu Cheng     
 * MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series [[pdf]](https://arxiv.org/html/2605.05524v1)                                            
