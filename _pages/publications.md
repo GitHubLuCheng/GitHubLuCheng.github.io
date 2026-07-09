@@ -14,7 +14,7 @@ author_profile: true
 ### New Preprints
 * ConfDock: Atom-specific Uncertainty Quantification for Molecular Docking via Conformal Prediction [[pdf]](https://www.biorxiv.org/content/10.64898/2026.06.29.735353v1)                                             
   Haochang Hao, Nour Elhendawy, Yihang Wang\*, Lu Cheng\*
-* Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering [[pdf]](https://arxiv.org/pdf/2605.29648)
+* Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering [[pdf]](https://arxiv.org/pdf/2605.29648)                             
   Shicheng Fan\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng        
 * Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models [[pdf]](https://arxiv.org/pdf/2605.17672)                                  
   Dehai Min\*, Giovanni Vaccarino\*, Huiyi Chen, Yongliang Wu, Gal Yona, Lu Cheng     
@@ -47,6 +47,10 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning                              
+  Fangxu Yu, Tao Feng, Dehai Min, Lu Cheng, Ge Liu, Tianyi Zhou. COLM'2026
+* Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator                            
+  Shiping Yang, Shining Liang, Weihao Liu, Wenbiao Ding, Linjun Shou, Lu Cheng, Angel X Chang. COLM'2026                             
 * Temporal Graph Prototype-conditioned Conformal Prediction for Fraud Detection                                      
   Xudong Chen, Shengbo Gong, Lu Cheng, Wei Jin. KDD'2026
 * The Confidence Trap: Calibration Attacks for Graph Neural Networks [[pdf]](https://arxiv.org/abs/2606.08467)                                                                        
