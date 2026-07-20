@@ -21,9 +21,10 @@ author_profile: true
 - Vaishnavi Jadhav, Master student, 2026- 
   
 ### Visiting Students
-- Huy Nguyen (Mentor: Xiaofan Zhou), Undergraduate at Augustana College, 2025-
+- Guanyu Lyu, Master student at UChicago, 2026-
 
 ### Alumini
+- Huy Nguyen (Mentor: Xiaofan Zhou), Undergraduate at Augustana College, 2025-2026
 - Weihao Liu, 2025 - 2026. PhD student at UIC.
 - Dehai Min, 2025 - 2026. PhD student at UIC.
 - Shicheng Fan, 2025 - 2026. PhD student at UIC.
