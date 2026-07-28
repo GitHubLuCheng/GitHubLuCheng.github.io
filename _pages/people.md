@@ -22,6 +22,8 @@ author_profile: true
   
 ### Visiting Students
 - Guanyu Lyu, Master student at UChicago, 2026-
+- Marcus Guo, High schooler at Woodside Priory School (Mentor: Ke Fang), 2026-
+- Jialin Qin, Independent researcher, 2026-
 
 ### Alumini
 - Huy Nguyen (Mentor: Xiaofan Zhou), Undergraduate at Augustana College, 2025-2026
