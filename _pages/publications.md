@@ -48,9 +48,9 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 
 ### Accepted Papers
 * Graph-Augmented LLMs for Social-Media–based Clinical Trial Recruitment [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6256514)                   
-  Xiaofan Zhou, Zisu Wang, Janice Krieger, Mohan Zalake, Lu Cheng     
+  Xiaofan Zhou, Zisu Wang, Janice Krieger, Mohan Zalake, Lu Cheng. Journal of Biomedical Informatics. 2026     
 * EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning [[pdf]](https://arxiv.org/abs/2601.03471)          
-  Mingyang Wei, Dehai Min, Zewen Liu, Yuzhang Xie, Guanchen Wu, Carl Yang, Max SY Lau, Qi He, Lu Cheng, Wei Jin
+  Mingyang Wei, Dehai Min, Zewen Liu, Yuzhang Xie, Guanchen Wu, Carl Yang, Max SY Lau, Qi He, Lu Cheng, Wei Jin. EMNLP'2026
 * TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning [[pdf]](https://arxiv.org/pdf/2607.08940)                                
   Fangxu Yu, Tao Feng, Dehai Min, Lu Cheng, Ge Liu, Tianyi Zhou. COLM'2026
 * Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator [[pdf]](https://arxiv.org/pdf/2607.07993)                              
