@@ -47,11 +47,15 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
-* TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning                              
+* Graph-Augmented LLMs for Social-Media–based Clinical Trial Recruitment [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6256514)                   
+  Xiaofan Zhou, Zisu Wang, Janice Krieger, Mohan Zalake, Lu Cheng     
+* EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning [[pdf]](https://arxiv.org/abs/2601.03471)          
+  Mingyang Wei, Dehai Min, Zewen Liu, Yuzhang Xie, Guanchen Wu, Carl Yang, Max SY Lau, Qi He, Lu Cheng, Wei Jin
+* TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning [[pdf]](https://arxiv.org/pdf/2607.08940)                                
   Fangxu Yu, Tao Feng, Dehai Min, Lu Cheng, Ge Liu, Tianyi Zhou. COLM'2026
-* Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator                            
+* Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator [[pdf]](https://arxiv.org/pdf/2607.07993)                              
   Shiping Yang, Shining Liang, Weihao Liu, Wenbiao Ding, Linjun Shou, Lu Cheng, Angel X Chang. COLM'2026                             
-* Temporal Graph Prototype-conditioned Conformal Prediction for Fraud Detection                                      
+* Temporal Graph Prototype-conditioned Conformal Prediction for Fraud Detection [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3770855.3818061)                                              
   Xudong Chen, Shengbo Gong, Lu Cheng, Wei Jin. KDD'2026
 * The Confidence Trap: Calibration Attacks for Graph Neural Networks [[pdf]](https://arxiv.org/abs/2606.08467)                                                                        
   Dang Cao Cuong, Jiahao Zhang, HIEU TA QUANG, Dung D. Le, Lu Cheng, Suhang Wang. KDD'2026
