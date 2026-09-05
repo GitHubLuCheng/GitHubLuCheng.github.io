@@ -9,9 +9,9 @@ author_profile: true
 ### PhD Students 
 - [Xiaofan Zhou](https://alearzhou.github.io/), 2024 Summer -
 - Ke Fang, 2026 Spring -
-- Jiale Zhao, 2026 Fall -
-- Zhilin Zhang, 2026 Fall -
+- [Zhilin Zhang](https://scholar.google.com/citations?user=vWTBvyQAAAAJ), 2026 Fall -
 - Yupu Yao, 2026 Fall -
+- Jiale Zhao, 2026 Fall -
 
 ### Master and Undergraduate Students at UIC
 - Rajvi Shah (Honors College), Undergraduate, 2024-
