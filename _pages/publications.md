@@ -12,6 +12,10 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
+* Escaping Redundant Reasoning: Structure-Aware Search for Inference-Time LLMs [[pdf]](https://arxiv.org/pdf/2609.00738)                           
+  Lu Cheng                     
+* REHEARSE: Experiential Rehearsal for Verbal Confidence Calibration in Large Language Models [[pdf]](https://arxiv.org/pdf/2508.14390)                          
+  Ke Fang, Tianyi Zhao, Qianwen Wang, <u>Lu Cheng</u>   
 * ConfDock: Atom-specific Uncertainty Quantification for Molecular Docking via Conformal Prediction [[pdf]](https://www.biorxiv.org/content/10.64898/2026.06.29.735353v1)                                             
   Haochang Hao, Nour Elhendawy, Yihang Wang\*, Lu Cheng\*
 * Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering [[pdf]](https://arxiv.org/pdf/2605.29648)                             
@@ -29,9 +33,7 @@ author_profile: true
 * What Shapes a Creative Machine Mind? Comprehensively Benchmarking Creativity in Foundation Models [[pdf]](https://arxiv.org/pdf/2510.04009)                                 
   Zicong He\*, Boxuan Zhang\*, Weihao Liu\*, Ruixiang Tang, <u>Lu Cheng</u>                                     
 * SOM-1k: A thousand-problem benchmark dataset for strength of materials [[pdf]](https://arxiv.org/pdf/2509.21079)                                 
-  Qixin Wan, Zilong Wang, Jingwen Zhou, Wanting Wang, Ziheng Geng, Jiachen Liu, Ran Cao, Minghui Cheng, <u>Lu Cheng</u>                                                             
-* Credence Calibration Game: Calibrating Large Language Models through Structured Play [[pdf]](https://arxiv.org/pdf/2508.14390)                          
-  Ke Fang, Tianyi Zhao, <u>Lu Cheng</u>    
+  Qixin Wan, Zilong Wang, Jingwen Zhou, Wanting Wang, Ziheng Geng, Jiachen Liu, Ran Cao, Minghui Cheng, <u>Lu Cheng</u>                            
     
 ### Books and Book Chapters
 * Socially Responsible AI: Theories and Practices [[Link]](https://www.worldscientific.com/worldscibooks/10.1142/13150#t=aboutBook)<br/>
