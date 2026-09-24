@@ -12,8 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
-* Escaping Redundant Reasoning: Structure-Aware Search for Inference-Time LLMs [[pdf]](https://arxiv.org/pdf/2609.00738)                           
-  Lu Cheng                     
+                  
 * REHEARSE: Experiential Rehearsal for Verbal Confidence Calibration in Large Language Models [[pdf]](https://arxiv.org/pdf/2508.14390)                          
   Ke Fang, Tianyi Zhao, Qianwen Wang, <u>Lu Cheng</u>   
 * ConfDock: Atom-specific Uncertainty Quantification for Molecular Docking via Conformal Prediction [[pdf]](https://www.biorxiv.org/content/10.64898/2026.06.29.735353v1)                                             
@@ -22,8 +21,6 @@ author_profile: true
   Shicheng Fan\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng        
 * Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models [[pdf]](https://arxiv.org/pdf/2605.17672)                                  
   Dehai Min\*, Giovanni Vaccarino\*, Huiyi Chen, Yongliang Wu, Gal Yona, Lu Cheng     
-* MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series [[pdf]](https://arxiv.org/html/2605.05524v1)                                            
-  Shicheng Fan, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng
 * Adaptive Stopping for Multi-Turn LLM Reasoning [[pdf]](https://arxiv.org/pdf/2604.01413)                               
   Xiaofan Zhou, Huy Nguyen, Bo Yu, Chenxi Liu, <u>Lu Cheng</u>                                                          
 * Revisiting NLI: Towards Cost-Effective and Human-Aligned Metrics for Evaluating LLMs in Question Answering [[pdf]](https://arxiv.org/pdf/2511.07659)                                    
@@ -49,6 +46,10 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* Escaping Reasoning Basin Collapse with History-Biased Search [[pdf]](https://arxiv.org/pdf/2609.00738)                           
+  Lu Cheng. NeurIPS'2026
+* MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series [[pdf]](https://arxiv.org/html/2605.05524v1)                                            
+  Shicheng Fan, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. NeurIPS'2026
 * Graph-Augmented LLMs for Social-Media–based Clinical Trial Recruitment [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6256514)                   
   Xiaofan Zhou, Zisu Wang, Janice Krieger, Mohan Zalake, Lu Cheng. Journal of Biomedical Informatics. 2026     
 * EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning [[pdf]](https://arxiv.org/abs/2601.03471)          
