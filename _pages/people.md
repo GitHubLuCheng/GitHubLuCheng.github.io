@@ -20,10 +20,10 @@ author_profile: true
 - Jialin Qin, Independent researcher, 2026-
 
 ### Alumini
-- Rajvi Shah (Honors College), Undergraduate, 2024-26
-- Olukolajo Sodipe (Honors College), Undergraduate, 2025-26
-- Giovanni Vaccarino (Mentor: Dehai Min), Master student, 2025-26
-- Vaishnavi Jadhav, Master student, 2026
+- Rajvi Shah (Honors College), Undergraduate at UIC, 2024-26
+- Olukolajo Sodipe (Honors College), Undergraduate at UIC, 2025-26
+- Giovanni Vaccarino (Mentor: Dehai Min), Master student at UIC, 2025-26
+- Vaishnavi Jadhav, Master student at UIC, 2026
 - Huy Nguyen (Mentor: Xiaofan Zhou), Undergraduate at Augustana College, 2025-2026
 - Weihao Liu, 2025 - 2026. PhD student at UIC.
 - Dehai Min, 2025 - 2026. PhD student at UIC.
