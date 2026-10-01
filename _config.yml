@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Lu Cheng, Assistant Professor"
   avatar           : "profile_1.png"
-  bio              : "Department of Computer Science, UIC"
-  location         : "CDRLC 5448"
+  bio              : "CSE & ICDS, PSU"
+  location         : "WestGate Building, W374"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9rpkTSkAAAAJ&hl=en"
-  email            : "lucheng@uic.edu"
+  email            : "lqc5822@psu.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
