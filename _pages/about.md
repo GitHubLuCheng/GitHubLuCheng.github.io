@@ -14,7 +14,8 @@ I am a tenure-track Assistant Professor with the Gaitonde Endowed Career Develop
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [You and your research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 <h3>News</h3>
-- [09/2026] Two papers are accepted to NeurIPS'26, including my first single-author paper! Thanks, Claude.
+- [10/2026] Invited to serve on the Advisory Committee for the PSU [ICDS AI Hub](https://ai.psu.edu/research-hub).
+-[09/2026] Two papers are accepted to NeurIPS'26, including my first single-author paper! Thanks, Claude.
 - [09/2026] Invited lecture on AI foundations at PSU ICDS Fall Workshop Series.
 - [08/2026] One paper accepted to the Journal of Biomedical Informatics. 
 - [08/2026] One paper accepted to EMNLP'26.
