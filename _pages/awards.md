@@ -4,6 +4,7 @@ title: ""
 permalink: /awards/
 author_profile: true
 ---
+*   Gaitonde Endowed Career Development Professor, 2026
 *   NSF CAREER, 2025
 *   Google Research Scholar Award, 2025
 *   Amazon Research Award, 2024
