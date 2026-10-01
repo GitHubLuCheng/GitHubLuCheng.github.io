@@ -12,20 +12,18 @@ author_profile: true
 - [Zhilin Zhang](https://scholar.google.com/citations?user=vWTBvyQAAAAJ), 2026 Fall -
 - Yupu Yao, 2026 Fall -
 - Jiale Zhao, 2026 Fall -
-
-### Master and Undergraduate Students at UIC
-- Rajvi Shah (Honors College), Undergraduate, 2024-
-- Olukolajo Sodipe (Honors College), Undergraduate, 2025-
-- Adit Sharma (Mentor: Xiaofan Zhou), Undergraduate, 2026-
-- Giovanni Vaccarino (Mentor: Dehai Min), Master student, 2025-
-- Vaishnavi Jadhav, Master student, 2026- 
   
 ### Visiting Students
+- Hengjia Liang, Master student at UChicago, 2026-
 - Guanyu Lyu, Master student at UChicago, 2026-
 - Marcus Guo, High schooler at Woodside Priory School (Mentor: Ke Fang), 2026-
 - Jialin Qin, Independent researcher, 2026-
 
 ### Alumini
+- Rajvi Shah (Honors College), Undergraduate, 2024-26
+- Olukolajo Sodipe (Honors College), Undergraduate, 2025-26
+- Giovanni Vaccarino (Mentor: Dehai Min), Master student, 2025-26
+- Vaishnavi Jadhav, Master student, 2026
 - Huy Nguyen (Mentor: Xiaofan Zhou), Undergraduate at Augustana College, 2025-2026
 - Weihao Liu, 2025 - 2026. PhD student at UIC.
 - Dehai Min, 2025 - 2026. PhD student at UIC.
