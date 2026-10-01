@@ -15,7 +15,7 @@ I am a tenure-track Assistant Professor with the Gaitonde Endowed Career Develop
 
 <h3>News</h3>
 - [10/2026] Invited to serve on the Advisory Committee for the PSU [ICDS AI Hub](https://ai.psu.edu/research-hub).
--[09/2026] Two papers are accepted to NeurIPS'26, including my first single-author paper! Thanks, Claude.
+- [09/2026] Two papers are accepted to NeurIPS'26, including my first single-author paper! Thanks, Claude.
 - [09/2026] Invited lecture on AI foundations at PSU ICDS Fall Workshop Series.
 - [08/2026] One paper accepted to the Journal of Biomedical Informatics. 
 - [08/2026] One paper accepted to EMNLP'26.
