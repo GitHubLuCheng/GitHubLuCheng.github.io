@@ -14,6 +14,7 @@ I am a tenure-track Assistant Professor with the Gaitonde Endowed Career Develop
 **What is a PhD like?** [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)/ [Advice for students and junior researchers](https://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)/ [You and your research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 <h3>News</h3>
+- [10/2026] Our (first) latent world model paper is [online](https://arxiv.org/pdf/2609.36333). Feedback is welcome!
 - [10/2026] Invited to serve as a meta-reviewer for WSDM'27 Demo Track.
 - [10/2026] Invited to serve on the Advisory Committee for the PSU [ICDS AI Hub](https://ai.psu.edu/research-hub).
 - [09/2026] Two papers are accepted to NeurIPS'26, including my first single-author paper! Thanks, Claude.
