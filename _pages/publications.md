@@ -12,7 +12,12 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
-                  
+* ATLAS: Aligned Transport of Latent Structure for Reliable World Model Planning [[pdf]](https://arxiv.org/pdf/2609.36333)                                  
+  Ke Fang\*, Yupu Yao\*, Lu Cheng
+* Streamlined Reflective Evolution for Task-Adaptive Self-Refinement Pipelines [[pdf]](https://arxiv.org/pdf/2609.32458)                             
+  Xiaofan Zhou, Lu Cheng
+* What Should the Reflector See? An Empirical Study of Evidence in Reflective Prompt Optimization [[pdf]](https://arxiv.org/pdf/2609.32452)                                 
+  Xiaofan Zhou, Lu Cheng 
 * REHEARSE: Experiential Rehearsal for Verbal Confidence Calibration in Large Language Models [[pdf]](https://arxiv.org/pdf/2508.14390)                          
   Ke Fang, Tianyi Zhao, Qianwen Wang, <u>Lu Cheng</u>   
 * ConfDock: Atom-specific Uncertainty Quantification for Molecular Docking via Conformal Prediction [[pdf]](https://www.biorxiv.org/content/10.64898/2026.06.29.735353v1)                                             
