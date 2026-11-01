@@ -4,6 +4,7 @@ title: ""
 permalink: /awards/
 author_profile: true
 ---
+* IEEE BigData Female Scholar Award, 2026
 *   Gaitonde Endowed Career Development Professor, 2026
 *   NSF CAREER, 2025
 *   Google Research Scholar Award, 2025
