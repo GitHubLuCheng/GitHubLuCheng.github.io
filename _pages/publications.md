@@ -18,8 +18,6 @@ author_profile: true
   Xiaofan Zhou, Lu Cheng
 * What Should the Reflector See? An Empirical Study of Evidence in Reflective Prompt Optimization [[pdf]](https://arxiv.org/pdf/2609.32452)                                 
   Xiaofan Zhou, Lu Cheng 
-* REHEARSE: Experiential Rehearsal for Verbal Confidence Calibration in Large Language Models [[pdf]](https://arxiv.org/pdf/2508.14390)                          
-  Ke Fang, Tianyi Zhao, Qianwen Wang, <u>Lu Cheng</u>   
 * ConfDock: Atom-specific Uncertainty Quantification for Molecular Docking via Conformal Prediction [[pdf]](https://www.biorxiv.org/content/10.64898/2026.06.29.735353v1)                                             
   Haochang Hao, Nour Elhendawy, Yihang Wang\*, Lu Cheng\*
 * Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering [[pdf]](https://arxiv.org/pdf/2605.29648)                             
@@ -51,6 +49,8 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* REHEARSE: Experiential Rehearsal for Verbal Confidence Calibration in Large Language Models [[pdf]](https://arxiv.org/pdf/2508.14390)                          
+  Ke Fang, Tianyi Zhao, Qianwen Wang, <u>Lu Cheng</u>. EACL'27 Findings.
 * Escaping Reasoning Basin Collapse with History-Biased Search [[pdf]](https://arxiv.org/pdf/2609.00738)                           
   Lu Cheng. NeurIPS'2026
 * MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series [[pdf]](https://arxiv.org/html/2605.05524v1)                                            
