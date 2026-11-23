@@ -12,6 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ### New Preprints
+* Dependence-Aware Conformal Prediction for 3D Uncertainty Quantification in Molecular Docking [[pdf]](https://www.biorxiv.org/content/10.64898/2026.11.20.768203v1)                                              
+  Guanyu Lyu, Haochang Hao, Yihang Wang\*, Lu Cheng\*
 * ATLAS: Aligned Transport of Latent Structure for Reliable World Model Planning [[pdf]](https://arxiv.org/pdf/2609.36333)                                  
   Ke Fang\*, Yupu Yao\*, Lu Cheng
 * Streamlined Reflective Evolution for Task-Adaptive Self-Refinement Pipelines [[pdf]](https://arxiv.org/pdf/2609.32458)                             
