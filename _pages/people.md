@@ -13,11 +13,11 @@ author_profile: true
 - Basar Temiz, 2027 Spring -
   
 ### Visiting Students
+- Jiale Zhao, 2025-
 - Hengjia Liang, Master student at UChicago, 2026-
 - Guanyu Lyu, Master student at UChicago, 2026-
 - Marcus Guo, High schooler at Woodside Priory School (Mentor: Ke Fang), 2026-
-- Yupu Yao, 2026 -
-- Jiale Zhao, 2025 -
+- Yupu Yao, 2026-
 - Jialin Qin, Independent researcher, 2026-
 
 ### Alumini
