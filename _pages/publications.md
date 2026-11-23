@@ -49,6 +49,8 @@ World Scientific. Featured in [E-Book Collection on AI and Internet of Things 2.
 </div>
 
 ### Accepted Papers
+* Geospatial and Temporal Patterns of Opioid Prescribing in California Before and After COVID-19: Insights from a 2017–2022 Analysis and Interactive Dashboard [[pdf]](https://sciety.org/articles/activity/10.21203/rs.3.rs-5456704/v2)                                 
+  Yun Wang, Zhouzhou Chu, Jing Ma, Ryan Stofer, Lu Cheng, Zhen Cong. Scientific Reports'27
 * REHEARSE: Experiential Rehearsal for Verbal Confidence Calibration in Large Language Models [[pdf]](https://arxiv.org/pdf/2508.14390)                          
   Ke Fang, Tianyi Zhao, Qianwen Wang, <u>Lu Cheng</u>. EACL'27 Findings.
 * Escaping Reasoning Basin Collapse with History-Biased Search [[pdf]](https://arxiv.org/pdf/2609.00738)                           
