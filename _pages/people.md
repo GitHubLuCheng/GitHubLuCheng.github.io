@@ -10,13 +10,14 @@ author_profile: true
 - [Xiaofan Zhou](https://alearzhou.github.io/), 2024 Summer -
 - [Ke Fang](https://annie969.github.io/), 2026 Spring -
 - [Zhilin Zhang](https://scholar.google.com/citations?user=vWTBvyQAAAAJ), 2026 Fall -
-- Yupu Yao, 2026 Fall -
-- Jiale Zhao, 2026 Fall -
+- Basar Temiz, 2027 Spring -
   
 ### Visiting Students
 - Hengjia Liang, Master student at UChicago, 2026-
 - Guanyu Lyu, Master student at UChicago, 2026-
 - Marcus Guo, High schooler at Woodside Priory School (Mentor: Ke Fang), 2026-
+- Yupu Yao, 2026 -
+- Jiale Zhao, 2025 -
 - Jialin Qin, Independent researcher, 2026-
 
 ### Alumini
