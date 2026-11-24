@@ -16,7 +16,7 @@ author_profile: true
 - Jiale Zhao, 2025-
 - Hengjia Liang, Master student at UChicago, 2026-
 - Guanyu Lyu, Master student at UChicago, 2026-
-- Marcus Guo, High schooler at Woodside Priory School (Mentor: Ke Fang), 2026-
+- Marcus Guo, High schooler at Woodside Priory School (Mentor: Ke Fang, with paper accepted to IEEE BigData'26 High School Track), 2026-
 - Yupu Yao, 2026-
 - Jialin Qin, Independent researcher, 2026-
 
