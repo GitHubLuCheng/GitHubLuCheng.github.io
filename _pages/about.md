@@ -19,6 +19,7 @@ I am a tenure-track Assistant Professor with the Gaitonde Endowed Career Develop
 - [11/2026] One paper accepted to EACL'27 Findings. 
 - [10/2026] Received IEEE BigData'26 Female Scholar Award!
 - [10/2026] Invited AC for ICML'27.
+- [10/2026] Our high schooler Marcus Guo's paper (mentored by Ke Fang) "Decomposing Disagreement in LLM Judges: Order Sensitivity and Stochasticity,” has been accepted to the IEEE BigData 2026 High School Symposium.
 - [10/2026] Our (first) latent world model paper is [online](https://arxiv.org/pdf/2609.36333). Feedback is welcome!
 - [10/2026] Invited to serve as a meta-reviewer for WSDM'27 Demo Track.
 - [10/2026] Invited to serve on the Advisory Committee for the PSU [ICDS AI Hub](https://ai.psu.edu/research-hub).
